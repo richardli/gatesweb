@@ -1,0 +1,11 @@
+/* move sidebar to very left */
+.md-sidebar--primary {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  left: 0 !important;
+  background-color: lightblue !important;
+}
+
+.md-container {
+  margin-left: 0 !important;
+}

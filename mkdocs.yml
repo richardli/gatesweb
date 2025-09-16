@@ -1,0 +1,135 @@
+site_name: Multi-Indicator Small Area Estimation Resource
+site_url: http://sae4healthGates.com
+theme:
+  name: material
+  custom_dir: overrides/landing_page
+
+  features:
+  - navigation.indexes
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.tracking
+  - navigation.top
+  - navigation.instant
+  - navigation.instant.progress
+  - search.highlight
+  - search.share
+  - search.suggest
+
+extra:
+  hide:
+    - toc
+
+
+nav:
+  - Home: index.md
+  - Nigeria: 
+    - Overview: country_selection/Nigeria/nigeria.md
+    - Child Health:
+      - DTP 3: country_selection/Nigeria/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Nigeria/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Nigeria/CH_VACC_C_NON.md
+      - Stunting: country_selection/Nigeria/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Nigeria/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Nigeria/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Nigeria/CO_MOBB_W_MOB.md
+      - Education: country_selection/Nigeria/ED_EDUC_W_SEH.md
+      - Literate: country_selection/Nigeria/ED_LITR_W_LIT.md
+      - MWRA: country_selection/Nigeria/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Nigeria/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - ANC Visits: country_selection/Nigeria/RH_ANCN_W_N4P.md
+      - Skilled Provider: country_selection/Nigeria/RH_DELA_C_SKP.md
+      - Health Facility: country_selection/Nigeria/RH_DELP_C_DHT.md
+  # - Rwanda: 
+  #   - Overview: country_selection/Rwanda/rwanda.md
+  #   - Child Health:
+  #     - DTP 3: country_selection/Rwanda/CH_VACC_C_DP3.md
+  #     - MCV 1: country_selection/Rwanda/CH_VACC_C_MSL.md
+  #     - No Vaccine: country_selection/Rwanda/CH_VACC_C_NON.md
+  #     - Stunting: country_selection/Rwanda/CN_NUTS_C_HA2.md
+  #     - Wasting: country_selection/Rwanda/CN_NUTS_C_WH2.md
+  #     - ITN: country_selection/Rwanda/ML_NETC_C_ITN.md
+  #   - Characteristics:
+  #     - Mobile Phone: country_selection/Rwanda/CO_MOBB_W_MOB.md
+  #     - Education: country_selection/Rwanda/ED_EDUC_W_SEH.md
+  #     - Literate: country_selection/Rwanda/ED_LITR_W_LIT.md
+  #     - MWRA: country_selection/Rwanda/FP_CUSM_W_MOD.md
+  #     - Wealth Quintiles: country_selection/Rwanda/HC_WIXQ_P_12Q.md
+  #   - Maternal Health:
+  #     - 4+ ANC Visits: country_selection/Rwanda/RH_ANCN_W_N4P.md
+  #     - Delivery by Skilled Provider: country_selection/Rwanda/RH_DELA_C_SKP.md
+  #     - Delivery in Health Facility: country_selection/Rwanda/RH_DELP_C_DHT.md
+  # - Senegal:
+  #   - Overview: country_selection/Senegal/senegal.md
+  #   - Child Health:
+  #     - DTP 3: country_selection/Senegal/CH_VACC_C_DP3.md
+  #     - MCV 1: country_selection/Senegal/CH_VACC_C_MSL.md
+  #     - No Vaccine: country_selection/Senegal/CH_VACC_C_NON.md
+  #     - Stunting: country_selection/Senegal/CN_NUTS_C_HA2.md
+  #     - Wasting: country_selection/Senegal/CN_NUTS_C_WH2.md
+  #     - ITN: country_selection/Senegal/ML_NETC_C_ITN.md
+  #   - Characteristics:
+  #     - Mobile Phone: country_selection/Senegal/CO_MOBB_W_MOB.md
+  #     - Education: country_selection/Senegal/ED_EDUC_W_SEH.md
+  #     - Literate: country_selection/Senegal/ED_LITR_W_LIT.md
+  #     - MWRA: country_selection/Senegal/FP_CUSM_W_MOD.md
+  #     - Wealth Quintiles: country_selection/Senegal/HC_WIXQ_P_12Q.md
+  #   - Maternal Health:
+  #     - 4+ ANC Visits: country_selection/Senegal/RH_ANCN_W_N4P.md
+  #     - Delivery by Skilled Provider: country_selection/Senegal/RH_DELA_C_SKP.md
+  #     - Delivery in Health Facility: country_selection/Senegal/RH_DELP_C_DHT.md
+  # - Kenya:
+  #   - Overview: country_selection/Kenya/kenya.md
+  #   - Child Health:
+  #     - DTP 3: country_selection/Kenya/CH_VACC_C_DP3.md
+  #     - MCV 1: country_selection/Kenya/CH_VACC_C_MSL.md
+  #     - No Vaccine: country_selection/Kenya/CH_VACC_C_NON.md
+  #     - Stunting: country_selection/Kenya/CN_NUTS_C_HA2.md
+  #     - Wasting: country_selection/Kenya/CN_NUTS_C_WH2.md
+  #     - ITN: country_selection/Kenya/ML_NETC_C_ITN.md
+  #   - Characteristics:
+  #     - Mobile Phone: country_selection/Kenya/CO_MOBB_W_MOB.md
+  #     - Education: country_selection/Kenya/ED_EDUC_W_SEH.md
+  #     - Literate: country_selection/Kenya/ED_LITR_W_LIT.md
+  #     - MWRA: country_selection/Kenya/FP_CUSM_W_MOD.md
+  #     - Wealth Quintiles: country_selection/Kenya/HC_WIXQ_P_12Q.md
+  #   - Maternal Health:
+  #     - 4+ ANC Visits: country_selection/Kenya/RH_ANCN_W_N4P.md
+  #     - Delivery by Skilled Provider: country_selection/Kenya/RH_DELA_C_SKP.md
+  #     - Delivery in Health Facility: country_selection/Kenya/RH_DELP_C_DHT.md
+  # - Mozambique:
+  #   - Overview: country_selection/Mozambique/mozambique.md
+  #   - Child Health:
+  #     - DTP 3: country_selection/Mozambique/CH_VACC_C_DP3.md
+  #     - MCV 1: country_selection/Mozambique/CH_VACC_C_MSL.md
+  #     - No Vaccine: country_selection/Mozambique/CH_VACC_C_NON.md
+  #     - Stunting: country_selection/Mozambique/CN_NUTS_C_HA2.md
+  #     - Wasting: country_selection/Mozambique/CN_NUTS_C_WH2.md
+  #     - ITN: country_selection/Mozambique/ML_NETC_C_ITN.md
+  #   - Characteristics:
+  #     - Mobile Phone: country_selection/Mozambique/CO_MOBB_W_MOB.md
+  #     - Education: country_selection/Mozambique/ED_EDUC_W_SEH.md
+  #     - Literate: country_selection/Mozambique/ED_LITR_W_LIT.md
+  #     - MWRA: country_selection/Mozambique/FP_CUSM_W_MOD.md
+  #     - Wealth Quintiles: country_selection/Mozambique/HC_WIXQ_P_12Q.md
+  #   - Maternal Health:
+  #     - 4+ ANC Visits: country_selection/Mozambique/RH_ANCN_W_N4P.md
+  #     - Delivery by Skilled Provider: country_selection/Mozambique/RH_DELA_C_SKP.md
+  #     - Delivery in Health Facility: country_selection/Mozambique/RH_DELP_C_DHT.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+
+extra_css:
+  - assets/stylesheets/custom.css
+  - overrides/extra.css
+  - stylesheets/extra.css
