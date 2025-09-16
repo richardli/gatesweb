@@ -13,7 +13,7 @@ This Indicator represents the percentage of women who own a mobile phone
   <div style="font-size: 20px">Year 2018</div>
 </div>
 
-<iframe src="../../../assets/images/NGA/CO_MOBB_W_MOB_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/RWA/CO_MOBB_W_MOB_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -37,9 +37,9 @@ This Indicator represents the percentage of women who own a mobile phone
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/NGA/CO_MOBB_W_MOB_ridge_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/RWA/CO_MOBB_W_MOB_ridge_adm1.png", style = "width: 470px; height: 1900px">
 
-<img src="../../../assets/images/NGA/CO_MOBB_W_MOB_ridge_diff_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/RWA/CO_MOBB_W_MOB_ridge_diff_adm1.png", style = "width: 470px; height: 1900px">
 
 </div>
 
@@ -54,8 +54,8 @@ This Indicator represents the percentage of women who own a mobile phone
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/NGA/CO_MOBB_W_MOB_ridge_adm2.png", style = "width: 450px; height: 1600px">
+<img src="../../../assets/images/RWA/CO_MOBB_W_MOB_ridge_adm2.png", style = "width: 450px; height: 1600px">
 
-<img src="../../../assets/images/NGA/CO_MOBB_W_MOB_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
+<img src="../../../assets/images/RWA/CO_MOBB_W_MOB_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
 
 </div>

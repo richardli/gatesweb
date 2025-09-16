@@ -35,32 +35,32 @@ nav:
     - Characteristics:
       - Mobile Phone: country_selection/Nigeria/CO_MOBB_W_MOB.md
       - Education: country_selection/Nigeria/ED_EDUC_W_SEH.md
-      - Literate: country_selection/Nigeria/ED_LITR_W_LIT.md
-      - MWRA: country_selection/Nigeria/FP_CUSM_W_MOD.md
+      - Literacy: country_selection/Nigeria/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Nigeria/FP_CUSM_W_MOD.md
       - Wealth Quintiles: country_selection/Nigeria/HC_WIXQ_P_12Q.md
     - Maternal Health:
       - ANC Visits: country_selection/Nigeria/RH_ANCN_W_N4P.md
       - Skilled Provider: country_selection/Nigeria/RH_DELA_C_SKP.md
       - Health Facility: country_selection/Nigeria/RH_DELP_C_DHT.md
-  # - Rwanda: 
-  #   - Overview: country_selection/Rwanda/rwanda.md
-  #   - Child Health:
-  #     - DTP 3: country_selection/Rwanda/CH_VACC_C_DP3.md
-  #     - MCV 1: country_selection/Rwanda/CH_VACC_C_MSL.md
-  #     - No Vaccine: country_selection/Rwanda/CH_VACC_C_NON.md
-  #     - Stunting: country_selection/Rwanda/CN_NUTS_C_HA2.md
-  #     - Wasting: country_selection/Rwanda/CN_NUTS_C_WH2.md
-  #     - ITN: country_selection/Rwanda/ML_NETC_C_ITN.md
-  #   - Characteristics:
-  #     - Mobile Phone: country_selection/Rwanda/CO_MOBB_W_MOB.md
-  #     - Education: country_selection/Rwanda/ED_EDUC_W_SEH.md
-  #     - Literate: country_selection/Rwanda/ED_LITR_W_LIT.md
-  #     - MWRA: country_selection/Rwanda/FP_CUSM_W_MOD.md
-  #     - Wealth Quintiles: country_selection/Rwanda/HC_WIXQ_P_12Q.md
-  #   - Maternal Health:
-  #     - 4+ ANC Visits: country_selection/Rwanda/RH_ANCN_W_N4P.md
-  #     - Delivery by Skilled Provider: country_selection/Rwanda/RH_DELA_C_SKP.md
-  #     - Delivery in Health Facility: country_selection/Rwanda/RH_DELP_C_DHT.md
+  - Rwanda: 
+    - Overview: country_selection/Rwanda/rwanda.md
+    - Child Health:
+      - DTP 3: country_selection/Rwanda/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Rwanda/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Rwanda/CH_VACC_C_NON.md
+      - Stunting: country_selection/Rwanda/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Rwanda/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Rwanda/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Rwanda/CO_MOBB_W_MOB.md
+      - Education: country_selection/Rwanda/ED_EDUC_W_SEH.md
+      - Literacy: country_selection/Rwanda/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Rwanda/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Rwanda/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Rwanda/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Rwanda/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Rwanda/RH_DELP_C_DHT.md
   # - Senegal:
   #   - Overview: country_selection/Senegal/senegal.md
   #   - Child Health:
