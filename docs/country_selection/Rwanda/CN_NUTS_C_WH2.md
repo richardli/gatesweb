@@ -8,8 +8,8 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
 ## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2018</div>
+  <div style="font-size: 20px">Year 2014</div>
+  <div style="font-size: 20px">Year 2019</div>
 </div>
 
 <iframe src="../../../assets/images/RWA/CN_NUTS_C_WH2_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -19,8 +19,8 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
 ## Width of 90% Confidence Interval
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2018</div>
+  <div style="font-size: 20px">Year 2014</div>
+  <div style="font-size: 20px">Year 2019</div>
 </div>
 
 <iframe src="../../../assets/images/RWA/CN_NUTS_C_WH2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
@@ -29,8 +29,8 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin1 estimates in 2018</div>
-  <div style="font-size: 20px">Admin1 change since 2013</div>
+  <div style="font-size: 20px">Admin1 estimates in 2019</div>
+  <div style="font-size: 20px">Admin1 change since 2014</div>
 </div>
 
 ---
@@ -46,8 +46,8 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin2 estimates in 2018</div>
-  <div style="font-size: 20px">Admin2 change since 2013</div>
+  <div style="font-size: 20px">Admin2 estimates in 2019</div>
+  <div style="font-size: 20px">Admin2 change since 2014</div>
 </div>
 
 ---

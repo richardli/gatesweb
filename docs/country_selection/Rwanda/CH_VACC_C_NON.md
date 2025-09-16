@@ -9,8 +9,8 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
 ## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2018</div>
+  <div style="font-size: 20px">Year 2014</div>
+  <div style="font-size: 20px">Year 2019</div>
 </div>
 
 <iframe src="../../../assets/images/RWA/CH_VACC_C_NON_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -20,8 +20,8 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
 ## Width of 90% Confidence Interval
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2018</div>
+  <div style="font-size: 20px">Year 2014</div>
+  <div style="font-size: 20px">Year 2019</div>
 </div>
 
 <iframe src="../../../assets/images/RWA/CH_VACC_C_NON_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
@@ -30,8 +30,8 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin1 estimates in 2018</div>
-  <div style="font-size: 20px">Admin1 change since 2013</div>
+  <div style="font-size: 20px">Admin1 estimates in 2019</div>
+  <div style="font-size: 20px">Admin1 change since 2014</div>
 </div>
 
 ---
@@ -47,8 +47,8 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin2 estimates in 2018</div>
-  <div style="font-size: 20px">Admin2 change since 2013</div>
+  <div style="font-size: 20px">Admin2 estimates in 2019</div>
+  <div style="font-size: 20px">Admin2 change since 2014</div>
 </div>
 
 ---
