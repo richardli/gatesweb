@@ -23,141 +23,6 @@ extra:
 
 nav:
   - Home: index.md
-  - Nigeria: 
-    - Overview: country_selection/Nigeria/nigeria.md
-    - Child Health:
-      - DTP 3: country_selection/Nigeria/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Nigeria/CH_VACC_C_MSL.md
-      - No Vaccine: country_selection/Nigeria/CH_VACC_C_NON.md
-      - Stunting: country_selection/Nigeria/CN_NUTS_C_HA2.md
-      - Wasting: country_selection/Nigeria/CN_NUTS_C_WH2.md
-      - ITN: country_selection/Nigeria/ML_NETC_C_ITN.md
-    - Characteristics:
-      - Mobile Phone: country_selection/Nigeria/CO_MOBB_W_MOB.md
-      - Education: country_selection/Nigeria/ED_EDUC_W_SEH.md
-      - Literacy: country_selection/Nigeria/ED_LITR_W_LIT.md
-      - Modern Contraception: country_selection/Nigeria/FP_CUSM_W_MOD.md
-      - Wealth Quintiles: country_selection/Nigeria/HC_WIXQ_P_12Q.md
-    - Maternal Health:
-      - ANC Visits: country_selection/Nigeria/RH_ANCN_W_N4P.md
-      - Skilled Provider: country_selection/Nigeria/RH_DELA_C_SKP.md
-      - Health Facility: country_selection/Nigeria/RH_DELP_C_DHT.md
-  - Rwanda: 
-    - Overview: country_selection/Rwanda/rwanda.md
-    - Child Health:
-      - DTP 3: country_selection/Rwanda/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Rwanda/CH_VACC_C_MSL.md
-      - No Vaccine: country_selection/Rwanda/CH_VACC_C_NON.md
-      - Stunting: country_selection/Rwanda/CN_NUTS_C_HA2.md
-      - Wasting: country_selection/Rwanda/CN_NUTS_C_WH2.md
-      - ITN: country_selection/Rwanda/ML_NETC_C_ITN.md
-    - Characteristics:
-      - Mobile Phone: country_selection/Rwanda/CO_MOBB_W_MOB.md
-      - Education: country_selection/Rwanda/ED_EDUC_W_SEH.md
-      - Literacy: country_selection/Rwanda/ED_LITR_W_LIT.md
-      - Modern Contraception: country_selection/Rwanda/FP_CUSM_W_MOD.md
-      - Wealth Quintiles: country_selection/Rwanda/HC_WIXQ_P_12Q.md
-    - Maternal Health:
-      - 4+ ANC Visits: country_selection/Rwanda/RH_ANCN_W_N4P.md
-      - Delivery by Skilled Provider: country_selection/Rwanda/RH_DELA_C_SKP.md
-      - Delivery in Health Facility: country_selection/Rwanda/RH_DELP_C_DHT.md
-  - Senegal:
-    - Overview: country_selection/Senegal/senegal.md
-    - Child Health:
-      - DTP 3: country_selection/Senegal/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Senegal/CH_VACC_C_MSL.md
-      - No Vaccine: country_selection/Senegal/CH_VACC_C_NON.md
-      - Stunting: country_selection/Senegal/CN_NUTS_C_HA2.md
-      - Wasting: country_selection/Senegal/CN_NUTS_C_WH2.md
-      - ITN: country_selection/Senegal/ML_NETC_C_ITN.md
-    - Characteristics:
-      - Mobile Phone: country_selection/Senegal/CO_MOBB_W_MOB.md
-      - Education: country_selection/Senegal/ED_EDUC_W_SEH.md
-      - Literate: country_selection/Senegal/ED_LITR_W_LIT.md
-      - Modern Contraception: country_selection/Senegal/FP_CUSM_W_MOD.md
-      - Wealth Quintiles: country_selection/Senegal/HC_WIXQ_P_12Q.md
-    - Maternal Health:
-      - 4+ ANC Visits: country_selection/Senegal/RH_ANCN_W_N4P.md
-      - Delivery by Skilled Provider: country_selection/Senegal/RH_DELA_C_SKP.md
-      - Delivery in Health Facility: country_selection/Senegal/RH_DELP_C_DHT.md
-  - Kenya:
-    - Overview: country_selection/Kenya/kenya.md
-    - Child Health:
-      - DTP 3: country_selection/Kenya/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Kenya/CH_VACC_C_MSL.md
-      - No Vaccine: country_selection/Kenya/CH_VACC_C_NON.md
-      - Stunting: country_selection/Kenya/CN_NUTS_C_HA2.md
-      - Wasting: country_selection/Kenya/CN_NUTS_C_WH2.md
-      - ITN: country_selection/Kenya/ML_NETC_C_ITN.md
-    - Characteristics:
-      - Mobile Phone: country_selection/Kenya/CO_MOBB_W_MOB.md
-      - Education: country_selection/Kenya/ED_EDUC_W_SEH.md
-      - Literate: country_selection/Kenya/ED_LITR_W_LIT.md
-      - Modern Contraception: country_selection/Kenya/FP_CUSM_W_MOD.md
-      - Wealth Quintiles: country_selection/Kenya/HC_WIXQ_P_12Q.md
-    - Maternal Health:
-      - 4+ ANC Visits: country_selection/Kenya/RH_ANCN_W_N4P.md
-      - Delivery by Skilled Provider: country_selection/Kenya/RH_DELA_C_SKP.md
-      - Delivery in Health Facility: country_selection/Kenya/RH_DELP_C_DHT.md
-  - Tanzania:
-    - Overview: country_selection/Tanzania/tanzania.md
-    - Child Health:
-      - DTP 3: country_selection/Tanzania/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Tanzania/CH_VACC_C_MSL.md
-      - No Vaccine: country_selection/Tanzania/CH_VACC_C_NON.md
-      - Stunting: country_selection/Tanzania/CN_NUTS_C_HA2.md
-      - Wasting: country_selection/Tanzania/CN_NUTS_C_WH2.md
-      - ITN: country_selection/Tanzania/ML_NETC_C_ITN.md
-    - Characteristics:
-      - Mobile Phone: country_selection/Tanzania/CO_MOBB_W_MOB.md
-      - Education: country_selection/Tanzania/ED_EDUC_W_SEH.md
-      - Literate: country_selection/Tanzania/ED_LITR_W_LIT.md
-      - Modern Contraception: country_selection/Tanzania/FP_CUSM_W_MOD.md
-      - Wealth Quintiles: country_selection/Tanzania/HC_WIXQ_P_12Q.md
-    - Maternal Health:
-      - 4+ ANC Visits: country_selection/Tanzania/RH_ANCN_W_N4P.md
-      - Delivery by Skilled Provider: country_selection/Tanzania/RH_DELA_C_SKP.md
-      - Delivery in Health Facility: country_selection/Tanzania/RH_DELP_C_DHT.md
-  - Mozambique:
-    - Overview: country_selection/Mozambique/mozambique.md
-    - Child Health:
-      - DTP 3: country_selection/Mozambique/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Mozambique/CH_VACC_C_MSL.md
-      - No Vaccine: country_selection/Mozambique/CH_VACC_C_NON.md
-      - Stunting: country_selection/Mozambique/CN_NUTS_C_HA2.md
-      - Wasting: country_selection/Mozambique/CN_NUTS_C_WH2.md
-      - ITN: country_selection/Mozambique/ML_NETC_C_ITN.md
-    - Characteristics:
-      - Mobile Phone: country_selection/Mozambique/CO_MOBB_W_MOB.md
-      - Education: country_selection/Mozambique/ED_EDUC_W_SEH.md
-      - Literacy: country_selection/Mozambique/ED_LITR_W_LIT.md
-      - Modern Contraception: country_selection/Mozambique/FP_CUSM_W_MOD.md
-      - Wealth Quintiles: country_selection/Mozambique/HC_WIXQ_P_12Q.md
-    - Maternal Health:
-      - 4+ ANC Visits: country_selection/Mozambique/RH_ANCN_W_N4P.md
-      - Delivery by Skilled Provider: country_selection/Mozambique/RH_DELA_C_SKP.md
-      - Delivery in Health Facility: country_selection/Mozambique/RH_DELP_C_DHT.md
-
-  - Ethiopia:
-    - Overview: country_selection/Ethiopia/ethiopia.md
-    - Child Health:
-      - DTP 3: country_selection/Ethiopia/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Ethiopia/CH_VACC_C_MSL.md
-      - No Vaccine: country_selection/Ethiopia/CH_VACC_C_NON.md
-      - Stunting: country_selection/Ethiopia/CN_NUTS_C_HA2.md
-      - Wasting: country_selection/Ethiopia/CN_NUTS_C_WH2.md
-      - ITN: country_selection/Ethiopia/ML_NETC_C_ITN.md
-    - Characteristics:
-      - Mobile Phone: country_selection/Ethiopia/CO_MOBB_W_MOB.md
-      - Education: country_selection/Ethiopia/ED_EDUC_W_SEH.md
-      - Literacy: country_selection/Ethiopia/ED_LITR_W_LIT.md
-      - Modern Contraception: country_selection/Ethiopia/FP_CUSM_W_MOD.md
-      - Wealth Quintiles: country_selection/Ethiopia/HC_WIXQ_P_12Q.md
-    - Maternal Health:
-      - 4+ ANC Visits: country_selection/Ethiopia/RH_ANCN_W_N4P.md
-      - Delivery by Skilled Provider: country_selection/Ethiopia/RH_DELA_C_SKP.md
-      - Delivery in Health Facility: country_selection/Ethiopia/RH_DELP_C_DHT.md
-
   - Burkina Faso:
     - Overview: country_selection/Burkina Faso/burkina_faso.md
     - Child Health:
@@ -197,6 +62,143 @@ nav:
       - 4+ ANC Visits: country_selection/Congo Democratic Republic/RH_ANCN_W_N4P.md
       - Delivery by Skilled Provider: country_selection/Congo Democratic Republic/RH_DELA_C_SKP.md
       - Delivery in Health Facility: country_selection/Congo Democratic Republic/RH_DELP_C_DHT.md
+  - Ethiopia:
+    - Overview: country_selection/Ethiopia/ethiopia.md
+    - Child Health:
+      - DTP 3: country_selection/Ethiopia/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Ethiopia/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Ethiopia/CH_VACC_C_NON.md
+      - Stunting: country_selection/Ethiopia/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Ethiopia/CN_NUTS_C_WH2.md
+    - Characteristics:
+      - Education: country_selection/Ethiopia/ED_EDUC_W_SEH.md
+      - Literacy: country_selection/Ethiopia/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Ethiopia/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Ethiopia/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Ethiopia/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Ethiopia/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Ethiopia/RH_DELP_C_DHT.md
+      
+  - Kenya:
+    - Overview: country_selection/Kenya/kenya.md
+    - Child Health:
+      - DTP 3: country_selection/Kenya/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Kenya/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Kenya/CH_VACC_C_NON.md
+      - Stunting: country_selection/Kenya/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Kenya/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Kenya/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Kenya/CO_MOBB_W_MOB.md
+      - Education: country_selection/Kenya/ED_EDUC_W_SEH.md
+      - Literate: country_selection/Kenya/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Kenya/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Kenya/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Kenya/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Kenya/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Kenya/RH_DELP_C_DHT.md
+      
+  - Mozambique:
+    - Overview: country_selection/Mozambique/mozambique.md
+    - Child Health:
+      - DTP 3: country_selection/Mozambique/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Mozambique/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Mozambique/CH_VACC_C_NON.md
+      - Stunting: country_selection/Mozambique/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Mozambique/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Mozambique/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Mozambique/CO_MOBB_W_MOB.md
+      - Education: country_selection/Mozambique/ED_EDUC_W_SEH.md
+      - Literacy: country_selection/Mozambique/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Mozambique/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Mozambique/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Mozambique/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Mozambique/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Mozambique/RH_DELP_C_DHT.md
+
+  - Nigeria: 
+    - Overview: country_selection/Nigeria/nigeria.md
+    - Child Health:
+      - DTP 3: country_selection/Nigeria/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Nigeria/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Nigeria/CH_VACC_C_NON.md
+      - Stunting: country_selection/Nigeria/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Nigeria/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Nigeria/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Nigeria/CO_MOBB_W_MOB.md
+      - Education: country_selection/Nigeria/ED_EDUC_W_SEH.md
+      - Literacy: country_selection/Nigeria/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Nigeria/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Nigeria/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - ANC Visits: country_selection/Nigeria/RH_ANCN_W_N4P.md
+      - Skilled Provider: country_selection/Nigeria/RH_DELA_C_SKP.md
+      - Health Facility: country_selection/Nigeria/RH_DELP_C_DHT.md
+  
+  - Rwanda: 
+    - Overview: country_selection/Rwanda/rwanda.md
+    - Child Health:
+      - DTP 3: country_selection/Rwanda/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Rwanda/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Rwanda/CH_VACC_C_NON.md
+      - Stunting: country_selection/Rwanda/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Rwanda/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Rwanda/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Rwanda/CO_MOBB_W_MOB.md
+      - Education: country_selection/Rwanda/ED_EDUC_W_SEH.md
+      - Literacy: country_selection/Rwanda/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Rwanda/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Rwanda/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Rwanda/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Rwanda/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Rwanda/RH_DELP_C_DHT.md
+  
+  - Senegal:
+    - Overview: country_selection/Senegal/senegal.md
+    - Child Health:
+      - DTP 3: country_selection/Senegal/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Senegal/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Senegal/CH_VACC_C_NON.md
+      - Stunting: country_selection/Senegal/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Senegal/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Senegal/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Senegal/CO_MOBB_W_MOB.md
+      - Education: country_selection/Senegal/ED_EDUC_W_SEH.md
+      - Literate: country_selection/Senegal/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Senegal/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Senegal/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Senegal/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Senegal/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Senegal/RH_DELP_C_DHT.md
+  
+  - Tanzania:
+    - Overview: country_selection/Tanzania/tanzania.md
+    - Child Health:
+      - DTP 3: country_selection/Tanzania/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Tanzania/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Tanzania/CH_VACC_C_NON.md
+      - Stunting: country_selection/Tanzania/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Tanzania/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Tanzania/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Tanzania/CO_MOBB_W_MOB.md
+      - Education: country_selection/Tanzania/ED_EDUC_W_SEH.md
+      - Literate: country_selection/Tanzania/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Tanzania/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Tanzania/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Tanzania/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Tanzania/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Tanzania/RH_DELP_C_DHT.md
   
   
 

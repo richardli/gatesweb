@@ -224,12 +224,12 @@
     margin: 2.4rem 0
 }
 
-.mdx-expect__list {
+/* .mdx-expect__list {
     display: flex;
     flex-flow: row wrap;
     gap: 1.6rem;
     padding: 0
-}
+} */
 
 .mdx-expect__item {
     display: flex;

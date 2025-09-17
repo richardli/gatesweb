@@ -22,7 +22,7 @@ hide:
     DTP3
   </div>
  
-  <img src="../../../assets/images/KEN/CH_VACC_C_DP3.png" style="height: 390px;margin-left: 100pxmargin-left: 100px">
+  <img src="../../../assets/images/KEN/CH_VACC_C_DP3.png" style="height: 390px;margin-left: 100px">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/KEN/CH_VACC_C_DP3_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/KEN/CH_VACC_C_DP3_ci_legend.png" style="height: 190px; width: 60px;">

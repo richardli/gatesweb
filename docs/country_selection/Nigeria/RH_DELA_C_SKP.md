@@ -4,7 +4,7 @@ hide:
 ---
 # Skill Birth Attendance
 
-This Indicator represents the percentage of live births (or stillbirths) in the two (or three/five) years preceding the survey assisted by a skilled provider.
+This Indicator represents the percentage of live births (or stillbirths) in the two years preceding the survey assisted by a skilled provider. Skilled provider includes doctor, nurse, midwife and auxiliary nurse or midwife.
 
 ## Prevalance map
 
