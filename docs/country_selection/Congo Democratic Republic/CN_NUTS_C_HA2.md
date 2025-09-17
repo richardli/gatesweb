@@ -2,18 +2,18 @@
 hide:
     - toc
 ---
-# Percent of Women Who are Literate
+# Stunting rate
 
-This Indicator represents the percentage of women who are literate
+This Indicator represents the percentage of children stunted (below -2 SD of height for age according to the WHO standard)
 
 ## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2018</div>
+  <div style="font-size: 20px">Year 2023</div>
 </div>
 
-<iframe src="../../../assets/images/NGA/ED_LITR_W_LIT_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/COD/CN_NUTS_C_HA2_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -21,25 +21,25 @@ This Indicator represents the percentage of women who are literate
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2018</div>
+  <div style="font-size: 20px">Year 2023</div>
 </div>
 
-<iframe src="../../../assets/images/NGA/ED_LITR_W_LIT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/COD/CN_NUTS_C_HA2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin1 estimates in 2018</div>
+  <div style="font-size: 20px">Admin1 estimates in 2023</div>
   <div style="font-size: 20px">Admin1 change since 2013</div>
 </div>
 
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/NGA/ED_LITR_W_LIT_ridge_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/COD/CN_NUTS_C_HA2_ridge_adm1.png", style = "width: 470px; height: 1900px">
 
-<img src="../../../assets/images/NGA/ED_LITR_W_LIT_ridge_diff_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/COD/CN_NUTS_C_HA2_ridge_diff_adm1.png", style = "width: 470px; height: 1900px">
 
 </div>
 
@@ -47,15 +47,15 @@ This Indicator represents the percentage of women who are literate
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin2 estimates in 2018</div>
+  <div style="font-size: 20px">Admin2 estimates in 2023</div>
   <div style="font-size: 20px">Admin2 change since 2013</div>
 </div>
 
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/NGA/ED_LITR_W_LIT_ridge_adm2.png", style = "width: 450px; height: 1600px">
+<img src="../../../assets/images/COD/CN_NUTS_C_HA2_ridge_adm2.png", style = "width: 450px; height: 1600px">
 
-<img src="../../../assets/images/NGA/ED_LITR_W_LIT_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
+<img src="../../../assets/images/COD/CN_NUTS_C_HA2_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
 
 </div>

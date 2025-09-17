@@ -9,7 +9,7 @@ hide:
   <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.9.16/report_Tanzania.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
-<div style="width: 82%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 100px">
+<div style="width: 77%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 120px">
   <div>Admin 1: 2015</div>
   <div>Admin 1: 2022</div>
   <div>Admin 2: 2015</div>
@@ -24,8 +24,8 @@ hide:
  
   <img src="../../../assets/images/TZA/CH_VACC_C_DP3.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/CH_VACC_C_DP3_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/CH_VACC_C_DP3_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/CH_VACC_C_DP3_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/CH_VACC_C_DP3_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -38,8 +38,8 @@ hide:
  
   <img src="../../../assets/images/TZA/CH_VACC_C_MSL.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/CH_VACC_C_MSL_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/CH_VACC_C_MSL_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/CH_VACC_C_MSL_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/CH_VACC_C_MSL_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -52,8 +52,8 @@ hide:
  
   <img src="../../../assets/images/TZA/CH_VACC_C_NON.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/CH_VACC_C_NON_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/CH_VACC_C_NON_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/CH_VACC_C_NON_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/CH_VACC_C_NON_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -65,8 +65,8 @@ hide:
   </div>
   <img src="../../../assets/images/TZA/CN_NUTS_C_HA2.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/CN_NUTS_C_HA2_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/CN_NUTS_C_HA2_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/CN_NUTS_C_HA2_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/CN_NUTS_C_HA2_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -78,8 +78,8 @@ hide:
   </div>
   <img src="../../../assets/images/TZA/CN_NUTS_C_WH2.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/CN_NUTS_C_WH2_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/CN_NUTS_C_WH2_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/CN_NUTS_C_WH2_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/CN_NUTS_C_WH2_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -91,8 +91,8 @@ hide:
   </div>
   <img src="../../../assets/images/TZA/ML_NETC_C_ITN.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/ML_NETC_C_ITN_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/ML_NETC_C_ITN_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/ML_NETC_C_ITN_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/ML_NETC_C_ITN_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -104,8 +104,8 @@ hide:
   </div>
   <img src="../../../assets/images/TZA/CO_MOBB_W_MOB.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/CO_MOBB_W_MOB_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/CO_MOBB_W_MOB_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/CO_MOBB_W_MOB_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/CO_MOBB_W_MOB_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -117,8 +117,8 @@ hide:
   </div>
   <img src="../../../assets/images/TZA/ED_EDUC_W_SEH.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/ED_EDUC_W_SEH_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/ED_EDUC_W_SEH_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/ED_EDUC_W_SEH_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/ED_EDUC_W_SEH_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -130,8 +130,8 @@ hide:
   </div>
   <img src="../../../assets/images/TZA/ED_LITR_W_LIT.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/ED_LITR_W_LIT_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/ED_LITR_W_LIT_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/ED_LITR_W_LIT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/ED_LITR_W_LIT_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -143,8 +143,8 @@ hide:
   </div>
   <img src="../../../assets/images/TZA/FP_CUSM_W_MOD.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/FP_CUSM_W_MOD_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/FP_CUSM_W_MOD_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/FP_CUSM_W_MOD_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/FP_CUSM_W_MOD_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -156,8 +156,8 @@ hide:
   </div>
   <img src="../../../assets/images/TZA/HC_WIXQ_P_12Q.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/HC_WIXQ_P_12Q_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/HC_WIXQ_P_12Q_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/HC_WIXQ_P_12Q_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/HC_WIXQ_P_12Q_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -169,8 +169,8 @@ hide:
   </div>
   <img src="../../../assets/images/TZA/RH_ANCN_W_N4P.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/RH_ANCN_W_N4P_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/RH_ANCN_W_N4P_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/RH_ANCN_W_N4P_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/RH_ANCN_W_N4P_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -182,8 +182,8 @@ hide:
   </div>
   <img src="../../../assets/images/TZA/RH_DELA_C_SKP.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/RH_DELA_C_SKP_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/RH_DELA_C_SKP_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/RH_DELA_C_SKP_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/RH_DELA_C_SKP_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -195,7 +195,7 @@ hide:
   </div>
   <img src="../../../assets/images/TZA/RH_DELP_C_DHT.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/TZA/RH_DELP_C_DHT_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/TZA/RH_DELP_C_DHT_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/TZA/RH_DELP_C_DHT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/RH_DELP_C_DHT_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>

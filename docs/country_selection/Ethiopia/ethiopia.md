@@ -6,7 +6,7 @@ hide:
 # Ethiopia
 
 <div class="pdf-link" style = "text-align: right; margin-top: -50px; margin-bottom: 50px">
-  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.9.16/report_Rwanda.pdf" target="_blank" >📄 Download Report</a>
+  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.9.16/report_Ethiopia.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
 <div style="width: 87%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 70px">
@@ -24,8 +24,8 @@ hide:
  
   <img src="../../../assets/images/ETH/CH_VACC_C_DP3.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/CH_VACC_C_DP3_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/CH_VACC_C_DP3_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/CH_VACC_C_DP3_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/CH_VACC_C_DP3_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -38,8 +38,8 @@ hide:
  
   <img src="../../../assets/images/ETH/CH_VACC_C_MSL.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/CH_VACC_C_MSL_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/CH_VACC_C_MSL_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/CH_VACC_C_MSL_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/CH_VACC_C_MSL_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -52,8 +52,8 @@ hide:
  
   <img src="../../../assets/images/ETH/CH_VACC_C_NON.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/CH_VACC_C_NON_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/CH_VACC_C_NON_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/CH_VACC_C_NON_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/CH_VACC_C_NON_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -65,8 +65,8 @@ hide:
   </div>
   <img src="../../../assets/images/ETH/CN_NUTS_C_HA2.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/CN_NUTS_C_HA2_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/CN_NUTS_C_HA2_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/CN_NUTS_C_HA2_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/CN_NUTS_C_HA2_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -78,36 +78,41 @@ hide:
   </div>
   <img src="../../../assets/images/ETH/CN_NUTS_C_WH2.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/CN_NUTS_C_WH2_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/CN_NUTS_C_WH2_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/CN_NUTS_C_WH2_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/CN_NUTS_C_WH2_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
 ---
 <!-- ML_NETC_C_ITN !-->
+
+<!-- 
 <div style="display:flex; align-items:center;">
   <div style="width:110px; font-weight:bold; font-size:16px;">
     ITN
   </div>
   <img src="../../../assets/images/ETH/ML_NETC_C_ITN.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/ML_NETC_C_ITN_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/ML_NETC_C_ITN_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/ML_NETC_C_ITN_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/ML_NETC_C_ITN_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
-
+-->
 ---
+
 <!-- CO_MOBB_W_MOB !-->
+<!-- 
 <div style="display:flex; align-items:center;">
   <div style="width:110px; font-weight:bold; font-size:16px;">
     Mobile Phone
   </div>
   <img src="../../../assets/images/ETH/CO_MOBB_W_MOB.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/CO_MOBB_W_MOB_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/CO_MOBB_W_MOB_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/CO_MOBB_W_MOB_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/CO_MOBB_W_MOB_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
+-->
 
 ---
 <!-- ED_EDUC_W_SEH !-->
@@ -117,8 +122,8 @@ hide:
   </div>
   <img src="../../../assets/images/ETH/ED_EDUC_W_SEH.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/ED_EDUC_W_SEH_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/ED_EDUC_W_SEH_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/ED_EDUC_W_SEH_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/ED_EDUC_W_SEH_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -130,8 +135,8 @@ hide:
   </div>
   <img src="../../../assets/images/ETH/ED_LITR_W_LIT.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/ED_LITR_W_LIT_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/ED_LITR_W_LIT_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/ED_LITR_W_LIT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/ED_LITR_W_LIT_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -143,8 +148,8 @@ hide:
   </div>
   <img src="../../../assets/images/ETH/FP_CUSM_W_MOD.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/FP_CUSM_W_MOD_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/FP_CUSM_W_MOD_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/FP_CUSM_W_MOD_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/FP_CUSM_W_MOD_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -156,8 +161,8 @@ hide:
   </div>
   <img src="../../../assets/images/ETH/HC_WIXQ_P_12Q.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/HC_WIXQ_P_12Q_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/HC_WIXQ_P_12Q_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/HC_WIXQ_P_12Q_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/HC_WIXQ_P_12Q_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -169,8 +174,8 @@ hide:
   </div>
   <img src="../../../assets/images/ETH/RH_ANCN_W_N4P.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/RH_ANCN_W_N4P_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/RH_ANCN_W_N4P_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/RH_ANCN_W_N4P_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/RH_ANCN_W_N4P_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -182,8 +187,8 @@ hide:
   </div>
   <img src="../../../assets/images/ETH/RH_DELA_C_SKP.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/RH_DELA_C_SKP_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/RH_DELA_C_SKP_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/RH_DELA_C_SKP_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/RH_DELA_C_SKP_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -195,7 +200,7 @@ hide:
   </div>
   <img src="../../../assets/images/ETH/RH_DELP_C_DHT.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/RH_DELP_C_DHT_legend.png" style="height: 190px;">
-    <img src="../../../assets/images/ETH/RH_DELP_C_DHT_ci_legend.png" style="height: 190px;">
+    <img src="../../../assets/images/ETH/RH_DELP_C_DHT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/RH_DELP_C_DHT_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>

@@ -61,25 +61,25 @@ nav:
       - 4+ ANC Visits: country_selection/Rwanda/RH_ANCN_W_N4P.md
       - Delivery by Skilled Provider: country_selection/Rwanda/RH_DELA_C_SKP.md
       - Delivery in Health Facility: country_selection/Rwanda/RH_DELP_C_DHT.md
-  # - Senegal:
-  #   - Overview: country_selection/Senegal/senegal.md
-  #   - Child Health:
-  #     - DTP 3: country_selection/Senegal/CH_VACC_C_DP3.md
-  #     - MCV 1: country_selection/Senegal/CH_VACC_C_MSL.md
-  #     - No Vaccine: country_selection/Senegal/CH_VACC_C_NON.md
-  #     - Stunting: country_selection/Senegal/CN_NUTS_C_HA2.md
-  #     - Wasting: country_selection/Senegal/CN_NUTS_C_WH2.md
-  #     - ITN: country_selection/Senegal/ML_NETC_C_ITN.md
-  #   - Characteristics:
-  #     - Mobile Phone: country_selection/Senegal/CO_MOBB_W_MOB.md
-  #     - Education: country_selection/Senegal/ED_EDUC_W_SEH.md
-  #     - Literate: country_selection/Senegal/ED_LITR_W_LIT.md
-  #     - Modern Contraception: country_selection/Senegal/FP_CUSM_W_MOD.md
-  #     - Wealth Quintiles: country_selection/Senegal/HC_WIXQ_P_12Q.md
-  #   - Maternal Health:
-  #     - 4+ ANC Visits: country_selection/Senegal/RH_ANCN_W_N4P.md
-  #     - Delivery by Skilled Provider: country_selection/Senegal/RH_DELA_C_SKP.md
-  #     - Delivery in Health Facility: country_selection/Senegal/RH_DELP_C_DHT.md
+  - Senegal:
+    - Overview: country_selection/Senegal/senegal.md
+    - Child Health:
+      - DTP 3: country_selection/Senegal/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Senegal/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Senegal/CH_VACC_C_NON.md
+      - Stunting: country_selection/Senegal/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Senegal/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Senegal/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Senegal/CO_MOBB_W_MOB.md
+      - Education: country_selection/Senegal/ED_EDUC_W_SEH.md
+      - Literate: country_selection/Senegal/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Senegal/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Senegal/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Senegal/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Senegal/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Senegal/RH_DELP_C_DHT.md
   - Kenya:
     - Overview: country_selection/Kenya/kenya.md
     - Child Health:
@@ -137,6 +137,68 @@ nav:
       - 4+ ANC Visits: country_selection/Mozambique/RH_ANCN_W_N4P.md
       - Delivery by Skilled Provider: country_selection/Mozambique/RH_DELA_C_SKP.md
       - Delivery in Health Facility: country_selection/Mozambique/RH_DELP_C_DHT.md
+
+  - Ethiopia:
+    - Overview: country_selection/Ethiopia/ethiopia.md
+    - Child Health:
+      - DTP 3: country_selection/Ethiopia/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Ethiopia/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Ethiopia/CH_VACC_C_NON.md
+      - Stunting: country_selection/Ethiopia/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Ethiopia/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Ethiopia/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Ethiopia/CO_MOBB_W_MOB.md
+      - Education: country_selection/Ethiopia/ED_EDUC_W_SEH.md
+      - Literacy: country_selection/Ethiopia/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Ethiopia/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Ethiopia/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Ethiopia/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Ethiopia/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Ethiopia/RH_DELP_C_DHT.md
+
+  - Burkina Faso:
+    - Overview: country_selection/Burkina Faso/burkina_faso.md
+    - Child Health:
+      - DTP 3: country_selection/Burkina Faso/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Burkina Faso/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Burkina Faso/CH_VACC_C_NON.md
+      - Stunting: country_selection/Burkina Faso/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Burkina Faso/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Burkina Faso/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Burkina Faso/CO_MOBB_W_MOB.md
+      - Education: country_selection/Burkina Faso/ED_EDUC_W_SEH.md
+      - Literacy: country_selection/Burkina Faso/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Burkina Faso/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Burkina Faso/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Burkina Faso/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Burkina Faso/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Burkina Faso/RH_DELP_C_DHT.md
+
+  - Congo Democratic Republic:
+    - Overview: country_selection/Congo Democratic Republic/congo_democratic_republic.md
+    - Child Health:
+      - DTP 3: country_selection/Congo Democratic Republic/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Congo Democratic Republic/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Congo Democratic Republic/CH_VACC_C_NON.md
+      - Stunting: country_selection/Congo Democratic Republic/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Congo Democratic Republic/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Congo Democratic Republic/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Congo Democratic Republic/CO_MOBB_W_MOB.md
+      - Education: country_selection/Congo Democratic Republic/ED_EDUC_W_SEH.md
+      - Literacy: country_selection/Congo Democratic Republic/ED_LITR_W_LIT.md
+      - Modern Contraception: country_selection/Congo Democratic Republic/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Congo Democratic Republic/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Congo Democratic Republic/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Congo Democratic Republic/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Congo Democratic Republic/RH_DELP_C_DHT.md
+  
+  
 
 markdown_extensions:
   - pymdownx.arithmatex:

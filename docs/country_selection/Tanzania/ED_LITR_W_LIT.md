@@ -8,16 +8,7 @@ This Indicator represents the percentage of women who are literate
 
 ## Prevalance map
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2015</div>
-  <div style="font-size: 20px">Year 2022</div>
-</div>
-
-<iframe src="../../../assets/images/TZA/ED_LITR_W_LIT_detail.html" style = "width: 2000px; height: 820px"></iframe>
-
-## Ridge Plot
-
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
+<div style="width: 90%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Year 2015</div>
   <div style="font-size: 20px">Year 2022</div>
 </div>
