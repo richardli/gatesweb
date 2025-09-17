@@ -13,7 +13,7 @@ This Indicator represents the percentage of women who had a live birth (or still
   <div style="font-size: 20px">Year 2022</div>
 </div>
 
-<iframe src="../../../assets/images/TAZ/RH_ANCN_W_N4P_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/TZA/RH_ANCN_W_N4P_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -24,7 +24,7 @@ This Indicator represents the percentage of women who had a live birth (or still
   <div style="font-size: 20px">Year 2022</div>
 </div>
 
-<iframe src="../../../assets/images/TAZ/RH_ANCN_W_N4P_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/TZA/RH_ANCN_W_N4P_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 
@@ -36,9 +36,9 @@ This Indicator represents the percentage of women who had a live birth (or still
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/TAZ/RH_ANCN_W_N4P_ridge_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/TZA/RH_ANCN_W_N4P_ridge_adm1.png", style = "width: 470px; height: 1900px">
 
-<img src="../../../assets/images/TAZ/RH_ANCN_W_N4P_ridge_diff_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/TZA/RH_ANCN_W_N4P_ridge_diff_adm1.png", style = "width: 470px; height: 1900px">
 
 </div>
 
@@ -53,8 +53,8 @@ This Indicator represents the percentage of women who had a live birth (or still
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/TAZ/RH_ANCN_W_N4P_ridge_adm2.png", style = "width: 450px; height: 1600px">
+<img src="../../../assets/images/TZA/RH_ANCN_W_N4P_ridge_adm2.png", style = "width: 450px; height: 1600px">
 
-<img src="../../../assets/images/TAZ/RH_ANCN_W_N4P_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
+<img src="../../../assets/images/TZA/RH_ANCN_W_N4P_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
 
 </div>

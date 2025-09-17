@@ -24,7 +24,7 @@ This Indicator represents the percentage of women who own a mobile phone
   <div style="font-size: 20px">Year 2018</div>
 </div>
 
-<iframe src="../../../assets/images/RWA/CO_MOBB_W_MOB_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/NGA/CO_MOBB_W_MOB_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot

@@ -37,7 +37,7 @@ This Indicator represents the percentage of women who own a mobile phone
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/RWA/CO_MOBB_W_MOB_ridge_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/RWA/CO_MOBB_W_MOB_ridge_adm1.png", style = "width: 470px; height: 500px">
 
 </div>
 

@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Nigeria
+# Ethiopia
 
 <div class="pdf-link" style = "text-align: right; margin-top: -50px; margin-bottom: 50px">
   <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.9.16/report_Rwanda.pdf" target="_blank" >📄 Download Report</a>
