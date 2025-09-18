@@ -37,9 +37,9 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/RWA/CH_VACC_C_NON_ridge_adm1.png", style = "width: 470px; height: 500px">
+<img src="../../../assets/images/RWA/CH_VACC_C_NON_ridge_adm1.png", "width: 47%;>
 
-<img src="../../../assets/images/RWA/CH_VACC_C_NON_ridge_diff_adm1.png", style = "width: 470px; height: 500px">
+<img src="../../../assets/images/RWA/CH_VACC_C_NON_ridge_diff_adm1.png", "width: 47%;>
 
 </div>
 

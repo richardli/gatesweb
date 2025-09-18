@@ -37,9 +37,9 @@ This Indicator represents the percentage of currently married or in union women 
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/RWA/FP_CUSM_W_MOD_ridge_adm1.png", style = "width: 470px; height: 500px">
+<img src="../../../assets/images/RWA/FP_CUSM_W_MOD_ridge_adm1.png", "width: 47%;>
 
-<img src="../../../assets/images/RWA/FP_CUSM_W_MOD_ridge_diff_adm1.png", style = "width: 470px; height: 500px">
+<img src="../../../assets/images/RWA/FP_CUSM_W_MOD_ridge_diff_adm1.png", "width: 47%;>
 
 </div>
 
