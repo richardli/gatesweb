@@ -4,7 +4,7 @@ hide:
 ---
 # Children Under 5 Who Slept Under and ITN
 
-This Indicator represents the percentage of children under 5 who slept under an ITN
+This Indicator represents the percentage of children under age five who slept under an insecticide treated net (ITN) the night before the survey
 
 ## Prevalance map
 
@@ -36,9 +36,9 @@ This Indicator represents the percentage of children under 5 who slept under an 
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/NGA/ML_NETC_C_ITN_ridge_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/NGA/ML_NETC_C_ITN_ridge_adm1.png", style = "width: 47%;">
 
-<img src="../../../assets/images/NGA/ML_NETC_C_ITN_ridge_diff_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/NGA/ML_NETC_C_ITN_ridge_diff_adm1.png", style = "width: 47%;">
 
 </div>
 
@@ -55,6 +55,6 @@ This Indicator represents the percentage of children under 5 who slept under an 
 <div style="display: flex">
 <img src="../../../assets/images/NGA/ML_NETC_C_ITN_ridge_adm2.png", style = "width: 450px; height: 1600px">
 
-<img src="../../../assets/images/NGA/ML_NETC_C_ITN_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
+<img src="../../../assets/images/NGA/ML_NETC_C_ITN_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 
 </div>

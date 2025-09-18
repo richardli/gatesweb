@@ -4,7 +4,8 @@ hide:
 ---
 # Modern Contraceptive Prevalence Rate
 
-This Indicator represents the percentage of currently married or in union women who ever used any modern method of contraception
+This Indicator represents the percentage of currently married or in union women currently using any modern method of contraception.
+
 ## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
@@ -36,9 +37,9 @@ This Indicator represents the percentage of currently married or in union women 
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/NGA/FP_CUSM_W_MOD_ridge_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/NGA/FP_CUSM_W_MOD_ridge_adm1.png", style = "width: 47%;">
 
-<img src="../../../assets/images/NGA/FP_CUSM_W_MOD_ridge_diff_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/NGA/FP_CUSM_W_MOD_ridge_diff_adm1.png", style = "width: 47%;">
 
 </div>
 
@@ -55,6 +56,6 @@ This Indicator represents the percentage of currently married or in union women 
 <div style="display: flex">
 <img src="../../../assets/images/NGA/FP_CUSM_W_MOD_ridge_adm2.png", style = "width: 450px; height: 1600px">
 
-<img src="../../../assets/images/NGA/FP_CUSM_W_MOD_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
+<img src="../../../assets/images/NGA/FP_CUSM_W_MOD_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 
 </div>

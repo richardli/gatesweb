@@ -56,6 +56,6 @@ This Indicator represents the percentage of children stunted (below -2 SD of hei
 <div style="display: flex">
 <img src="../../../assets/images/RWA/CN_NUTS_C_HA2_ridge_adm2.png", style = "width: 450px; height: 1600px">
 
-<img src="../../../assets/images/RWA/CN_NUTS_C_HA2_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
+<img src="../../../assets/images/RWA/CN_NUTS_C_HA2_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 
 </div>

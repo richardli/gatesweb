@@ -55,6 +55,6 @@ This Indicator represents the percentage of women who have received secondary or
 <div style="display: flex">
 <img src="../../../assets/images/RWA/ED_EDUC_W_SEH_ridge_adm2.png", style = "width: 450px; height: 1600px">
 
-<img src="../../../assets/images/RWA/ED_EDUC_W_SEH_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
+<img src="../../../assets/images/RWA/ED_EDUC_W_SEH_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 
 </div>

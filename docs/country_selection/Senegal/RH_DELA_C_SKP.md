@@ -56,6 +56,6 @@ This Indicator represents the percentage of live births (or stillbirths) in the 
 <div style="display: flex">
 <img src="../../../assets/images/SEN/RH_DELA_C_SKP_ridge_adm2.png", style = "width: 450px; height: 1600px">
 
-<img src="../../../assets/images/SEN/RH_DELA_C_SKP_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
+<img src="../../../assets/images/SEN/RH_DELA_C_SKP_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 
 </div>
