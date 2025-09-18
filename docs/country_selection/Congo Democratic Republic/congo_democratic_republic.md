@@ -8,7 +8,7 @@ hide:
   <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.9.16/report_Congo Democratic Republic.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
-<div style="width: 60%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 190px; margin-bottom: -10px">
+<div style="width: 65%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 205px; margin-bottom: -10px">
   <div>Admin 1: 2013</div>
   <div>Admin 1: 2023</div>
   <div>Admin 2: 2013</div>
