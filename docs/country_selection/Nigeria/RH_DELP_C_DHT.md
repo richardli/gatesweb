@@ -53,7 +53,7 @@ This Indicator represents the percentage of live births (or stillbirths) in the 
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/NGA/RH_DELP_C_DHT_ridge_adm2.png", style = "width: 450px; height: 1600px">
+<img src="../../../assets/images/NGA/RH_DELP_C_DHT_ridge_adm2.png", style = "width: 47%">
 
 <img src="../../../assets/images/NGA/RH_DELP_C_DHT_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 

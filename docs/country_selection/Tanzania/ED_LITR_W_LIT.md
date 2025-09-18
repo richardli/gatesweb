@@ -55,7 +55,7 @@ This Indicator represents the percentage of women who are literate
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/TZA/ED_LITR_W_LIT_ridge_adm2.png", style = "width: 450px; height: 1600px">
+<img src="../../../assets/images/TZA/ED_LITR_W_LIT_ridge_adm2.png", style = "width: 47%">
 
 <img src="../../../assets/images/TZA/ED_LITR_W_LIT_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 

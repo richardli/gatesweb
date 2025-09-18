@@ -53,7 +53,7 @@ This Indicator represents the percent of population in lowest two wealth quintil
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/COD/HC_WIXQ_P_12Q_ridge_adm2.png", style = "width: 450px; height: 1600px">
+<img src="../../../assets/images/COD/HC_WIXQ_P_12Q_ridge_adm2.png", style = "width: 47%">
 
 <img src="../../../assets/images/COD/HC_WIXQ_P_12Q_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 

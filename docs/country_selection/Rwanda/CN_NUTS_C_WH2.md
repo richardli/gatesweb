@@ -36,9 +36,9 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ridge_adm1.png", "width: 47%;>
+<img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ridge_adm1.png", style = "width: 47%">
 
-<img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ridge_diff_adm1.png", "width: 47%;>
+<img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ridge_diff_adm1.png", style = "width: 47%">
 
 </div>
 
@@ -53,7 +53,7 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ridge_adm2.png", style = "width: 450px; height: 1600px">
+<img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ridge_adm2.png", style = "width: 47%">
 
 <img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 
