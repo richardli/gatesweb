@@ -92,7 +92,7 @@ nav:
     - Characteristics:
       - Mobile Phone: country_selection/Kenya/CO_MOBB_W_MOB.md
       - Education: country_selection/Kenya/ED_EDUC_W_SEH.md
-      - Literate: country_selection/Kenya/ED_LITR_W_LIT.md
+      - Literacy: country_selection/Kenya/ED_LITR_W_LIT.md
       - Modern Contraception: country_selection/Kenya/FP_CUSM_W_MOD.md
       - Wealth Quintiles: country_selection/Kenya/HC_WIXQ_P_12Q.md
     - Maternal Health:
@@ -172,7 +172,7 @@ nav:
     - Characteristics:
       - Mobile Phone: country_selection/Senegal/CO_MOBB_W_MOB.md
       - Education: country_selection/Senegal/ED_EDUC_W_SEH.md
-      - Literate: country_selection/Senegal/ED_LITR_W_LIT.md
+      - Literacy: country_selection/Senegal/ED_LITR_W_LIT.md
       - Modern Contraception: country_selection/Senegal/FP_CUSM_W_MOD.md
       - Wealth Quintiles: country_selection/Senegal/HC_WIXQ_P_12Q.md
     - Maternal Health:
@@ -192,7 +192,7 @@ nav:
     - Characteristics:
       - Mobile Phone: country_selection/Tanzania/CO_MOBB_W_MOB.md
       - Education: country_selection/Tanzania/ED_EDUC_W_SEH.md
-      - Literate: country_selection/Tanzania/ED_LITR_W_LIT.md
+      - Literacy: country_selection/Tanzania/ED_LITR_W_LIT.md
       - Modern Contraception: country_selection/Tanzania/FP_CUSM_W_MOD.md
       - Wealth Quintiles: country_selection/Tanzania/HC_WIXQ_P_12Q.md
     - Maternal Health:
