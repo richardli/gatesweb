@@ -27,7 +27,7 @@
 
 .md-content__inner {
     margin-bottom: 0;
-    padding: 5.2rem 0
+    padding: -10rem 0
 }
 
 .md-content__inner:before {
@@ -221,7 +221,7 @@
 }
 
 .mdx-expect {
-    margin: 2.4rem 0
+    margin: 0.4rem 0
 }
 
 /* .mdx-expect__list {
