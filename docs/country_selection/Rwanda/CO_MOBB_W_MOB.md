@@ -46,7 +46,6 @@ This Indicator represents the percentage of women who own a mobile phone
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Admin2 estimates in 2019</div>
-  <div style="font-size: 20px">                        </div>
 </div>
 
 ---

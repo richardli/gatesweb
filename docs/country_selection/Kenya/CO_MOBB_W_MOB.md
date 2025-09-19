@@ -45,15 +45,12 @@ This Indicator represents the percentage of women who own a mobile phone
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Admin2 estimates in 2022</div>
-  <div style="font-size: 20px">Admin2 change since 2014</div>
 </div>
 
 ---
 
 <div style="display: flex">
 <img src="../../../assets/images/KEN/CO_MOBB_W_MOB_ridge_adm2.png", style = "width: 47%">
-
-<img src="../../../assets/images/KEN/CO_MOBB_W_MOB_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 
 
 </div>

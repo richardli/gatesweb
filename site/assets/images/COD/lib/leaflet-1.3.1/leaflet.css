@@ -405,6 +405,9 @@
 	padding: 0 5px;
 	color: #333;
 	}
+.leaflet-control-attribution a {
+	text-decoration: none;
+	}
 .leaflet-control-attribution a:hover {
 	text-decoration: underline;
 	}
