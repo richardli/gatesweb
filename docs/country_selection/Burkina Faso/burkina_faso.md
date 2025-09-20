@@ -19,7 +19,7 @@ hide:
 <!-- CH_VACC_C_DP3 !-->
 <div style="display:flex; align-items:center;">
   <div style="width:110px; font-weight:bold; font-size:16px;">
-    <a href="../CH_VACC_C_DP3/">DTP3</a>
+    DTP3
   </div>
  
   <img src="../../../assets/images/BFA/CH_VACC_C_DP3.png" style="height: 340px;">
