@@ -6,7 +6,7 @@ hide:
 # Senegal
 
 <div class="pdf-link" style = "text-align: right; margin-top: -50px; margin-bottom: 50px">
-  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.9.16/report_Rwanda.pdf" target="_blank" >📄 Download Report</a>
+  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.9.16/report_Senegal.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
 <div style="width: 87%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 70px">
