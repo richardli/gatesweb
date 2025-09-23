@@ -26,8 +26,8 @@ nav:
   - Burkina Faso:
     - Overview: country_selection/Burkina Faso/burkina_faso.md
     - Child Health:
-      - DTP 3: country_selection/Burkina Faso/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Burkina Faso/CH_VACC_C_MSL.md
+      - DTP3: country_selection/Burkina Faso/CH_VACC_C_DP3.md
+      - MCV1: country_selection/Burkina Faso/CH_VACC_C_MSL.md
       - No Vaccine: country_selection/Burkina Faso/CH_VACC_C_NON.md
       - Stunting: country_selection/Burkina Faso/CN_NUTS_C_HA2.md
       - Wasting: country_selection/Burkina Faso/CN_NUTS_C_WH2.md
@@ -46,8 +46,8 @@ nav:
   - Congo Democratic Republic:
     - Overview: country_selection/Congo Democratic Republic/congo_democratic_republic.md
     - Child Health:
-      - DTP 3: country_selection/Congo Democratic Republic/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Congo Democratic Republic/CH_VACC_C_MSL.md
+      - DTP3: country_selection/Congo Democratic Republic/CH_VACC_C_DP3.md
+      - MCV1: country_selection/Congo Democratic Republic/CH_VACC_C_MSL.md
       - No Vaccine: country_selection/Congo Democratic Republic/CH_VACC_C_NON.md
       - Stunting: country_selection/Congo Democratic Republic/CN_NUTS_C_HA2.md
       - Wasting: country_selection/Congo Democratic Republic/CN_NUTS_C_WH2.md
@@ -65,8 +65,8 @@ nav:
   - Ethiopia:
     - Overview: country_selection/Ethiopia/ethiopia.md
     - Child Health:
-      - DTP 3: country_selection/Ethiopia/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Ethiopia/CH_VACC_C_MSL.md
+      - DTP3: country_selection/Ethiopia/CH_VACC_C_DP3.md
+      - MCV1: country_selection/Ethiopia/CH_VACC_C_MSL.md
       - No Vaccine: country_selection/Ethiopia/CH_VACC_C_NON.md
       - Stunting: country_selection/Ethiopia/CN_NUTS_C_HA2.md
       - Wasting: country_selection/Ethiopia/CN_NUTS_C_WH2.md
@@ -83,8 +83,8 @@ nav:
   - Kenya:
     - Overview: country_selection/Kenya/kenya.md
     - Child Health:
-      - DTP 3: country_selection/Kenya/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Kenya/CH_VACC_C_MSL.md
+      - DTP3: country_selection/Kenya/CH_VACC_C_DP3.md
+      - MCV1: country_selection/Kenya/CH_VACC_C_MSL.md
       - No Vaccine: country_selection/Kenya/CH_VACC_C_NON.md
       - Stunting: country_selection/Kenya/CN_NUTS_C_HA2.md
       - Wasting: country_selection/Kenya/CN_NUTS_C_WH2.md
@@ -103,8 +103,8 @@ nav:
   - Mozambique:
     - Overview: country_selection/Mozambique/mozambique.md
     - Child Health:
-      - DTP 3: country_selection/Mozambique/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Mozambique/CH_VACC_C_MSL.md
+      - DTP3: country_selection/Mozambique/CH_VACC_C_DP3.md
+      - MCV1: country_selection/Mozambique/CH_VACC_C_MSL.md
       - No Vaccine: country_selection/Mozambique/CH_VACC_C_NON.md
       - Stunting: country_selection/Mozambique/CN_NUTS_C_HA2.md
       - Wasting: country_selection/Mozambique/CN_NUTS_C_WH2.md
@@ -123,8 +123,8 @@ nav:
   - Nigeria: 
     - Overview: country_selection/Nigeria/nigeria.md
     - Child Health:
-      - DTP 3: country_selection/Nigeria/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Nigeria/CH_VACC_C_MSL.md
+      - DTP3: country_selection/Nigeria/CH_VACC_C_DP3.md
+      - MCV1: country_selection/Nigeria/CH_VACC_C_MSL.md
       - No Vaccine: country_selection/Nigeria/CH_VACC_C_NON.md
       - Stunting: country_selection/Nigeria/CN_NUTS_C_HA2.md
       - Wasting: country_selection/Nigeria/CN_NUTS_C_WH2.md
@@ -143,8 +143,8 @@ nav:
   - Rwanda: 
     - Overview: country_selection/Rwanda/rwanda.md
     - Child Health:
-      - DTP 3: country_selection/Rwanda/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Rwanda/CH_VACC_C_MSL.md
+      - DTP3: country_selection/Rwanda/CH_VACC_C_DP3.md
+      - MCV1: country_selection/Rwanda/CH_VACC_C_MSL.md
       - No Vaccine: country_selection/Rwanda/CH_VACC_C_NON.md
       - Stunting: country_selection/Rwanda/CN_NUTS_C_HA2.md
       - Wasting: country_selection/Rwanda/CN_NUTS_C_WH2.md
@@ -163,8 +163,8 @@ nav:
   - Senegal:
     - Overview: country_selection/Senegal/senegal.md
     - Child Health:
-      - DTP 3: country_selection/Senegal/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Senegal/CH_VACC_C_MSL.md
+      - DTP3: country_selection/Senegal/CH_VACC_C_DP3.md
+      - MCV1: country_selection/Senegal/CH_VACC_C_MSL.md
       - No Vaccine: country_selection/Senegal/CH_VACC_C_NON.md
       - Stunting: country_selection/Senegal/CN_NUTS_C_HA2.md
       - Wasting: country_selection/Senegal/CN_NUTS_C_WH2.md
@@ -183,8 +183,8 @@ nav:
   - Tanzania:
     - Overview: country_selection/Tanzania/tanzania.md
     - Child Health:
-      - DTP 3: country_selection/Tanzania/CH_VACC_C_DP3.md
-      - MCV 1: country_selection/Tanzania/CH_VACC_C_MSL.md
+      - DTP3: country_selection/Tanzania/CH_VACC_C_DP3.md
+      - MCV1: country_selection/Tanzania/CH_VACC_C_MSL.md
       - No Vaccine: country_selection/Tanzania/CH_VACC_C_NON.md
       - Stunting: country_selection/Tanzania/CN_NUTS_C_HA2.md
       - Wasting: country_selection/Tanzania/CN_NUTS_C_WH2.md
