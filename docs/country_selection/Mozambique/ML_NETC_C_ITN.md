@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-# Children Under 5 Who Slept Under and ITN
+# Children Under 5 Who Slept Under an ITN
 
 This Indicator represents the percentage of children under age five who slept under an insecticide treated net (ITN) the night before the survey
 
