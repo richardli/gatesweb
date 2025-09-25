@@ -17,6 +17,9 @@ theme:
   - search.suggest
 
 extra:
+  analytics:
+    provider: google
+    property: G-F18NPDHZTE
   hide:
     - toc
 
