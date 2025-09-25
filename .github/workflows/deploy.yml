@@ -23,7 +23,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # Fetch full history for git info plugins
+        fetch-depth: 1  # avoid fetching all history
         lfs: true  # Check out Git LFS files
    
     - name: Free up space before build
