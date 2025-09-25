@@ -3,10 +3,7 @@ name: Deploy MkDocs to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change to 'master' if that's your default branch
-  pull_request:
-    branches:
-      - main
+      - main  
 
 jobs:
   build-and-deploy:
@@ -28,7 +25,15 @@ jobs:
       with:
         fetch-depth: 0  # Fetch full history for git info plugins
         lfs: true  # Check out Git LFS files
-    
+   
+    - name: Free up space before build
+      run: |
+        echo "Disk usage before cleanup:"
+        df -h
+        rm -rf ~/.cache/pip ~/.npm ~/.cache
+        echo "Disk usage after cleanup:"
+        df -h
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
