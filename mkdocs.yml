@@ -1,5 +1,5 @@
 site_name: Multi-Indicator Small Area Estimation Resource
-site_url: http://sae4healthGates.com
+site_url: https://sae4lmic.stat.uw.edu
 theme:
   name: material
   custom_dir: overrides/landing_page
@@ -17,6 +17,9 @@ theme:
   - search.suggest
 
 extra:
+  analytics:
+    provider: google
+    property: G-F18NPDHZTE
   hide:
     - toc
 
