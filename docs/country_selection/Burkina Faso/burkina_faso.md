@@ -9,18 +9,25 @@ hide:
   <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.9.16/report_Burkina.Faso.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
+<div style="width: 87%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 70px">
+  <div>Admin 1: 201</div>
+  <div>Admin 2</div>
+</div>
+
 <div style="width: 87%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 70px">
-  <div>Admin 1: 2010</div>
-  <div>Admin 1: 2021</div>
-  <div>Admin 2: 2010</div>
-  <div>Admin 2: 2021</div>
+  <div>2010</div>
+  <div>2021</div>
+  <div>2010</div>
+  <div>2021</div>
 </div>
 
 <!-- CH_VACC_C_DP3 !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    DTP3
-  </div>
+  <a href="/country_selection/Burkina Faso/CH_VACC_C_DP3" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      DTP3
+    </div>
+  </a>
  
   <img src="../../../assets/images/BFA/CH_VACC_C_DP3.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
@@ -32,10 +39,12 @@ hide:
 ---
 <!-- CH_VACC_C_MSL !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    MCV1
-  </div>
- 
+  <a href="/country_selection/Burkina Faso/CH_VACC_C_MSL" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      MCV1
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/CH_VACC_C_MSL.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/CH_VACC_C_MSL_legend.png" style="height: 190px; width: 60px;">
@@ -46,10 +55,12 @@ hide:
 ---
 <!-- CH_VACC_C_NON !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    No Vaccine
-  </div>
- 
+  <a href="/country_selection/Burkina Faso/CH_VACC_C_NON" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      No Vaccine
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/CH_VACC_C_NON.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/CH_VACC_C_NON_legend.png" style="height: 190px; width: 60px;">
@@ -60,9 +71,12 @@ hide:
 ---
 <!-- CN_NUTS_C_HA2 !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    Stunting
-  </div>
+  <a href="/country_selection/Burkina Faso/CN_NUTS_C_HA2" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      Stunting
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/CN_NUTS_C_HA2.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/CN_NUTS_C_HA2_legend.png" style="height: 190px; width: 60px;">
@@ -73,9 +87,12 @@ hide:
 ---
 <!-- CN_NUTS_C_WH2 !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    Wasting
-  </div>
+  <a href="/country_selection/Burkina Faso/CN_NUTS_C_WH2" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      Wasting
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/CN_NUTS_C_WH2.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/CN_NUTS_C_WH2_legend.png" style="height: 190px; width: 60px;">
@@ -86,9 +103,12 @@ hide:
 ---
 <!-- ML_NETC_C_ITN !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    ITN
-  </div>
+  <a href="/country_selection/Burkina Faso/ML_NETC_C_ITN" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      ITN
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/ML_NETC_C_ITN.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/ML_NETC_C_ITN_legend.png" style="height: 190px; width: 60px;">
@@ -99,9 +119,12 @@ hide:
 ---
 <!-- CO_MOBB_W_MOB !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    Mobile Phone
-  </div>
+  <a href="/country_selection/Burkina Faso/CO_MOBB_W_MOB" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      Mobile Phone
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/CO_MOBB_W_MOB.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/CO_MOBB_W_MOB_legend.png" style="height: 190px; width: 60px;">
@@ -112,9 +135,12 @@ hide:
 ---
 <!-- ED_EDUC_W_SEH !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    Education
-  </div>
+  <a href="/country_selection/Burkina Faso/ED_EDUC_W_SEH" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      Education
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/ED_EDUC_W_SEH.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/ED_EDUC_W_SEH_legend.png" style="height: 190px; width: 60px;">
@@ -125,9 +151,12 @@ hide:
 ---
 <!-- ED_LITR_W_LIT !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    Literacy
-  </div>
+  <a href="/country_selection/Burkina Faso/ED_LITR_W_LIT" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      Literacy
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/ED_LITR_W_LIT.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/ED_LITR_W_LIT_legend.png" style="height: 190px; width: 60px;">
@@ -138,9 +167,12 @@ hide:
 ---
 <!-- FP_CUSM_W_MOD !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    Contra- ception
-  </div>
+  <a href="/country_selection/Burkina Faso/FP_CUSM_W_MOD" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      Contra- ception
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/FP_CUSM_W_MOD.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/FP_CUSM_W_MOD_legend.png" style="height: 190px; width: 60px;">
@@ -151,9 +183,12 @@ hide:
 ---
 <!-- HC_WIXQ_P_12Q !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    Wealth Quintiles
-  </div>
+  <a href="/country_selection/Burkina Faso/HC_WIXQ_P_12Q" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      Wealth Quintiles
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/HC_WIXQ_P_12Q.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/HC_WIXQ_P_12Q_legend.png" style="height: 190px; width: 60px;">
@@ -164,9 +199,12 @@ hide:
 ---
 <!-- RH_ANCN_W_N4P !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    ANC4 Visits
-  </div>
+  <a href="/country_selection/Burkina Faso/RH_ANCN_W_N4P" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      ANC4 Visits
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/RH_ANCN_W_N4P.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/RH_ANCN_W_N4P_legend.png" style="height: 190px; width: 60px;">
@@ -177,9 +215,12 @@ hide:
 ---
 <!-- RH_DELA_C_SKP !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    Skilled Provider
-  </div>
+  <a href="/country_selection/Burkina Faso/RH_DELA_C_SKP" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      Skilled Provider
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/RH_DELA_C_SKP.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/RH_DELA_C_SKP_legend.png" style="height: 190px; width: 60px;">
@@ -190,9 +231,12 @@ hide:
 ---
 <!-- RH_DELP_C_DHT !-->
 <div style="display:flex; align-items:center;">
-  <div style="width:110px; font-weight:bold; font-size:16px;">
-    Health Facility
-  </div>
+  <a href="/country_selection/Burkina Faso/RH_DELP_C_DHT" style="width:110px; font-weight:bold; font-size:16px;">
+    <div>
+      Health Facility
+    </div>
+  </a>
+
   <img src="../../../assets/images/BFA/RH_DELP_C_DHT.png" style="height: 340px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/BFA/RH_DELP_C_DHT_legend.png" style="height: 190px; width: 60px;">
