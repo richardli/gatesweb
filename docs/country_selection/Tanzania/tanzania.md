@@ -10,8 +10,8 @@ hide:
 </div>
 
 <div style="width: 77%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 120px">
-  <div>Admin 1</div>
-  <div>Admin 2</div>
+  <div>Regions</div>
+  <div>Districts</div>
 </div>
 
 <div style="width: 77%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 120px">
@@ -164,7 +164,7 @@ hide:
 <div style="display:flex; align-items:center;">
   <a href="/country_selection/Tanzania/FP_CUSM_W_MOD" style="width:110px; font-weight:bold; font-size:16px;">
     <div>
-      Contra- ception
+      Modern Contra- ception
     </div>
   </a>
   <img src="../../../assets/images/TZA/FP_CUSM_W_MOD.png" style="height: 390px;">
@@ -179,6 +179,9 @@ hide:
 <div style="display:flex; align-items:center;">
   <a href="/country_selection/Tanzania/HC_WIXQ_P_12Q" style="width:110px; font-weight:bold; font-size:16px;">
     <div>
+     Lowest 2
+    </div>
+   <div>
       Wealth Quintiles
     </div>
   </a>

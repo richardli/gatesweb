@@ -29,8 +29,8 @@ This Indicator represents the percentage of children under age five who slept un
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin1 estimates in 2022</div>
-  <div style="font-size: 20px">Admin1 change since 2014</div>
+  <div style="font-size: 20px">Counties estimates in 2022</div>
+  <div style="font-size: 20px">Counties change since 2014</div>
 </div>
 
 ---
@@ -46,8 +46,8 @@ This Indicator represents the percentage of children under age five who slept un
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin2 estimates in 2022</div>
-  <div style="font-size: 20px">Admin2 change since 2014</div>
+  <div style="font-size: 20px">Sub-counties estimates in 2022</div>
+  <div style="font-size: 20px">Sub-counties change since 2014</div>
 </div>
 
 ---

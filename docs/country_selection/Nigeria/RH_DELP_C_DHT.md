@@ -29,8 +29,8 @@ This Indicator represents the percentage of live births (or stillbirths) in the 
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin1 estimates in 2018</div>
-  <div style="font-size: 20px">Admin1 change since 2013</div>
+  <div style="font-size: 20px">States estimates in 2018</div>
+  <div style="font-size: 20px">States change since 2013</div>
 </div>
 
 ---
@@ -46,8 +46,8 @@ This Indicator represents the percentage of live births (or stillbirths) in the 
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin2 estimates in 2018</div>
-  <div style="font-size: 20px">Admin2 change since 2013</div>
+  <div style="font-size: 20px">LGA estimates in 2018</div>
+  <div style="font-size: 20px">LGA change since 2013</div>
 </div>
 
 ---

@@ -30,8 +30,8 @@ This Indicator represents the percentage of currently married or in union women 
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin1 estimates in 2022</div>
-  <div style="font-size: 20px">Admin1 change since 2015</div>
+  <div style="font-size: 20px">Regions estimates in 2022</div>
+  <div style="font-size: 20px">Regions change since 2015</div>
 </div>
 
 ---
@@ -47,8 +47,8 @@ This Indicator represents the percentage of currently married or in union women 
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin2 estimates in 2022</div>
-  <div style="font-size: 20px">Admin2 change since 2015</div>
+  <div style="font-size: 20px">Districts estimates in 2022</div>
+  <div style="font-size: 20px">Districts change since 2015</div>
 </div>
 
 ---

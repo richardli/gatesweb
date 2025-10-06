@@ -39,8 +39,8 @@ This Indicator represents the percentage of women who are literate
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin1 estimates in 2019</div>
-  <div style="font-size: 20px">Admin1 change since 2014</div>
+  <div style="font-size: 20px">Provinces estimates in 2019</div>
+  <div style="font-size: 20px">Provinces change since 2014</div>
 </div>
 
 ---
@@ -56,8 +56,8 @@ This Indicator represents the percentage of women who are literate
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Admin2 estimates in 2019</div>
-  <div style="font-size: 20px">Admin2 change since 2014</div>
+  <div style="font-size: 20px">Districts estimates in 2019</div>
+  <div style="font-size: 20px">Districts change since 2014</div>
 </div>
 
 ---
