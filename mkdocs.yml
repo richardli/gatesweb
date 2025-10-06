@@ -210,7 +210,9 @@ nav:
       - Education: country_selection/Tanzania/ED_EDUC_W_SEH.md
       - Literacy: country_selection/Tanzania/ED_LITR_W_LIT.md
       - Wealth Quintiles: country_selection/Tanzania/HC_WIXQ_P_12Q.md
-  
+  - More Info:
+    - Indicators: add_info/indicators.md
+    - Methodology: add_info/methods.md
   
 
 markdown_extensions:
