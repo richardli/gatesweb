@@ -67,7 +67,15 @@ jobs:
         else
           echo "Warning: No index.html found!"
         fi
-    
+      
+    - name: Clean up temporary and cache files
+      run: |
+        echo "Disk usage before cleanup:"
+        df -h
+        rm -rf ~/.cache ~/.npm ~/.pip /tmp/* /usr/share/dotnet /opt/ghc
+        echo "Disk usage after cleanup:"
+        df -h
+
     - name: Setup Pages
       if: github.ref == 'refs/heads/main'
       uses: actions/configure-pages@v4
