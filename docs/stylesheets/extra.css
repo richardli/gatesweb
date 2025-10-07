@@ -8,3 +8,13 @@
 .md-container {
   margin-left: 0 !important;
 }
+
+.md-tabs__list {
+  display: flex;
+  justify-content: space-between; 
+  width: 100%;
+}
+
+.md-tabs__list li:last-child {
+  margin-left: auto; /* move more info to very right */
+}
