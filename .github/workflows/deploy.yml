@@ -72,7 +72,7 @@ jobs:
       run: |
         echo "Disk usage before cleanup:"
         df -h
-        rm -rf ~/.cache ~/.npm ~/.pip /tmp/* /usr/share/dotnet /opt/ghc
+        sudo rm -rf ~/.cache ~/.npm ~/.pip /usr/share/dotnet /opt/ghc /tmp/* || true
         echo "Disk usage after cleanup:"
         df -h
 
