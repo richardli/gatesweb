@@ -195,7 +195,7 @@ hide:
 <div style="display:flex; align-items:center;">
   <a href="/country_selection/Congo Democratic Republic/RH_ANCN_W_N4P" style="width:110px; font-weight:bold; font-size:16px;">
     <div>
-      ANC4 Visits
+      4+ ANC Visits
     </div>
   </a>
   <img src="../../../assets/images/COD/RH_ANCN_W_N4P.png" style="height: 340px; margin-left: 90px;">
@@ -210,7 +210,7 @@ hide:
 <div style="display:flex; align-items:center;">
   <a href="/country_selection/Congo Democratic Republic/RH_DELA_C_SKP" style="width:110px; font-weight:bold; font-size:16px;">
     <div>
-      Skilled Provider
+      Delivery by Skilled Provider
     </div>
   </a>
   <img src="../../../assets/images/COD/RH_DELA_C_SKP.png" style="height: 340px; margin-left: 90px;">
@@ -225,7 +225,7 @@ hide:
 <div style="display:flex; align-items:center;">
   <a href="/country_selection/Congo Democratic Republic/RH_DELP_C_DHT" style="width:110px; font-weight:bold; font-size:16px;">
     <div>
-      Health Facility
+      Delivery in Health Facility
     </div>
   </a>
   <img src="../../../assets/images/COD/RH_DELP_C_DHT.png" style="height: 340px; margin-left: 90px;">
