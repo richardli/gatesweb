@@ -7,9 +7,14 @@ hide:
 This Indicator represents the percentage of children wasted (below -2 SD of weight for height according to the WHO standard)
 ## Prevalance map
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2023</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Endline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">2013</div>
+  <div style="font-size: 12px">2023</div>
 </div>
 
 <iframe src="../../../assets/images/COD/CN_NUTS_C_WH2_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -18,9 +23,14 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
 
 ## Width of 90% Confidence Interval
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2023</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Endline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">2013</div>
+  <div style="font-size: 12px">2023</div>
 </div>
 
 <iframe src="../../../assets/images/COD/CN_NUTS_C_WH2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
@@ -29,8 +39,8 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Provinces estimates in 2023</div>
-  <div style="font-size: 20px">Provinces change since 2013</div>
+  <div style="font-size: 20px">Latest provinces estimates</div>
+  <div style="font-size: 20px">Provinces change since Baseline</div>
 </div>
 
 ---
@@ -46,8 +56,8 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Territories estimates in 2023</div>
-  <div style="font-size: 20px">Territories change since 2013</div>
+  <div style="font-size: 20px">Latest territories estimates</div>
+  <div style="font-size: 20px">Territories change since Baseline</div>
 </div>
 
 ---

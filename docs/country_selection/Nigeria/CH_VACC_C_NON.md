@@ -8,9 +8,14 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
 
 ## Prevalance map
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2018</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Baseline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">2013</div>
+  <div style="font-size: 12px">2018</div>
 </div>
 
 <iframe src="../../../assets/images/NGA/CH_VACC_C_NON_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -19,9 +24,14 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
 
 ## Width of 90% Confidence Interval
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2018</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Baseline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">2013</div>
+  <div style="font-size: 12px">2018</div>
 </div>
 
 <iframe src="../../../assets/images/NGA/CH_VACC_C_NON_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
@@ -30,8 +40,8 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">States estimates in 2018</div>
-  <div style="font-size: 20px">States change since 2013</div>
+  <div style="font-size: 20px">Latest states estimates</div>
+  <div style="font-size: 20px">States change since Baseline</div>
 </div>
 
 ---
@@ -47,8 +57,8 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">LGA estimates in 2018</div>
-  <div style="font-size: 20px">LGA change since 2013</div>
+  <div style="font-size: 20px">Latest LGA estimates</div>
+  <div style="font-size: 20px">LGA change since Baseline</div>
 </div>
 
 ---

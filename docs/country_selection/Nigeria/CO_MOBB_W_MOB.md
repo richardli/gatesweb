@@ -8,9 +8,14 @@ This Indicator represents the percentage of women who own a mobile phone
 
 ## Prevalance map
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2018</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Baseline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">2013</div>
+  <div style="font-size: 12px">2018</div>
 </div>
 
 <iframe src="../../../assets/images/NGA/CO_MOBB_W_MOB_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -19,9 +24,14 @@ This Indicator represents the percentage of women who own a mobile phone
 
 ## Width of 90% Confidence Interval
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2013</div>
-  <div style="font-size: 20px">Year 2018</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Baseline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">2013</div>
+  <div style="font-size: 12px">2018</div>
 </div>
 
 <iframe src="../../../assets/images/NGA/CO_MOBB_W_MOB_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
@@ -30,7 +40,7 @@ This Indicator represents the percentage of women who own a mobile phone
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">States estimates in 2018</div>
+  <div style="font-size: 20px">Latest states estimates</div>
 </div>
 
 ---
@@ -44,7 +54,7 @@ This Indicator represents the percentage of women who own a mobile phone
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">LGA estimates in 2018</div>
+  <div style="font-size: 20px">Latest LGA estimates</div>
 </div>
 
 ---
