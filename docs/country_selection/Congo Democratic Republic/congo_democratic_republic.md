@@ -31,7 +31,7 @@ hide:
 
 <!-- RH_ANCN_W_N4P !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/RH_ANCN_W_N4P" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/RH_ANCN_W_N4P" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       4+ ANC Visits
     </div>
@@ -47,7 +47,7 @@ hide:
 
 <!-- RH_DELA_C_SKP !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/RH_DELA_C_SKP" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/RH_DELA_C_SKP" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Delivery by Skilled Provider
     </div>
@@ -63,7 +63,7 @@ hide:
 
 <!-- RH_DELP_C_DHT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/RH_DELP_C_DHT" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/RH_DELP_C_DHT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Delivery in Health Facility
     </div>
@@ -79,7 +79,7 @@ hide:
 
 <!-- FP_CUSM_W_MOD !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/FP_CUSM_W_MOD" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/FP_CUSM_W_MOD" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Modern Contra- ception
     </div>
@@ -95,9 +95,9 @@ hide:
 
 <!-- CH_VACC_C_DP3 !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/CH_VACC_C_DP3" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/CH_VACC_C_DP3" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      DTP3
+      DTP 3 coverage
     </div>
   </a>
   <img src="../../../assets/images/COD/CH_VACC_C_DP3.png" style="height: 340px; margin-left: 90px;">
@@ -111,9 +111,9 @@ hide:
 
 <!-- CH_VACC_C_MSL !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/CH_VACC_C_MSL" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/CH_VACC_C_MSL" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      MCV1
+      MCV 1 coverage
     </div>
   </a>
   <img src="../../../assets/images/COD/CH_VACC_C_MSL.png" style="height: 340px; margin-left: 90px;">
@@ -127,9 +127,9 @@ hide:
 
 <!-- CH_VACC_C_NON !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/CH_VACC_C_NON" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/CH_VACC_C_NON" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      No Vaccine
+      No Vaccination received
     </div>
   </a>
   <img src="../../../assets/images/COD/CH_VACC_C_NON.png" style="height: 340px; margin-left: 90px;">
@@ -143,9 +143,9 @@ hide:
 
 <!-- CN_NUTS_C_HA2 !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/CN_NUTS_C_HA2" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/CN_NUTS_C_HA2" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      Stunting
+      Stunting prevalence
     </div>
   </a>
   <img src="../../../assets/images/COD/CN_NUTS_C_HA2.png" style="height: 340px; margin-left: 90px;">
@@ -159,9 +159,9 @@ hide:
 
 <!-- CN_NUTS_C_WH2 !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/CN_NUTS_C_WH2" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/CN_NUTS_C_WH2" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      Wasting
+      Wasting prevalence
     </div>
   </a>
   <img src="../../../assets/images/COD/CN_NUTS_C_WH2.png" style="height: 340px; margin-left: 90px;">
@@ -175,9 +175,9 @@ hide:
 
 <!-- ML_NETC_C_ITN !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/ML_NETC_C_ITN" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/ML_NETC_C_ITN" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      ITN
+      ITN use under 5
     </div>
   </a>
   <img src="../../../assets/images/COD/ML_NETC_C_ITN.png" style="height: 340px; margin-left: 90px;">
@@ -191,9 +191,9 @@ hide:
 
 <!-- CO_MOBB_W_MOB !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/CO_MOBB_W_MOB" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/CO_MOBB_W_MOB" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      Mobile Phone
+      Mobile phone ownership (women)
     </div>
   </a>
   <img src="../../../assets/images/COD/CO_MOBB_W_MOB.png" style="height: 340px; margin-left: 90px;">
@@ -207,9 +207,9 @@ hide:
 
 <!-- ED_EDUC_W_SEH !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/ED_EDUC_W_SEH" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/ED_EDUC_W_SEH" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      Education
+      Women with secondary or higher education
     </div>
   </a>
   <img src="../../../assets/images/COD/ED_EDUC_W_SEH.png" style="height: 340px; margin-left: 90px;">
@@ -223,9 +223,9 @@ hide:
 
 <!-- ED_LITR_W_LIT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/ED_LITR_W_LIT" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/ED_LITR_W_LIT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      Literacy
+      Women who are literate
     </div>
   </a>
   <img src="../../../assets/images/COD/ED_LITR_W_LIT.png" style="height: 340px; margin-left: 90px;">
@@ -239,7 +239,7 @@ hide:
 
 <!-- HC_WIXQ_P_12Q !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/HC_WIXQ_P_12Q" style="width:110px; font-weight:bold; font-size:16px;">
+  <a href="/country_selection/Congo Democratic Republic/HC_WIXQ_P_12Q" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
      Lowest 2
     </div>
