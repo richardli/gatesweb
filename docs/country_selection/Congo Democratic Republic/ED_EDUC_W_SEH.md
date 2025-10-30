@@ -8,7 +8,7 @@ This Indicator represents the percentage of women who have received secondary or
 ## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
-  <div style="font-size: 20px">Endline</div>
+  <div style="font-size: 20px">Baseline</div>
   <div style="font-size: 20px">Latest</div>
 </div>
 
@@ -24,7 +24,7 @@ This Indicator represents the percentage of women who have received secondary or
 ## Width of 90% Confidence Interval
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
-  <div style="font-size: 20px">Endline</div>
+  <div style="font-size: 20px">Baseline</div>
   <div style="font-size: 20px">Latest</div>
 </div>
 
