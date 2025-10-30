@@ -15,12 +15,12 @@ hide:
 
 <div style="width: 58%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 205px">
   <div>Baseline</div>
-  <div>Endline</div>
+  <div>Latest</div>
   <div>Baseline</div>
-  <div>Endline</div>
+  <div>Latest</div>
 </div>
 
-<div style="width: 58%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 205px; margin-bottom: -10px">
+<div style="width: 58%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-size: 12px; margin-left: 205px; margin-bottom: -10px">
   <div>(2013)</div>
   <div>(2023)</div>
   <div>(2013)</div>

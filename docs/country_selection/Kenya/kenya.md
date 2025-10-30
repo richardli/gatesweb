@@ -21,7 +21,7 @@ hide:
   <div>Endline</div>
 </div>
 
-<div style="width: 50%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 210px">
+<div style="width: 50%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-size: 12px; margin-left: 210px">
   <div>(2014)</div>
   <div>(2022)</div>
   <div>(2014)</div>
