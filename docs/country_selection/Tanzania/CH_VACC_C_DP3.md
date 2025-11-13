@@ -4,13 +4,18 @@ hide:
 ---
 # DTP3 Vaccination rate
 
-This Indicator represents the percentage of children 12-23 months who had received DPT 3 vaccination
+This Indicator represents the percentage of children 12-23 months who had received DTP 3 vaccination
 
 ## Prevalance map
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2015</div>
-  <div style="font-size: 20px">Year 2022</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Baseline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">2015</div>
+  <div style="font-size: 12px">2022</div>
 </div>
 
 <iframe src="../../../assets/images/TZA/CH_VACC_C_DP3_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -19,9 +24,14 @@ This Indicator represents the percentage of children 12-23 months who had receiv
 
 ## Width of 90% Confidence Interval
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2015</div>
-  <div style="font-size: 20px">Year 2022</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Baseline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">2015</div>
+  <div style="font-size: 12px">2022</div>
 </div>
 
 <iframe src="../../../assets/images/TZA/CH_VACC_C_DP3_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
@@ -29,8 +39,8 @@ This Indicator represents the percentage of children 12-23 months who had receiv
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Regions estimates in 2022</div>
-  <div style="font-size: 20px">Regions change since 2015</div>
+  <div style="font-size: 20px">Latest regions estimates</div>
+  <div style="font-size: 20px">Regions change since baseline</div>
 </div>
 
 ---
@@ -46,8 +56,8 @@ This Indicator represents the percentage of children 12-23 months who had receiv
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Districts estimates in 2022</div>
-  <div style="font-size: 20px">Districts change since 2015</div>
+  <div style="font-size: 20px">Latest districts estimates</div>
+  <div style="font-size: 20px">Districts change since baseline</div>
 </div>
 
 ---

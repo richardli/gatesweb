@@ -7,9 +7,14 @@ hide:
 This Indicator represents the percentage of women who have received secondary or higher education
 ## Prevalance map
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2010</div>
-  <div style="font-size: 20px">Year 2021</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Baseline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 13px">2010</div>
+  <div style="font-size: 13px">2021</div>
 </div>
 
 <iframe src="../../../assets/images/BFA/ED_EDUC_W_SEH_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -18,9 +23,14 @@ This Indicator represents the percentage of women who have received secondary or
 
 ## Width of 90% Confidence Interval
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2010</div>
-  <div style="font-size: 20px">Year 2021</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Baseline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 13px">2010</div>
+  <div style="font-size: 13px">2021</div>
 </div>
 
 <iframe src="../../../assets/images/BFA/ED_EDUC_W_SEH_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
@@ -29,8 +39,8 @@ This Indicator represents the percentage of women who have received secondary or
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Regions estimates in 2021</div>
-  <div style="font-size: 20px">Regions change since 2010</div>
+  <div style="font-size: 20px">Latest regions estimates</div>
+  <div style="font-size: 20px">Regions change since baseline</div>
 </div>
 
 ---
@@ -46,8 +56,8 @@ This Indicator represents the percentage of women who have received secondary or
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Provinces estimates in 2021</div>
-  <div style="font-size: 20px">Provinces change since 2010</div>
+  <div style="font-size: 20px">Latest provinces estimates</div>
+  <div style="font-size: 20px">Provincess change since baseline</div>
 </div>
 
 ---

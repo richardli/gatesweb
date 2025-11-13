@@ -3,7 +3,7 @@
 ---
 
 ### DTP3 Vaccination rate:
-This Indicator represents the percentage of children 12-23 months who had received DPT 3 vaccination.
+This Indicator represents the percentage of children 12-23 months who had received DTP 3 vaccination.
 
 ### MCV 1 Vaccine Coverage:
 This Indicator represents the percentage of children 12-23 months who had received Measles vaccination

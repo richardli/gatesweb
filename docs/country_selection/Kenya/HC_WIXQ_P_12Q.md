@@ -8,9 +8,14 @@ This Indicator represents the percent of population in lowest two wealth quintil
 
 ## Prevalance map
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2014</div>
-  <div style="font-size: 20px">Year 2022</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Baseline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">2014</div>
+  <div style="font-size: 12px">2022</div>
 </div>
 
 <iframe src="../../../assets/images/KEN/HC_WIXQ_P_12Q_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -19,9 +24,14 @@ This Indicator represents the percent of population in lowest two wealth quintil
 
 ## Width of 90% Confidence Interval
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Year 2014</div>
-  <div style="font-size: 20px">Year 2022</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Baseline</div>
+  <div style="font-size: 20px">Latest</div>
+</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">2014</div>
+  <div style="font-size: 12px">2022</div>
 </div>
 
 <iframe src="../../../assets/images/KEN/HC_WIXQ_P_12Q_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
@@ -29,8 +39,8 @@ This Indicator represents the percent of population in lowest two wealth quintil
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Counties estimates in 2022</div>
-  <div style="font-size: 20px">Counties change since 2014</div>
+  <div style="font-size: 20px">Latest counties estimates</div>
+  <div style="font-size: 20px">Counties change since Baseline</div>
 </div>
 
 ---
@@ -46,8 +56,8 @@ This Indicator represents the percent of population in lowest two wealth quintil
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Sub-counties estimates in 2022</div>
-  <div style="font-size: 20px">Sub-counties change since 2014</div>
+  <div style="font-size: 20px">Latest sub-counties estimates</div>
+  <div style="font-size: 20px">Sub-counties change since Baseline</div>
 </div>
 
 ---
