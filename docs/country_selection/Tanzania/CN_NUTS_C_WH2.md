@@ -17,21 +17,9 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
   <div style="font-size: 12px">2022</div>
 </div>
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2015</div>
-  <div style="font-size: 12px">2022</div>
-</div>
-
 <iframe src="../../../assets/images/TZA/CN_NUTS_C_WH2_detail.html" style = "width: 2000px; height: 820px"></iframe>
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
-  <div style="font-size: 20px">Baseline</div>
-  <div style="font-size: 20px">Latest</div>
-</div>
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2015</div>
-  <div style="font-size: 12px">2022</div>
-</div>th of 90% Confidence Interval
+<div>Width of 90% Confidence Interval</div>
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>

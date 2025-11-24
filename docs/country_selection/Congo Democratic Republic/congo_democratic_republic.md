@@ -5,7 +5,7 @@ hide:
 
 # Congo Democratic Republic
 <div class="pdf-link" style = "text-align: right; margin-top: -50px; margin-bottom: 50px">
-  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.9.16/report_Congo.Democratic.Republic.pdf" target="_blank" >📄 Download Report</a>
+  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.11.20/report_Congo.Democratic.Republic.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
 <div style="width: 58%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 205px; margin-bottom: -10px">
@@ -25,6 +25,22 @@ hide:
   <div>(2023)</div>
   <div>(2013)</div>
   <div>(2023)</div>
+</div>
+
+---
+
+<!-- FP_CUSM_W_MOD !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Congo Democratic Republic/FP_CUSM_W_MOD" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Modern Contra- ception
+    </div>
+  </a>
+  <img src="../../../assets/images/COD/FP_CUSM_W_MOD.png" style="height: 340px; margin-left: 90px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/COD/FP_CUSM_W_MOD_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/FP_CUSM_W_MOD_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
 </div>
 
 ---
@@ -77,33 +93,65 @@ hide:
 
 ---
 
-<!-- FP_CUSM_W_MOD !-->
+<!-- RH_DELP_C_PUT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/FP_CUSM_W_MOD" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="/country_selection/Congo Democratic Republic/RH_DELP_C_PUT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      Modern Contra- ception
+      Delivery in Public Facility
     </div>
   </a>
-  <img src="../../../assets/images/COD/FP_CUSM_W_MOD.png" style="height: 340px; margin-left: 90px;">
+  <img src="../../../assets/images/COD/RH_DELP_C_PUT.png" style="height: 340px; margin-left: 90px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/COD/FP_CUSM_W_MOD_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/COD/FP_CUSM_W_MOD_ci_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/RH_DELP_C_PUT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/RH_DELP_C_PUT_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
 ---
 
-<!-- CH_VACC_C_DP3 !-->
+<!-- RH_DELP_C_PRT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/CH_VACC_C_DP3" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="/country_selection/Congo Democratic Republic/RH_DELP_C_PRT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      DTP 3 coverage
+      Delivery in Private Facility
     </div>
   </a>
-  <img src="../../../assets/images/COD/CH_VACC_C_DP3.png" style="height: 340px; margin-left: 90px;">
+  <img src="../../../assets/images/COD/RH_DELP_C_PRT.png" style="height: 340px; margin-left: 90px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/COD/CH_VACC_C_DP3_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/COD/CH_VACC_C_DP3_ci_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/RH_DELP_C_PRT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/RH_DELP_C_PRT_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- RH_DELP_C_HOT !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Congo Democratic Republic/RH_DELP_C_HOT" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Delivery at home
+    </div>
+  </a>
+  <img src="../../../assets/images/COD/RH_DELP_C_HOT.png" style="height: 340px; margin-left: 90px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/COD/RH_DELP_C_HOT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/RH_DELP_C_HOT_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- RH_PCCT_C_DY2 !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Congo Democratic Republic/RH_PCCT_C_DY2" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Newborn postnatal check-up
+    </div>
+  </a>
+  <img src="../../../assets/images/COD/RH_PCCT_C_DY2.png" style="height: 340px; margin-left: 90px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/COD/RH_PCCT_C_DY2_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/RH_PCCT_C_DY2_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -125,6 +173,22 @@ hide:
 
 ---
 
+<!-- CH_VACC_C_DP3 !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Congo Democratic Republic/CH_VACC_C_DP3" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      DTP 3 coverage
+    </div>
+  </a>
+  <img src="../../../assets/images/COD/CH_VACC_C_DP3.png" style="height: 340px; margin-left: 90px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/COD/CH_VACC_C_DP3_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/CH_VACC_C_DP3_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
 <!-- CH_VACC_C_NON !-->
 <div style="display:flex; align-items:center;">
   <a href="/country_selection/Congo Democratic Republic/CH_VACC_C_NON" style="width:110px; font-weight:bold; font-size:12px;">
@@ -141,38 +205,6 @@ hide:
 
 ---
 
-<!-- CN_NUTS_C_HA2 !-->
-<div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/CN_NUTS_C_HA2" style="width:110px; font-weight:bold; font-size:12px;">
-    <div>
-      Stunting prevalence
-    </div>
-  </a>
-  <img src="../../../assets/images/COD/CN_NUTS_C_HA2.png" style="height: 340px; margin-left: 90px;">
-  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/COD/CN_NUTS_C_HA2_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/COD/CN_NUTS_C_HA2_ci_legend.png" style="height: 190px; width: 60px;">
-  </div>
-</div>
-
----
-
-<!-- CN_NUTS_C_WH2 !-->
-<div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/CN_NUTS_C_WH2" style="width:110px; font-weight:bold; font-size:12px;">
-    <div>
-      Wasting prevalence
-    </div>
-  </a>
-  <img src="../../../assets/images/COD/CN_NUTS_C_WH2.png" style="height: 340px; margin-left: 90px;">
-  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/COD/CN_NUTS_C_WH2_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/COD/CN_NUTS_C_WH2_ci_legend.png" style="height: 190px; width: 60px;">
-  </div>
-</div>
-
----
-
 <!-- ML_NETC_C_ITN !-->
 <div style="display:flex; align-items:center;">
   <a href="/country_selection/Congo Democratic Republic/ML_NETC_C_ITN" style="width:110px; font-weight:bold; font-size:12px;">
@@ -184,6 +216,38 @@ hide:
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/COD/ML_NETC_C_ITN_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/COD/ML_NETC_C_ITN_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- CH_DIAT_C_ORT !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Congo Democratic Republic/CH_DIAT_C_ORT" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Diarrhea
+    </div>
+  </a>
+  <img src="../../../assets/images/COD/CH_DIAT_C_ORT.png" style="height: 340px; margin-left: 90px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/COD/CH_DIAT_C_ORT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/CH_DIAT_C_ORT_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- ED_LITR_W_LIT !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Congo Democratic Republic/ED_LITR_W_LIT" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Women who are literate
+    </div>
+  </a>
+  <img src="../../../assets/images/COD/ED_LITR_W_LIT.png" style="height: 340px; margin-left: 90px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/COD/ED_LITR_W_LIT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/ED_LITR_W_LIT_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -216,22 +280,6 @@ hide:
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/COD/ED_EDUC_W_SEH_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/COD/ED_EDUC_W_SEH_ci_legend.png" style="height: 190px; width: 60px;">
-  </div>
-</div>
-
----
-
-<!-- ED_LITR_W_LIT !-->
-<div style="display:flex; align-items:center;">
-  <a href="/country_selection/Congo Democratic Republic/ED_LITR_W_LIT" style="width:110px; font-weight:bold; font-size:12px;">
-    <div>
-      Women who are literate
-    </div>
-  </a>
-  <img src="../../../assets/images/COD/ED_LITR_W_LIT.png" style="height: 340px; margin-left: 90px;">
-  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/COD/ED_LITR_W_LIT_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/COD/ED_LITR_W_LIT_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
