@@ -6,7 +6,7 @@ hide:
 # Nigeria
 
 <div class="pdf-link" style = "text-align: right; margin-top: -50px; margin-bottom: 50px">
-  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.11.20/report_Nigeria.pdf" target="_blank" >📄 Download Report</a>
+  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.11.20/Multi-Indicator-SAE-Nigeria.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
 <div style="text-align:right; margin-top:-20px; margin-bottom:30px">
