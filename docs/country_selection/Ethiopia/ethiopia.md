@@ -1,12 +1,12 @@
----
-hide:
-    - toc
+--- 
+hide: 
+    - toc 
 ---
 
 # Ethiopia
 
 <div class="pdf-link" style = "text-align: right; margin-top: -50px; margin-bottom: 50px">
-  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.9.16/report_Ethiopia.pdf" target="_blank" >📄 Download Report</a>
+  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.11.20/report_Ethiopia.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
 <div style="width: 87%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 70px">
@@ -26,6 +26,22 @@ hide:
   <div>(2019)</div>
   <div>(2016)</div>
   <div>(2019)</div>
+</div>
+
+---
+
+<!-- FP_CUSM_W_MOD !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Ethiopia/FP_CUSM_W_MOD" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Modern Contra- ception
+    </div>
+  </a>
+  <img src="../../../assets/images/ETH/FP_CUSM_W_MOD.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/ETH/FP_CUSM_W_MOD_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/FP_CUSM_W_MOD_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
 </div>
 
 ---
@@ -78,33 +94,65 @@ hide:
 
 ---
 
-<!-- FP_CUSM_W_MOD !-->
+<!-- RH_DELP_C_PUT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Ethiopia/FP_CUSM_W_MOD" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="/country_selection/Ethiopia/RH_DELP_C_PUT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      Modern Contra- ception
+      Delivery in Public Facility
     </div>
   </a>
-  <img src="../../../assets/images/ETH/FP_CUSM_W_MOD.png" style="height: 390px;">
+  <img src="../../../assets/images/ETH/RH_DELP_C_PUT.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/FP_CUSM_W_MOD_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/ETH/FP_CUSM_W_MOD_ci_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/RH_DELP_C_PUT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/RH_DELP_C_PUT_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
 ---
 
-<!-- CH_VACC_C_DP3 !-->
+<!-- RH_DELP_C_PRT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Ethiopia/CH_VACC_C_DP3" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="/country_selection/Ethiopia/RH_DELP_C_PRT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      DTP 3 coverage
+      Delivery in Private Facility
     </div>
   </a>
-  <img src="../../../assets/images/ETH/CH_VACC_C_DP3.png" style="height: 390px;">
+  <img src="../../../assets/images/ETH/RH_DELP_C_PRT.png" style="height: 390px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/CH_VACC_C_DP3_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/ETH/CH_VACC_C_DP3_ci_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/RH_DELP_C_PRT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/RH_DELP_C_PRT_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- RH_DELP_C_HOT !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Ethiopia/RH_DELP_C_HOT" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Delivery at home
+    </div>
+  </a>
+  <img src="../../../assets/images/ETH/RH_DELP_C_HOT.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/ETH/RH_DELP_C_HOT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/RH_DELP_C_HOT_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- RH_PCCT_C_DY2 !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Ethiopia/RH_PCCT_C_DY2" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Newborn postnatal check-up
+    </div>
+  </a>
+  <img src="../../../assets/images/ETH/RH_PCCT_C_DY2.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/ETH/RH_PCCT_C_DY2_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/RH_PCCT_C_DY2_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -126,6 +174,22 @@ hide:
 
 ---
 
+<!-- CH_VACC_C_DP3 !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Ethiopia/CH_VACC_C_DP3" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      DTP 3 coverage
+    </div>
+  </a>
+  <img src="../../../assets/images/ETH/CH_VACC_C_DP3.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/ETH/CH_VACC_C_DP3_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/CH_VACC_C_DP3_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
 <!-- CH_VACC_C_NON !-->
 <div style="display:flex; align-items:center;">
   <a href="/country_selection/Ethiopia/CH_VACC_C_NON" style="width:110px; font-weight:bold; font-size:12px;">
@@ -137,6 +201,121 @@ hide:
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/ETH/CH_VACC_C_NON_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/ETH/CH_VACC_C_NON_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- ML_NETC_C_ITN !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Ethiopia/ML_NETC_C_ITN" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      ITN use under 5
+    </div>
+  </a>
+  <img src="../../../assets/images/ETH/ML_NETC_C_ITN.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/ETH/ML_NETC_C_ITN_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/ML_NETC_C_ITN_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- CH_DIAT_C_ORT !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Ethiopia/CH_DIAT_C_ORT" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Diarrhea
+    </div>
+  </a>
+  <img src="../../../assets/images/ETH/CH_DIAT_C_ORT.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/ETH/CH_DIAT_C_ORT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/CH_DIAT_C_ORT_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- ED_LITR_W_LIT !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Ethiopia/ED_LITR_W_LIT" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Women who are literate
+    </div>
+  </a>
+  <img src="../../../assets/images/ETH/ED_LITR_W_LIT.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/ETH/ED_LITR_W_LIT_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/ED_LITR_W_LIT_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- CO_MOBB_W_MOB !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Ethiopia/CO_MOBB_W_MOB" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Mobile phone ownership (women)
+    </div>
+  </a>
+  <img src="../../../assets/images/ETH/CO_MOBB_W_MOB.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/ETH/CO_MOBB_W_MOB_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/CO_MOBB_W_MOB_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- ED_EDUC_W_SEH !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Ethiopia/ED_EDUC_W_SEH" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Women with secondary or higher education
+    </div>
+  </a>
+  <img src="../../../assets/images/ETH/ED_EDUC_W_SEH.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/ETH/ED_EDUC_W_SEH_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/ED_EDUC_W_SEH_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- HC_WIXQ_P_12Q !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Ethiopia/HC_WIXQ_P_12Q" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+     Lowest 2
+    </div>
+   <div>
+      Wealth Quintiles
+    </div>
+  </a>
+  <img src="../../../assets/images/ETH/HC_WIXQ_P_12Q.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/ETH/HC_WIXQ_P_12Q_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/HC_WIXQ_P_12Q_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- CM_ECMR_C_NNF !-->
+<div style="display:flex; align-items:center;">
+  <a href="/country_selection/Ethiopia/CM_ECMR_C_NNF" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Dying in first month
+    </div>
+  </a>
+  <img src="../../../assets/images/ETH/CM_ECMR_C_NNF.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/ETH/CM_ECMR_C_NNF_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/ETH/CM_ECMR_C_NNF_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -169,92 +348,5 @@ hide:
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/ETH/CN_NUTS_C_WH2_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/ETH/CN_NUTS_C_WH2_ci_legend.png" style="height: 190px; width: 60px;">
-  </div>
-</div>
-
----
-
-<!-- ML_NETC_C_ITN !-->
-<!--
-<div style="display:flex; align-items:center;">
-  <a href="/country_selection/Ethiopia/ML_NETC_C_ITN" style="width:110px; font-weight:bold; font-size:12px;">
-    <div>
-      ITN use under 5
-    </div>
-  </a>
-  <img src="../../../assets/images/ETH/ML_NETC_C_ITN.png" style="height: 390px;">
-  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/ML_NETC_C_ITN_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/ETH/ML_NETC_C_ITN_ci_legend.png" style="height: 190px; width: 60px;">
-  </div>
-</div>
-!-->
-
----
-
-<!-- CO_MOBB_W_MOB !-->
-<!--
-<div style="display:flex; align-items:center;">
-  <a href="/country_selection/Ethiopia/CO_MOBB_W_MOB" style="width:110px; font-weight:bold; font-size:12px;">
-    <div>
-      Mobile phone ownership (women)
-    </div>
-  </a>
-  <img src="../../../assets/images/ETH/CO_MOBB_W_MOB.png" style="height: 390px;">
-  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/CO_MOBB_W_MOB_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/ETH/CO_MOBB_W_MOB_ci_legend.png" style="height: 190px; width: 60px;">
-  </div>
-</div>
-!-->
-
----
-
-<!-- ED_EDUC_W_SEH !-->
-<div style="display:flex; align-items:center;">
-  <a href="/country_selection/Ethiopia/ED_EDUC_W_SEH" style="width:110px; font-weight:bold; font-size:12px;">
-    <div>
-      Women with secondary or higher education
-    </div>
-  </a>
-  <img src="../../../assets/images/ETH/ED_EDUC_W_SEH.png" style="height: 390px;">
-  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/ED_EDUC_W_SEH_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/ETH/ED_EDUC_W_SEH_ci_legend.png" style="height: 190px; width: 60px;">
-  </div>
-</div>
-
----
-
-<!-- ED_LITR_W_LIT !-->
-<div style="display:flex; align-items:center;">
-  <a href="/country_selection/Ethiopia/ED_LITR_W_LIT" style="width:110px; font-weight:bold; font-size:12px;">
-    <div>
-      Women who are literate
-    </div>
-  </a>
-  <img src="../../../assets/images/ETH/ED_LITR_W_LIT.png" style="height: 390px;">
-  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/ED_LITR_W_LIT_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/ETH/ED_LITR_W_LIT_ci_legend.png" style="height: 190px; width: 60px;">
-  </div>
-</div>
-
----
-
-<!-- HC_WIXQ_P_12Q !-->
-<div style="display:flex; align-items:center;">
-  <a href="/country_selection/Ethiopia/HC_WIXQ_P_12Q" style="width:110px; font-weight:bold; font-size:12px;">
-    <div>
-     Lowest 2
-    </div>
-   <div>
-      Wealth Quintiles
-    </div>
-  </a>
-  <img src="../../../assets/images/ETH/HC_WIXQ_P_12Q.png" style="height: 390px;">
-  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/HC_WIXQ_P_12Q_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/ETH/HC_WIXQ_P_12Q_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
