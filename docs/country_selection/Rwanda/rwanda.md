@@ -9,6 +9,10 @@ hide:
   <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.11.20/Multi-Indicator-SAE-Rwanda.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
+<div style="text-align:right; margin-top:-20px; margin-bottom:30px">
+  <a href="/estimates/RWA_combined_estimates.csv" download>📊 Download Full Estimates Data</a>
+</div>
+
 <div style="width: 87%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 70px">
   <div>Provinces</div>
   <div>Districts</div>
@@ -37,7 +41,7 @@ hide:
       Modern Contra- ception
     </div>
   </a>
-  <img src="../../../assets/images/RWA/FP_CUSM_W_MOD.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/FP_CUSM_W_MOD.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/FP_CUSM_W_MOD_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/FP_CUSM_W_MOD_ci_legend.png" style="height: 190px; width: 60px;">
@@ -53,7 +57,7 @@ hide:
       4+ ANC Visits
     </div>
   </a>
-  <img src="../../../assets/images/RWA/RH_ANCN_W_N4P.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/RH_ANCN_W_N4P.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/RH_ANCN_W_N4P_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/RH_ANCN_W_N4P_ci_legend.png" style="height: 190px; width: 60px;">
@@ -69,7 +73,7 @@ hide:
       Delivery by Skilled Provider
     </div>
   </a>
-  <img src="../../../assets/images/RWA/RH_DELA_C_SKP.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/RH_DELA_C_SKP.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/RH_DELA_C_SKP_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/RH_DELA_C_SKP_ci_legend.png" style="height: 190px; width: 60px;">
@@ -85,7 +89,7 @@ hide:
       Delivery in Health Facility
     </div>
   </a>
-  <img src="../../../assets/images/RWA/RH_DELP_C_DHT.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/RH_DELP_C_DHT.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/RH_DELP_C_DHT_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/RH_DELP_C_DHT_ci_legend.png" style="height: 190px; width: 60px;">
@@ -101,7 +105,7 @@ hide:
       Delivery in Public Facility
     </div>
   </a>
-  <img src="../../../assets/images/RWA/RH_DELP_C_PUT.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/RH_DELP_C_PUT.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/RH_DELP_C_PUT_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/RH_DELP_C_PUT_ci_legend.png" style="height: 190px; width: 60px;">
@@ -117,7 +121,7 @@ hide:
       Delivery in Private Facility
     </div>
   </a>
-  <img src="../../../assets/images/RWA/RH_DELP_C_PRT.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/RH_DELP_C_PRT.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/RH_DELP_C_PRT_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/RH_DELP_C_PRT_ci_legend.png" style="height: 190px; width: 60px;">
@@ -133,7 +137,7 @@ hide:
       Delivery at home
     </div>
   </a>
-  <img src="../../../assets/images/RWA/RH_DELP_C_HOT.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/RH_DELP_C_HOT.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/RH_DELP_C_HOT_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/RH_DELP_C_HOT_ci_legend.png" style="height: 190px; width: 60px;">
@@ -149,7 +153,7 @@ hide:
       Newborn postnatal check-up
     </div>
   </a>
-  <img src="../../../assets/images/RWA/RH_PCCT_C_DY2.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/RH_PCCT_C_DY2.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/RH_PCCT_C_DY2_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/RH_PCCT_C_DY2_ci_legend.png" style="height: 190px; width: 60px;">
@@ -165,7 +169,7 @@ hide:
       MCV 1 coverage
     </div>
   </a>
-  <img src="../../../assets/images/RWA/CH_VACC_C_MSL.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/CH_VACC_C_MSL.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/CH_VACC_C_MSL_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/CH_VACC_C_MSL_ci_legend.png" style="height: 190px; width: 60px;">
@@ -181,7 +185,7 @@ hide:
       DTP 3 coverage
     </div>
   </a>
-  <img src="../../../assets/images/RWA/CH_VACC_C_DP3.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/CH_VACC_C_DP3.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/CH_VACC_C_DP3_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/CH_VACC_C_DP3_ci_legend.png" style="height: 190px; width: 60px;">
@@ -197,7 +201,7 @@ hide:
       No Vaccination received
     </div>
   </a>
-  <img src="../../../assets/images/RWA/CH_VACC_C_NON.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/CH_VACC_C_NON.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/CH_VACC_C_NON_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/CH_VACC_C_NON_ci_legend.png" style="height: 190px; width: 60px;">
@@ -213,7 +217,7 @@ hide:
       ITN use under 5
     </div>
   </a>
-  <img src="../../../assets/images/RWA/ML_NETC_C_ITN.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/ML_NETC_C_ITN.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/ML_NETC_C_ITN_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/ML_NETC_C_ITN_ci_legend.png" style="height: 190px; width: 60px;">
@@ -229,7 +233,7 @@ hide:
       Diarrhea
     </div>
   </a>
-  <img src="../../../assets/images/RWA/CH_DIAT_C_ORT.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/CH_DIAT_C_ORT.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/CH_DIAT_C_ORT_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/CH_DIAT_C_ORT_ci_legend.png" style="height: 190px; width: 60px;">
@@ -245,7 +249,7 @@ hide:
       Women who are literate
     </div>
   </a>
-  <img src="../../../assets/images/RWA/ED_LITR_W_LIT.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/ED_LITR_W_LIT.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/ED_LITR_W_LIT_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/ED_LITR_W_LIT_ci_legend.png" style="height: 190px; width: 60px;">
@@ -261,7 +265,7 @@ hide:
       Mobile phone ownership (women)
     </div>
   </a>
-  <img src="../../../assets/images/RWA/CO_MOBB_W_MOB.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/CO_MOBB_W_MOB.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/CO_MOBB_W_MOB_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/CO_MOBB_W_MOB_ci_legend.png" style="height: 190px; width: 60px;">
@@ -277,7 +281,7 @@ hide:
       Women with secondary or higher education
     </div>
   </a>
-  <img src="../../../assets/images/RWA/ED_EDUC_W_SEH.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/ED_EDUC_W_SEH.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/ED_EDUC_W_SEH_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/ED_EDUC_W_SEH_ci_legend.png" style="height: 190px; width: 60px;">
@@ -296,7 +300,7 @@ hide:
       Wealth Quintiles
     </div>
   </a>
-  <img src="../../../assets/images/RWA/HC_WIXQ_P_12Q.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/HC_WIXQ_P_12Q.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/HC_WIXQ_P_12Q_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/HC_WIXQ_P_12Q_ci_legend.png" style="height: 190px; width: 60px;">
@@ -312,7 +316,7 @@ hide:
       Dying in first month
     </div>
   </a>
-  <img src="../../../assets/images/RWA/CM_ECMR_C_NNF.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/CM_ECMR_C_NNF.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/CM_ECMR_C_NNF_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/CM_ECMR_C_NNF_ci_legend.png" style="height: 190px; width: 60px;">
@@ -328,7 +332,7 @@ hide:
       Stunting prevalence
     </div>
   </a>
-  <img src="../../../assets/images/RWA/CN_NUTS_C_HA2.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/CN_NUTS_C_HA2.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/CN_NUTS_C_HA2_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/CN_NUTS_C_HA2_ci_legend.png" style="height: 190px; width: 60px;">
@@ -344,7 +348,7 @@ hide:
       Wasting prevalence
     </div>
   </a>
-  <img src="../../../assets/images/RWA/CN_NUTS_C_WH2.png" style="height: 390px;margin-left: 140px;">
+  <img src="../../../assets/images/RWA/CN_NUTS_C_WH2.png" style="height: 390px;margin-left: 0px;">
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/RWA/CN_NUTS_C_WH2_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ci_legend.png" style="height: 190px; width: 60px;">
