@@ -17,7 +17,7 @@ This Indicator represents the percentage of children 12-23 months who had receiv
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="../../../assets/images/BFA/CH_VACC_C_DP3_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/CH_VACC_C_DP3_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -33,7 +33,7 @@ This Indicator represents the percentage of children 12-23 months who had receiv
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="../../../assets/images/BFA/CH_VACC_C_DP3_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/CH_VACC_C_DP3_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

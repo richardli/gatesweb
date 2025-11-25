@@ -18,7 +18,7 @@ This Indicator represents the percent of population in lowest two wealth quintil
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="../../../assets/images/COD/HC_WIXQ_P_12Q_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/COD/HC_WIXQ_P_12Q_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This Indicator represents the percent of population in lowest two wealth quintil
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="../../../assets/images/COD/HC_WIXQ_P_12Q_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/COD/HC_WIXQ_P_12Q_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

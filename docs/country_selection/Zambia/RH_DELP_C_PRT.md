@@ -18,7 +18,7 @@ This Indicator represents the percentage of deliveries that occurred in private 
   <div style="font-size: 12px">2024</div>
 </div>
 
-<iframe src="../../../assets/images/ZMB/RH_DELP_C_PRT_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/ZMB/RH_DELP_C_PRT_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This Indicator represents the percentage of deliveries that occurred in private 
   <div style="font-size: 12px">2024</div>
 </div>
 
-<iframe src="../../../assets/images/ZMB/RH_DELP_C_PRT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/ZMB/RH_DELP_C_PRT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

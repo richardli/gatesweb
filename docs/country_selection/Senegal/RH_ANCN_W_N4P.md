@@ -18,7 +18,7 @@ This Indicator represents the percentage of women who had a live birth (or still
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="../../../assets/images/SEN/RH_ANCN_W_N4P_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/SEN/RH_ANCN_W_N4P_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This Indicator represents the percentage of women who had a live birth (or still
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="../../../assets/images/SEN/RH_ANCN_W_N4P_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/SEN/RH_ANCN_W_N4P_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

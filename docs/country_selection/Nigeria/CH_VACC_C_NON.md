@@ -18,7 +18,7 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
   <div style="font-size: 12px">2018</div>
 </div>
 
-<iframe src="../../../assets/images/NGA/CH_VACC_C_NON_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/NGA/CH_VACC_C_NON_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
   <div style="font-size: 12px">2018</div>
 </div>
 
-<iframe src="../../../assets/images/NGA/CH_VACC_C_NON_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/NGA/CH_VACC_C_NON_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot

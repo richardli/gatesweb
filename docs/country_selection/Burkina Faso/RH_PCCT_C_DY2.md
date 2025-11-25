@@ -17,7 +17,7 @@ This Indicator represents the percentage of newborns who received a postnatal ch
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="../../../assets/images/BFA/RH_PCCT_C_DY2_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/RH_PCCT_C_DY2_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -33,7 +33,7 @@ This Indicator represents the percentage of newborns who received a postnatal ch
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="../../../assets/images/BFA/RH_PCCT_C_DY2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/RH_PCCT_C_DY2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 
