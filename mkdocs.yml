@@ -53,7 +53,7 @@ nav:
       - Stunting prevalence: country_selection/Burkina Faso/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Burkina Faso/CN_NUTS_C_WH2.md
 
-  - Congo Democratic Republic:
+  - DRC:
     - Overview: country_selection/Congo Democratic Republic/congo_democratic_republic.md
     - Maternal Health:
       - Modern Contraception: country_selection/Congo Democratic Republic/FP_CUSM_W_MOD.md
