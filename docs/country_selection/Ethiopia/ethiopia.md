@@ -66,7 +66,7 @@ hide:
 
 ---
 
-<!-- RH_DELA_C_SKP !-->
+<!-- cc !-->
 <div style="display:flex; align-items:center;">
   <a href="../RH_DELA_C_SKP" style="width:110px; font-weight:bold; font-size:12px;">
     <div>

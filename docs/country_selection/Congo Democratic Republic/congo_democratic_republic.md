@@ -305,3 +305,51 @@ hide:
     <img src="../../../assets/images/COD/HC_WIXQ_P_12Q_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
+
+---
+
+<!-- CM_ECMR_C_NNF !-->
+<div style="display:flex; align-items:center;">
+  <a href="../CM_ECMR_C_NNF" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Dying in first month
+    </div>
+  </a>
+  <img src="../../../assets/images/COD/CM_ECMR_C_NNF.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/COD/CM_ECMR_C_NNF_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/CM_ECMR_C_NNF_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- CN_NUTS_C_HA2 !-->
+<div style="display:flex; align-items:center;">
+  <a href="../CN_NUTS_C_HA2" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Stunting prevalence
+    </div>
+  </a>
+  <img src="../../../assets/images/COD/CN_NUTS_C_HA2.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/COD/CN_NUTS_C_HA2_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/CN_NUTS_C_HA2_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- CN_NUTS_C_WH2 !-->
+<div style="display:flex; align-items:center;">
+  <a href="../CN_NUTS_C_WH2" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Wasting prevalence
+    </div>
+  </a>
+  <img src="../../../assets/images/COD/CN_NUTS_C_WH2.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/COD/CN_NUTS_C_WH2_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/COD/CN_NUTS_C_WH2_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
