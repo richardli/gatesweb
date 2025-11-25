@@ -18,7 +18,7 @@ This Indicator represents the percentage of deliveries that occurred in public f
   <div style="font-size: 12px">2018</div>
 </div>
 
-<iframe src="../../../assets/images/NGA/RH_DELP_C_PUT_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/NGA/RH_DELP_C_PUT_detail.html" style = "width: 2000px; height: 820px"></iframe>
 ---
 
 ## Width of 90% Confidence Interval
@@ -33,7 +33,7 @@ This Indicator represents the percentage of deliveries that occurred in public f
   <div style="font-size: 12px">2018</div>
 </div>
 
-<iframe src="../../../assets/images/NGA/RH_DELP_C_PUT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/NGA/RH_DELP_C_PUT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

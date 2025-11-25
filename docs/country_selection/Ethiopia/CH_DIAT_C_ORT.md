@@ -17,7 +17,7 @@ This Indicator represents the percentage of children under age 5 who had diarrhe
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="../../../assets/images/ETH/CH_DIAT_C_ORT_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/CH_DIAT_C_ORT_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -33,7 +33,7 @@ This Indicator represents the percentage of children under age 5 who had diarrhe
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="../../../assets/images/ETH/CH_DIAT_C_ORT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/CH_DIAT_C_ORT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

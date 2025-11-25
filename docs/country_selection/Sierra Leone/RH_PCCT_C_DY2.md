@@ -18,7 +18,7 @@ This Indicator represents the percentage of newborns who received a postnatal ch
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="../../../assets/images/SLE/RH_PCCT_C_DY2_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/SLE/RH_PCCT_C_DY2_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This Indicator represents the percentage of newborns who received a postnatal ch
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="../../../assets/images/SLE/RH_PCCT_C_DY2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/SLE/RH_PCCT_C_DY2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

@@ -18,7 +18,7 @@ This Indicator represents the percentage of deliveries that occurred at home in 
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="../../../assets/images/MLI/RH_DELP_C_HOT_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/MLI/RH_DELP_C_HOT_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This Indicator represents the percentage of deliveries that occurred at home in 
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="../../../assets/images/MLI/RH_DELP_C_HOT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/MLI/RH_DELP_C_HOT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

@@ -19,7 +19,7 @@ This Indicator represents the percentage of women who are literate
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="../../../assets/images/ETH/ED_LITR_W_LIT_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/ED_LITR_W_LIT_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -36,7 +36,7 @@ This Indicator represents the percentage of women who are literate
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="../../../assets/images/ETH/ED_LITR_W_LIT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/ED_LITR_W_LIT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot

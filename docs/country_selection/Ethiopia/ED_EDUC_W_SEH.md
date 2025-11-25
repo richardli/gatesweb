@@ -18,7 +18,7 @@ This Indicator represents the percentage of women who have received secondary or
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="../../../assets/images/ETH/ED_EDUC_W_SEH_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/ED_EDUC_W_SEH_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -35,7 +35,7 @@ This Indicator represents the percentage of women who have received secondary or
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="../../../assets/images/ETH/ED_EDUC_W_SEH_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/ED_EDUC_W_SEH_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot

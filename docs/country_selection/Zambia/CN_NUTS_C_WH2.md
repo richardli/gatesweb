@@ -17,7 +17,7 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
   <div style="font-size: 12px">2024</div>
 </div>
 
-<iframe src="../../../assets/images/ZMB/CN_NUTS_C_WH2_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/ZMB/CN_NUTS_C_WH2_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 <div>Width of 90% Confidence Interval</div>
 
@@ -31,7 +31,7 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
   <div style="font-size: 12px">2024</div>
 </div>
 
-<iframe src="../../../assets/images/ZMB/CN_NUTS_C_WH2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/ZMB/CN_NUTS_C_WH2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot

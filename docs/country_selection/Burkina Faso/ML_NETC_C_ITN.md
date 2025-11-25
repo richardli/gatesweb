@@ -18,7 +18,7 @@ This Indicator represents the percentage of children under age five who slept un
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="../../../assets/images/BFA/ML_NETC_C_ITN_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/ML_NETC_C_ITN_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This Indicator represents the percentage of children under age five who slept un
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="../../../assets/images/BFA/ML_NETC_C_ITN_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/ML_NETC_C_ITN_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

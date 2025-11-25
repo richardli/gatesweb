@@ -18,7 +18,7 @@ This Indicator represents the percentage of women who own a mobile phone
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="../../../assets/images/SLE/CO_MOBB_W_MOB_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/SLE/CO_MOBB_W_MOB_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 <div>Width of 90% Confidence Interval</div>
@@ -33,7 +33,7 @@ This Indicator represents the percentage of women who own a mobile phone
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="../../../assets/images/SLE/CO_MOBB_W_MOB_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/SLE/CO_MOBB_W_MOB_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot
