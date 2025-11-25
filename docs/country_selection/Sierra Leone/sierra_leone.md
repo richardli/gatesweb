@@ -32,7 +32,7 @@ hide:
 
 <!-- FP_CUSM_W_MOD !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/FP_CUSM_W_MOD" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../FP_CUSM_W_MOD" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Modern Contra- ception
     </div>
@@ -48,7 +48,7 @@ hide:
 
 <!-- RH_ANCN_W_N4P !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/RH_ANCN_W_N4P" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../RH_ANCN_W_N4P" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       4+ ANC Visits
     </div>
@@ -64,7 +64,7 @@ hide:
 
 <!-- RH_DELA_C_SKP !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/RH_DELA_C_SKP" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../RH_DELA_C_SKP" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Delivery by Skilled Provider
     </div>
@@ -80,7 +80,7 @@ hide:
 
 <!-- RH_DELP_C_DHT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/RH_DELP_C_DHT" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../RH_DELP_C_DHT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Delivery in Health Facility
     </div>
@@ -96,7 +96,7 @@ hide:
 
 <!-- RH_DELP_C_PUT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/RH_DELP_C_PUT" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../RH_DELP_C_PUT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Delivery in Public Facility
     </div>
@@ -112,7 +112,7 @@ hide:
 
 <!-- RH_DELP_C_PRT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/RH_DELP_C_PRT" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../RH_DELP_C_PRT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Delivery in Private Facility
     </div>
@@ -128,7 +128,7 @@ hide:
 
 <!-- RH_DELP_C_HOT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/RH_DELP_C_HOT" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../RH_DELP_C_HOT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Delivery at home
     </div>
@@ -144,7 +144,7 @@ hide:
 
 <!-- RH_PCCT_C_DY2 !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/RH_PCCT_C_DY2" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../RH_PCCT_C_DY2" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Newborn postnatal check-up
     </div>
@@ -160,7 +160,7 @@ hide:
 
 <!-- CH_VACC_C_MSL !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/CH_VACC_C_MSL" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../CH_VACC_C_MSL" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       MCV 1 coverage
     </div>
@@ -176,7 +176,7 @@ hide:
 
 <!-- CH_VACC_C_DP3 !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/CH_VACC_C_DP3" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../CH_VACC_C_DP3" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       DTP 3 coverage
     </div>
@@ -192,7 +192,7 @@ hide:
 
 <!-- CH_VACC_C_NON !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/CH_VACC_C_NON" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../CH_VACC_C_NON" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       No Vaccination received
     </div>
@@ -208,7 +208,7 @@ hide:
 
 <!-- ML_NETC_C_ITN !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/ML_NETC_C_ITN" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../ML_NETC_C_ITN" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       ITN use under 5
     </div>
@@ -224,7 +224,7 @@ hide:
 
 <!-- CH_DIAT_C_ORT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/CH_DIAT_C_ORT" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../CH_DIAT_C_ORT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Diarrhea
     </div>
@@ -240,7 +240,7 @@ hide:
 
 <!-- ED_LITR_W_LIT !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/ED_LITR_W_LIT" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../ED_LITR_W_LIT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Women who are literate
     </div>
@@ -256,7 +256,7 @@ hide:
 
 <!-- CO_MOBB_W_MOB !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/CO_MOBB_W_MOB" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../CO_MOBB_W_MOB" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Mobile phone ownership (women)
     </div>
@@ -272,7 +272,7 @@ hide:
 
 <!-- ED_EDUC_W_SEH !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/ED_EDUC_W_SEH" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../ED_EDUC_W_SEH" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Women with secondary or higher education
     </div>
@@ -288,7 +288,7 @@ hide:
 
 <!-- HC_WIXQ_P_12Q !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/HC_WIXQ_P_12Q" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../HC_WIXQ_P_12Q" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
      Lowest 2
     </div>
@@ -307,7 +307,7 @@ hide:
 
 <!-- CM_ECMR_C_NNF !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/CM_ECMR_C_NNF" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../CM_ECMR_C_NNF" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Dying in first month
     </div>
@@ -323,7 +323,7 @@ hide:
 
 <!-- CN_NUTS_C_HA2 !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/CN_NUTS_C_HA2" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../CN_NUTS_C_HA2" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Stunting prevalence
     </div>
@@ -339,7 +339,7 @@ hide:
 
 <!-- CN_NUTS_C_WH2 !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/CN_NUTS_C_WH2" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="../CN_NUTS_C_WH2" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Wasting prevalence
     </div>
