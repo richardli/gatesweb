@@ -42,12 +42,8 @@ jobs:
           --repo UW-Statistics/gatesweb \
           --pattern "*.html" \
           --dir docs/assets/images/html
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 1  # avoid fetching all history
-        lfs: true  # Check out Git LFS files
-   
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Free up space before build
       run: |
         echo "Disk usage before cleanup:"
