@@ -32,7 +32,7 @@ hide:
 
 <!-- FP_CUSM_W_MOD !-->
 <div style="display:flex; align-items:center;">
-  <a href="/country_selection/Tanzania/FP_CUSM_W_MOD" style="width:110px; font-weight:bold; font-size:12px;">
+  <a href="./FP_CUSM_W_MOD/" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
       Modern Contra- ception
     </div>
