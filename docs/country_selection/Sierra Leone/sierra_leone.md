@@ -10,7 +10,7 @@ hide:
 </div>
 
 <div style="text-align:right; margin-top:-20px; margin-bottom:30px">
-  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2025.11.25/SLE_combined_estimates.csv" download>📊 Download Full Estimates Data</a>
+  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2025.11.20/SLE_combined_estimates.csv" download>📊 Download Full Estimates Data</a>
 </div>
 
 <div style="width: 77%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 120px">
