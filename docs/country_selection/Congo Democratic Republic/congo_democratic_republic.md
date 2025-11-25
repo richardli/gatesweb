@@ -3,9 +3,13 @@ hide:
     - toc
 ---
 
-# Congo Democratic Republic
+# DRC
 <div class="pdf-link" style = "text-align: right; margin-top: -50px; margin-bottom: 50px">
   <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.11.20/Multi-Indicator-SAE-Congo.Democratic.Republic.pdf" target="_blank" >📄 Download Report</a>
+</div>
+
+<div style="text-align:right; margin-top:-20px; margin-bottom:30px">
+  <a href="/estimates/COD_combined_estimates.csv" download>📊 Download Full Estimates Data</a>
 </div>
 
 <div style="width: 58%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 205px; margin-bottom: -10px">

@@ -9,6 +9,10 @@ hide:
   <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.11.20/Multi-Indicator-SAE-Ethiopia.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
+<div style="text-align:right; margin-top:-20px; margin-bottom:30px">
+  <a href="/estimates/ETH_combined_estimates.csv" download>📊 Download Full Estimates Data</a>
+</div>
+
 <div style="width: 87%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 70px">
   <div>Regions</div>
   <div>Zones</div>
@@ -206,22 +210,6 @@ hide:
 
 ---
 
-<!-- ML_NETC_C_ITN !-->
-<div style="display:flex; align-items:center;">
-  <a href="/country_selection/Ethiopia/ML_NETC_C_ITN" style="width:110px; font-weight:bold; font-size:12px;">
-    <div>
-      ITN use under 5
-    </div>
-  </a>
-  <img src="../../../assets/images/ETH/ML_NETC_C_ITN.png" style="height: 390px;">
-  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/ML_NETC_C_ITN_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/ETH/ML_NETC_C_ITN_ci_legend.png" style="height: 190px; width: 60px;">
-  </div>
-</div>
-
----
-
 <!-- CH_DIAT_C_ORT !-->
 <div style="display:flex; align-items:center;">
   <a href="/country_selection/Ethiopia/CH_DIAT_C_ORT" style="width:110px; font-weight:bold; font-size:12px;">
@@ -249,22 +237,6 @@ hide:
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/ETH/ED_LITR_W_LIT_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/ETH/ED_LITR_W_LIT_ci_legend.png" style="height: 190px; width: 60px;">
-  </div>
-</div>
-
----
-
-<!-- CO_MOBB_W_MOB !-->
-<div style="display:flex; align-items:center;">
-  <a href="/country_selection/Ethiopia/CO_MOBB_W_MOB" style="width:110px; font-weight:bold; font-size:12px;">
-    <div>
-      Mobile phone ownership (women)
-    </div>
-  </a>
-  <img src="../../../assets/images/ETH/CO_MOBB_W_MOB.png" style="height: 390px;">
-  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
-    <img src="../../../assets/images/ETH/CO_MOBB_W_MOB_legend.png" style="height: 190px; width: 60px;">
-    <img src="../../../assets/images/ETH/CO_MOBB_W_MOB_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 

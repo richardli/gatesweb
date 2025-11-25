@@ -9,6 +9,10 @@ hide:
   <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.11.20/Multi-Indicator-SAE-Sierra.Leone.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
+<div style="text-align:right; margin-top:-20px; margin-bottom:30px">
+  <a href="/estimates/SLE_combined_estimates.csv" download>📊 Download Full Estimates Data</a>
+</div>
+
 <div style="width: 77%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 120px">
   <div>Provinces</div>
   <div>Districts</div>
