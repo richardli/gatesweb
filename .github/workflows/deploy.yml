@@ -30,7 +30,18 @@ jobs:
        sudo rm -rf /var/lib/apt/lists/* || true
        echo "Disk usage after cleanup:"
        df -h
-    
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+        lfs: true
+    - name: Download HTML from release
+      run: |
+        mkdir -p docs/assets/images/html
+        gh release download v2025.11.24 \
+          --repo UW-Statistics/gatesweb \
+          --pattern "*.html" \
+          --dir docs/assets/images/html
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
