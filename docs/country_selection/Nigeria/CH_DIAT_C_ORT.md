@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-# Children under age 5 who had diarrhea in the two weeks preceding the survey
+# Treatment of diarrhea: Either ORS or RHF
 
 This Indicator represents the percentage of children born in the five (or three) years preceding the survey with diarrhea in the two weeks preceding the survey who received either oral rehydration solution (ORS) or recommended home fluids (RHF)
 
