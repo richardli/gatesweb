@@ -214,7 +214,7 @@ hide:
 <div style="display:flex; align-items:center;">
   <a href="../CH_DIAT_C_ORT" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      Diarrhea
+      Diarrhea Treatment
     </div>
   </a>
   <img src="../../../assets/images/ETH/CH_DIAT_C_ORT.png" style="height: 390px;">
