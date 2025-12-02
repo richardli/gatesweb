@@ -4,9 +4,10 @@ hide:
 ---
 # Newborn postnatal check-up
 
-This Indicator represents the percentage of newborns who received a postnatal check-up in the two years preceding the survey.
+This indicator represents the percentage of last births in the two years preceding the survey who had their first postnatal
+checkup within the first two days after birth
 
-## Prevalance map
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>

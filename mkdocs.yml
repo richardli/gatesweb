@@ -42,14 +42,14 @@ nav:
       - DTP 3 coverage: country_selection/Burkina Faso/CH_VACC_C_DP3.md
       - No Vaccination received: country_selection/Burkina Faso/CH_VACC_C_NON.md
       - ITN use under 5: country_selection/Burkina Faso/ML_NETC_C_ITN.md
-      - Diarrhea: country_selection/Burkina Faso/CH_DIAT_C_ORT.md
+      - Diarrhea treatment: country_selection/Burkina Faso/CH_DIAT_C_ORT.md
     - Social Determinants of Health:
       - Women who are literate: country_selection/Burkina Faso/ED_LITR_W_LIT.md
-      - Mobile phone ownership (women): country_selection/Burkina Faso/CO_MOBB_W_MOB.md
+      - Women who own a mobile phone: country_selection/Burkina Faso/CO_MOBB_W_MOB.md
       - Women with secondary or higher education: country_selection/Burkina Faso/ED_EDUC_W_SEH.md
       - Lowest 2 Wealth Quintiles: country_selection/Burkina Faso/HC_WIXQ_P_12Q.md
-    - Outcomes:
-      - Dying in first month: country_selection/Burkina Faso/CM_ECMR_C_NNF.md
+    - Health Outcome:
+      - Neonatal Mortality: country_selection/Burkina Faso/CM_ECMR_C_NNF.md
       - Stunting prevalence: country_selection/Burkina Faso/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Burkina Faso/CN_NUTS_C_WH2.md
 
@@ -69,14 +69,14 @@ nav:
       - DTP 3 coverage: country_selection/Congo Democratic Republic/CH_VACC_C_DP3.md
       - No Vaccination received: country_selection/Congo Democratic Republic/CH_VACC_C_NON.md
       - ITN use under 5: country_selection/Congo Democratic Republic/ML_NETC_C_ITN.md
-      - Diarrhea: country_selection/Congo Democratic Republic/CH_DIAT_C_ORT.md
+      - Diarrhea treatment: country_selection/Congo Democratic Republic/CH_DIAT_C_ORT.md
     - Social Determinants of Health:
       - Women who are literate: country_selection/Congo Democratic Republic/ED_LITR_W_LIT.md
-      - Mobile phone ownership (women): country_selection/Congo Democratic Republic/CO_MOBB_W_MOB.md
+      - Women who own a mobile phone: country_selection/Congo Democratic Republic/CO_MOBB_W_MOB.md
       - Women with secondary or higher education: country_selection/Congo Democratic Republic/ED_EDUC_W_SEH.md
       - Lowest 2 Wealth Quintiles: country_selection/Congo Democratic Republic/HC_WIXQ_P_12Q.md
-    - Outcomes:
-      - Dying in first month: country_selection/Congo Democratic Republic/CM_ECMR_C_NNF.md
+    - Health Outcome:
+      - Neonatal Mortality: country_selection/Congo Democratic Republic/CM_ECMR_C_NNF.md
       - Stunting prevalence: country_selection/Congo Democratic Republic/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Congo Democratic Republic/CN_NUTS_C_WH2.md
 
@@ -95,13 +95,13 @@ nav:
       - MCV 1 coverage: country_selection/Ethiopia/CH_VACC_C_MSL.md
       - DTP 3 coverage: country_selection/Ethiopia/CH_VACC_C_DP3.md
       - No Vaccination received: country_selection/Ethiopia/CH_VACC_C_NON.md
-      - Diarrhea: country_selection/Ethiopia/CH_DIAT_C_ORT.md
+      - Diarrhea treatment: country_selection/Ethiopia/CH_DIAT_C_ORT.md
     - Social Determinants of Health:
       - Women who are literate: country_selection/Ethiopia/ED_LITR_W_LIT.md
       - Women with secondary or higher education: country_selection/Ethiopia/ED_EDUC_W_SEH.md
       - Lowest 2 Wealth Quintiles: country_selection/Ethiopia/HC_WIXQ_P_12Q.md
-    - Outcomes:
-      - Dying in first month: country_selection/Ethiopia/CM_ECMR_C_NNF.md
+    - Health Outcome:
+      - Neonatal Mortality: country_selection/Ethiopia/CM_ECMR_C_NNF.md
       - Stunting prevalence: country_selection/Ethiopia/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Ethiopia/CN_NUTS_C_WH2.md
 
@@ -121,14 +121,14 @@ nav:
       - DTP 3 coverage: country_selection/Kenya/CH_VACC_C_DP3.md
       - No Vaccination received: country_selection/Kenya/CH_VACC_C_NON.md
       - ITN use under 5: country_selection/Kenya/ML_NETC_C_ITN.md
-      - Diarrhea: country_selection/Kenya/CH_DIAT_C_ORT.md
+      - Diarrhea treatment: country_selection/Kenya/CH_DIAT_C_ORT.md
     - Social Determinants of Health:
       - Women who are literate: country_selection/Kenya/ED_LITR_W_LIT.md
-      - Mobile phone ownership (women): country_selection/Kenya/CO_MOBB_W_MOB.md
+      - Women who own a mobile phone: country_selection/Kenya/CO_MOBB_W_MOB.md
       - Women with secondary or higher education: country_selection/Kenya/ED_EDUC_W_SEH.md
       - Lowest 2 Wealth Quintiles: country_selection/Kenya/HC_WIXQ_P_12Q.md
-    - Outcomes:
-      - Dying in first month: country_selection/Kenya/CM_ECMR_C_NNF.md
+    - Health Outcome:
+      - Neonatal Mortality: country_selection/Kenya/CM_ECMR_C_NNF.md
       - Stunting prevalence: country_selection/Kenya/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Kenya/CN_NUTS_C_WH2.md
 
@@ -148,14 +148,14 @@ nav:
       - DTP 3 coverage: country_selection/Mozambique/CH_VACC_C_DP3.md
       - No Vaccination received: country_selection/Mozambique/CH_VACC_C_NON.md
       - ITN use under 5: country_selection/Mozambique/ML_NETC_C_ITN.md
-      - Diarrhea: country_selection/Mozambique/CH_DIAT_C_ORT.md
+      - Diarrhea treatment: country_selection/Mozambique/CH_DIAT_C_ORT.md
     - Social Determinants of Health:
       - Women who are literate: country_selection/Mozambique/ED_LITR_W_LIT.md
-      - Mobile phone ownership (women): country_selection/Mozambique/CO_MOBB_W_MOB.md
+      - Women who own a mobile phone: country_selection/Mozambique/CO_MOBB_W_MOB.md
       - Women with secondary or higher education: country_selection/Mozambique/ED_EDUC_W_SEH.md
       - Lowest 2 Wealth Quintiles: country_selection/Mozambique/HC_WIXQ_P_12Q.md
-    - Outcomes:
-      - Dying in first month: country_selection/Mozambique/CM_ECMR_C_NNF.md
+    - Health Outcome:
+      - Neonatal Mortality: country_selection/Mozambique/CM_ECMR_C_NNF.md
       - Stunting prevalence: country_selection/Mozambique/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Mozambique/CN_NUTS_C_WH2.md
 
@@ -175,14 +175,14 @@ nav:
       - DTP 3 coverage: country_selection/Nigeria/CH_VACC_C_DP3.md
       - No Vaccination received: country_selection/Nigeria/CH_VACC_C_NON.md
       - ITN use under 5: country_selection/Nigeria/ML_NETC_C_ITN.md
-      - Diarrhea: country_selection/Nigeria/CH_DIAT_C_ORT.md
+      - Diarrhea treatment: country_selection/Nigeria/CH_DIAT_C_ORT.md
     - Social Determinants of Health:
       - Women who are literate: country_selection/Nigeria/ED_LITR_W_LIT.md
-      - Mobile phone ownership (women): country_selection/Nigeria/CO_MOBB_W_MOB.md
+      - Women who own a mobile phone: country_selection/Nigeria/CO_MOBB_W_MOB.md
       - Women with secondary or higher education: country_selection/Nigeria/ED_EDUC_W_SEH.md
       - Lowest 2 Wealth Quintiles: country_selection/Nigeria/HC_WIXQ_P_12Q.md
-    - Outcomes:
-      - Dying in first month: country_selection/Nigeria/CM_ECMR_C_NNF.md
+    - Health Outcome:
+      - Neonatal Mortality: country_selection/Nigeria/CM_ECMR_C_NNF.md
       - Stunting prevalence: country_selection/Nigeria/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Nigeria/CN_NUTS_C_WH2.md
 
@@ -202,14 +202,14 @@ nav:
       - DTP 3 coverage: country_selection/Rwanda/CH_VACC_C_DP3.md
       - No Vaccination received: country_selection/Rwanda/CH_VACC_C_NON.md
       - ITN use under 5: country_selection/Rwanda/ML_NETC_C_ITN.md
-      - Diarrhea: country_selection/Rwanda/CH_DIAT_C_ORT.md
+      - Diarrhea treatment: country_selection/Rwanda/CH_DIAT_C_ORT.md
     - Social Determinants of Health:
       - Women who are literate: country_selection/Rwanda/ED_LITR_W_LIT.md
-      - Mobile phone ownership (women): country_selection/Rwanda/CO_MOBB_W_MOB.md
+      - Women who own a mobile phone: country_selection/Rwanda/CO_MOBB_W_MOB.md
       - Women with secondary or higher education: country_selection/Rwanda/ED_EDUC_W_SEH.md
       - Lowest 2 Wealth Quintiles: country_selection/Rwanda/HC_WIXQ_P_12Q.md
-    - Outcomes:
-      - Dying in first month: country_selection/Rwanda/CM_ECMR_C_NNF.md
+    - Health Outcome:
+      - Neonatal Mortality: country_selection/Rwanda/CM_ECMR_C_NNF.md
       - Stunting prevalence: country_selection/Rwanda/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Rwanda/CN_NUTS_C_WH2.md
 
@@ -229,14 +229,14 @@ nav:
       - DTP 3 coverage: country_selection/Senegal/CH_VACC_C_DP3.md
       - No Vaccination received: country_selection/Senegal/CH_VACC_C_NON.md
       - ITN use under 5: country_selection/Senegal/ML_NETC_C_ITN.md
-      - Diarrhea: country_selection/Senegal/CH_DIAT_C_ORT.md
+      - Diarrhea treatment: country_selection/Senegal/CH_DIAT_C_ORT.md
     - Social Determinants of Health:
       - Women who are literate: country_selection/Senegal/ED_LITR_W_LIT.md
-      - Mobile phone ownership (women): country_selection/Senegal/CO_MOBB_W_MOB.md
+      - Women who own a mobile phone: country_selection/Senegal/CO_MOBB_W_MOB.md
       - Women with secondary or higher education: country_selection/Senegal/ED_EDUC_W_SEH.md
       - Lowest 2 Wealth Quintiles: country_selection/Senegal/HC_WIXQ_P_12Q.md
-    - Outcomes:
-      - Dying in first month: country_selection/Senegal/CM_ECMR_C_NNF.md
+    - Health Outcome:
+      - Neonatal Mortality: country_selection/Senegal/CM_ECMR_C_NNF.md
       - Stunting prevalence: country_selection/Senegal/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Senegal/CN_NUTS_C_WH2.md
 
@@ -256,14 +256,14 @@ nav:
       - DTP 3 coverage: country_selection/Tanzania/CH_VACC_C_DP3.md
       - No Vaccination received: country_selection/Tanzania/CH_VACC_C_NON.md
       - ITN use under 5: country_selection/Tanzania/ML_NETC_C_ITN.md
-      - Diarrhea: country_selection/Tanzania/CH_DIAT_C_ORT.md
+      - Diarrhea treatment: country_selection/Tanzania/CH_DIAT_C_ORT.md
     - Social Determinants of Health:
       - Women who are literate: country_selection/Tanzania/ED_LITR_W_LIT.md
-      - Mobile phone ownership (women): country_selection/Tanzania/CO_MOBB_W_MOB.md
+      - Women who own a mobile phone: country_selection/Tanzania/CO_MOBB_W_MOB.md
       - Women with secondary or higher education: country_selection/Tanzania/ED_EDUC_W_SEH.md
       - Lowest 2 Wealth Quintiles: country_selection/Tanzania/HC_WIXQ_P_12Q.md
-    - Outcomes:
-      - Dying in first month: country_selection/Tanzania/CM_ECMR_C_NNF.md
+    - Health Outcome:
+      - Neonatal Mortality: country_selection/Tanzania/CM_ECMR_C_NNF.md
       - Stunting prevalence: country_selection/Tanzania/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Tanzania/CN_NUTS_C_WH2.md
   - Zambia:
@@ -282,14 +282,14 @@ nav:
       - DTP 3 coverage: country_selection/Zambia/CH_VACC_C_DP3.md
       - No Vaccination received: country_selection/Zambia/CH_VACC_C_NON.md
       - ITN use under 5: country_selection/Zambia/ML_NETC_C_ITN.md
-      - Diarrhea: country_selection/Zambia/CH_DIAT_C_ORT.md
+      - Diarrhea treatment: country_selection/Zambia/CH_DIAT_C_ORT.md
     - Social Determinants of Health:
       - Women who are literate: country_selection/Zambia/ED_LITR_W_LIT.md
-      - Mobile phone ownership (women): country_selection/Zambia/CO_MOBB_W_MOB.md
+      - Women who own a mobile phone: country_selection/Zambia/CO_MOBB_W_MOB.md
       - Women with secondary or higher education: country_selection/Zambia/ED_EDUC_W_SEH.md
       - Lowest 2 Wealth Quintiles: country_selection/Zambia/HC_WIXQ_P_12Q.md
-    - Outcomes:
-      - Dying in first month: country_selection/Zambia/CM_ECMR_C_NNF.md
+    - Health Outcome:
+      - Neonatal Mortality: country_selection/Zambia/CM_ECMR_C_NNF.md
       - Stunting prevalence: country_selection/Zambia/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Zambia/CN_NUTS_C_WH2.md
   
@@ -310,14 +310,14 @@ nav:
         - DTP 3 coverage: country_selection/Mali/CH_VACC_C_DP3.md
         - No Vaccination received: country_selection/Mali/CH_VACC_C_NON.md
         - ITN use under 5: country_selection/Mali/ML_NETC_C_ITN.md
-        - Diarrhea: country_selection/Mali/CH_DIAT_C_ORT.md
+        - Diarrhea treatment: country_selection/Mali/CH_DIAT_C_ORT.md
       - Social Determinants of Health:
         - Women who are literate: country_selection/Mali/ED_LITR_W_LIT.md
-        - Mobile phone ownership (women): country_selection/Mali/CO_MOBB_W_MOB.md
+        - Women who own a mobile phone: country_selection/Mali/CO_MOBB_W_MOB.md
         - Women with secondary or higher education: country_selection/Mali/ED_EDUC_W_SEH.md
         - Lowest 2 Wealth Quintiles: country_selection/Mali/HC_WIXQ_P_12Q.md
-      - Outcomes:
-        - Dying in first month: country_selection/Mali/CM_ECMR_C_NNF.md
+      - Health Outcome:
+        - Neonatal Mortality: country_selection/Mali/CM_ECMR_C_NNF.md
         - Stunting prevalence: country_selection/Mali/CN_NUTS_C_HA2.md
         - Wasting prevalence: country_selection/Mali/CN_NUTS_C_WH2.md
     - Sierra Leone:
@@ -336,14 +336,14 @@ nav:
         - DTP 3 coverage: country_selection/Sierra Leone/CH_VACC_C_DP3.md
         - No Vaccination received: country_selection/Sierra Leone/CH_VACC_C_NON.md
         - ITN use under 5: country_selection/Sierra Leone/ML_NETC_C_ITN.md
-        - Diarrhea: country_selection/Sierra Leone/CH_DIAT_C_ORT.md
+        - Diarrhea treatment: country_selection/Sierra Leone/CH_DIAT_C_ORT.md
       - Social Determinants of Health:
         - Women who are literate: country_selection/Sierra Leone/ED_LITR_W_LIT.md
-        - Mobile phone ownership (women): country_selection/Sierra Leone/CO_MOBB_W_MOB.md
+        - Women who own a mobile phone: country_selection/Sierra Leone/CO_MOBB_W_MOB.md
         - Women with secondary or higher education: country_selection/Sierra Leone/ED_EDUC_W_SEH.md
         - Lowest 2 Wealth Quintiles: country_selection/Sierra Leone/HC_WIXQ_P_12Q.md
-      - Outcomes:
-        - Dying in first month: country_selection/Sierra Leone/CM_ECMR_C_NNF.md
+      - Health Outcome:
+        - Neonatal Mortality: country_selection/Sierra Leone/CM_ECMR_C_NNF.md
         - Stunting prevalence: country_selection/Sierra Leone/CN_NUTS_C_HA2.md
         - Wasting prevalence: country_selection/Sierra Leone/CN_NUTS_C_WH2.md
   

@@ -4,8 +4,8 @@ hide:
 ---
 # Wasting Rate
 
-This Indicator represents the percentage of children wasted (below -2 SD of weight for height according to the WHO standard)
-## Prevalance map
+This indicator represents the percentage of children wasted (below -2 SD of weight for height according to the WHO standard)
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>

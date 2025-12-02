@@ -4,9 +4,9 @@ hide:
 ---
 # Percent of Women Who are Literate
 
-This Indicator represents the percentage of women who are literate
+This indicator represents the percentage of women who are literate
 
-## Prevalance map
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>

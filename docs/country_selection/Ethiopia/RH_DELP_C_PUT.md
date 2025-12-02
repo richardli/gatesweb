@@ -4,9 +4,9 @@ hide:
 ---
 # Place of delivery: Public facility
 
-This Indicator represents the percentage of deliveries that occurred in public facilities in the two years preceding the survey.
+This indicator represents the percentage of deliveries that occurred in public facilities in the two years preceding the survey.
 
-## Prevalance map
+## Prevalence map
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
   <div style="font-size: 20px">Latest</div>

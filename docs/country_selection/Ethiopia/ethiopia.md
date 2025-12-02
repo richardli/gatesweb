@@ -10,7 +10,7 @@ hide:
 </div>
 
 <div style="text-align:right; margin-top:-20px; margin-bottom:30px">
-  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2025.11.20/ETH_combined_estimates.csv" download>📊 Download Full Estimates Data</a>
+  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2025.11.20/ETH_combined_estimates.csv" download>📊 Download Estimates as CSV</a>
 </div>
 
 <div style="width: 87%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 70px">
@@ -281,7 +281,7 @@ hide:
 <div style="display:flex; align-items:center;">
   <a href="../CM_ECMR_C_NNF" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      Dying in first month
+      Neonatal Mortality
     </div>
   </a>
   <img src="../../../assets/images/ETH/CM_ECMR_C_NNF.png" style="height: 390px;">

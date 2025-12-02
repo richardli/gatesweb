@@ -4,9 +4,9 @@ hide:
 ---
 # Children Under 5 Who Slept Under an ITN
 
-This Indicator represents the percentage of children under age five who slept under an insecticide treated net (ITN) the night before the survey
+This indicator represents the percentage of children under age five who slept under an insecticide treated net (ITN) the night before the survey
 
-## Prevalance map
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Baseline</div>
