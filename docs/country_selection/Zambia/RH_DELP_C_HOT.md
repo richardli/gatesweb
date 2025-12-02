@@ -4,7 +4,7 @@ hide:
 ---
 # Place of delivery: At home
 
-This Indicator represents the percentage of deliveries that occurred at home in the two two years preceding the survey.
+This Indicator represents the percentage of deliveries that occurred at home in the five years preceding the survey.
 
 ## Prevalance map
 

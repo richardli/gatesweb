@@ -4,7 +4,7 @@ hide:
 ---
 # Probability of dying in the first month of life in the five years preceding the survey
 
-This Indicator represents the probability of dying in the first month of life in the two two years preceding the survey.
+This Indicator represents the probability of dying in the first month of life in the five years preceding the survey.
 
 ## Prevalance map
 

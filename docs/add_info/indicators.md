@@ -36,10 +36,10 @@ This Indicator represents the percentage of currently married or in union women 
 This Indicator represents the percent of population in lowest two wealth quintiles
 
 ### At Least 4 Antenatal Care Visit:
-This Indicator represents the percentage of women who had a live birth (or stillbirth) in the two years preceding the survey who had 4+ antenatal care visits
+This Indicator represents the percentage of women who had a live birth  in the two years preceding the survey who had 4+ antenatal care visits
 
 ### Skill Birth Attendance:
-This Indicator represents the percentage of live births (or stillbirths) in the two years preceding the survey assisted by a skilled provider. Skilled provider includes doctor, nurse, midwife and auxiliary nurse or midwife.
+This Indicator represents the percentage of live births  in the two years preceding the survey assisted by a skilled provider. Skilled provider usually includes doctor, nurse, midwife and auxiliary nurse or midwife, unless specified otherwise for a specific survey.
 
 ### Place of Delivery: Health Facility:
-This Indicator represents the percentage of live births (or stillbirths) in the two two years preceding the survey delivered at a health facility
+This Indicator represents the percentage of live births  in the five years preceding the survey delivered at a health facility

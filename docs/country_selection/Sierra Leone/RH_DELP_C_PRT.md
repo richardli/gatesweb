@@ -4,7 +4,7 @@ hide:
 ---
 # Place of delivery: Private facility
 
-This Indicator represents the percentage of deliveries that occurred in private facilities in the two two years preceding the survey.
+This Indicator represents the percentage of deliveries that occurred in private facilities in the five years preceding the survey.
 
 ## Prevalance map
 

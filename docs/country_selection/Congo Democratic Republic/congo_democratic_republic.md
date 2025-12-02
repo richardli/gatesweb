@@ -9,7 +9,7 @@ hide:
 </div>
 
 <div style="text-align:right; margin-top:-20px; margin-bottom:30px">
-  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2025.11.20/COD_combined_estimates.csv" download>📊 Download Full Estimates Data</a>
+  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2025.11.20/COD_combined_estimates.csv" download>📊 Download Estimates as CSV</a>
 </div>
 
 <div style="width: 58%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 205px; margin-bottom: -10px">
@@ -261,7 +261,7 @@ hide:
 <div style="display:flex; align-items:center;">
   <a href="../CO_MOBB_W_MOB" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      Mobile phone ownership (women)
+      Women who own a mobile phone
     </div>
   </a>
   <img src="../../../assets/images/COD/CO_MOBB_W_MOB.png" style="height: 340px; margin-left: 90px;">
@@ -312,7 +312,7 @@ hide:
 <div style="display:flex; align-items:center;">
   <a href="../CM_ECMR_C_NNF" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-      Dying in first month
+      Neonatal Mortality
     </div>
   </a>
   <img src="../../../assets/images/COD/CM_ECMR_C_NNF.png" style="height: 390px;">

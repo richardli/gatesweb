@@ -2,9 +2,9 @@
 hide:
     - toc
 ---
-# Place of Delivery: Health Facility+
+# Place of Delivery: Health Facility
 
-This Indicator represents the percentage of live births (or stillbirths) in the two two years preceding the survey delivered at a health facility
+This Indicator represents the percentage of live births  in the five years preceding the survey delivered at a health facility
 
 ## Prevalance map
 

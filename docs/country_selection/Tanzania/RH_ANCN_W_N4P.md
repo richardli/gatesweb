@@ -4,7 +4,7 @@ hide:
 ---
 # At Least 4 Antenatal Care Visit
 
-This Indicator represents the percentage of women who had a live birth (or stillbirth) in the two years preceding the survey who had 4+ antenatal care visits
+This Indicator represents the percentage of women who had a live birth  in the two years preceding the survey who had 4+ antenatal care visits
 
 ## Prevalance map
 
