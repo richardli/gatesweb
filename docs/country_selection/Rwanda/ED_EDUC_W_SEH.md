@@ -4,8 +4,8 @@ hide:
 ---
 # Percent of Women With Secondary or Higher Education
 
-This Indicator represents the percentage of women who have received secondary or higher education
-## Prevalance map
+This indicator represents the percentage of women who have received secondary or higher education
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Baseline</div>

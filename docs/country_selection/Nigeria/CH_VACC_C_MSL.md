@@ -4,9 +4,9 @@ hide:
 ---
 # MCV 1 Vaccine Coverage
 
-This Indicator represents the percentage of children 12-23 months who had received Measles vaccination
+This indicator represents the percentage of children 12-23 months who had received Measles vaccination
 
-## Prevalance map
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>

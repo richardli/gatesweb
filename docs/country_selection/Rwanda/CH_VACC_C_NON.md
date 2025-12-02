@@ -4,9 +4,9 @@ hide:
 ---
 # Children who received no vaccinations
 
-This Indicator represents the percentage of children 12-23 months with no vaccinations
+This indicator represents the percentage of children 12-23 months with no vaccinations
 
-## Prevalance map
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Baseline</div>

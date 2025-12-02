@@ -4,23 +4,9 @@ hide:
 ---
 # Percent of Women Who are Literate
 
-This Indicator represents the percentage of women who are literate
+This indicator represents the percentage of women who are literate
 
-## Prevalance map
-
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Baseline</div>
-  <div style="font-size: 20px">Latest</div>
-</div>
-
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2014</div>
-  <div style="font-size: 12px">2019</div>
-</div>
-
-<iframe src="https://lucyxuu.github.io/gatesweb_html2/RWA/ED_LITR_W_LIT_detail.html" style = "width: 2000px; height: 820px"></iframe>
-
-## Ridge Plot
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Baseline</div>
@@ -33,8 +19,6 @@ This Indicator represents the percentage of women who are literate
 </div>
 
 <iframe src="https://lucyxuu.github.io/gatesweb_html2/RWA/ED_LITR_W_LIT_detail.html" style = "width: 2000px; height: 820px"></iframe>
-
----
 
 ## Width of 90% Confidence Interval
 

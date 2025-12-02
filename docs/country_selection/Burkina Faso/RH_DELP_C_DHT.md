@@ -4,9 +4,9 @@ hide:
 ---
 # Place of Delivery: Health Facility
 
-This Indicator represents the percentage of live births  in the five years preceding the survey delivered at a health facility
+This indicator represents the percentage of live births  in the five years preceding the survey delivered at a health facility
 
-## Prevalance map
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Year 2010</div>

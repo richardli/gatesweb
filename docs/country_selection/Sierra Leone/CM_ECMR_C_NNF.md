@@ -4,9 +4,9 @@ hide:
 ---
 # Probability of dying in the first month of life in the five years preceding the survey
 
-This Indicator represents the probability of dying in the first month of life in the five years preceding the survey.
+This indicator represents the probability of dying in the first month of life in the five years preceding the survey.
 
-## Prevalance map
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>

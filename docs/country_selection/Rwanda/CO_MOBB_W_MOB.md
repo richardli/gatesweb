@@ -4,9 +4,9 @@ hide:
 ---
 # Percent of women who own a mobile phone
 
-This Indicator represents the percentage of women who own a mobile phone
+This indicator represents the percentage of women who own a mobile phone
 
-## Prevalance map
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Baseline</div>
