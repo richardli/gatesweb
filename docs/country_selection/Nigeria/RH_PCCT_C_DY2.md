@@ -15,8 +15,8 @@ checkup within the first two days after birth
 </div>
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2013</div>
-  <div style="font-size: 12px">2018</div>
+  <div style="font-size: 12px">2024</div>
+  <div style="font-size: 12px">2024</div>
 </div>
 
 <iframe src="https://lucyxuu.github.io/gatesweb_html2/NGA/RH_PCCT_C_DY2_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -30,8 +30,8 @@ checkup within the first two days after birth
 </div>
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2013</div>
-  <div style="font-size: 12px">2018</div>
+  <div style="font-size: 12px">2024</div>
+  <div style="font-size: 12px">2024</div>
 </div>
 
 <iframe src="https://lucyxuu.github.io/gatesweb_html2/NGA/RH_PCCT_C_DY2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
