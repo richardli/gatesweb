@@ -2,9 +2,9 @@
 hide:
     - toc
 ---
-# Probability of dying in the first month of life in the five years preceding the survey
+# Number of death in the first month of life in the five years preceding the survey
 
-This indicator represents the probability of dying in the first month of life in the five years preceding the survey.
+This indicator represents the number of death in the first month of life in the five years preceding the survey, per 1000 live births.
 
 ## Prevalence map
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
