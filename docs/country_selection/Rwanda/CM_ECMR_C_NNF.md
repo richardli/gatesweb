@@ -2,11 +2,9 @@
 hide:
     - toc
 ---
-# Deaths per 1000 live births in the first month of life in the five years preceding
-the survey
+# Deaths per 1000 live births in the first month of life in the five years preceding the survey
 
-This indicator represents the deaths per 1000 live births in the first month of life in the five years preceding
-the survey, per 1000 live births.
+This indicator represents the deaths per 1000 live births in the first month of life in the five years preceding the survey.
 
 ## Prevalence map
 
