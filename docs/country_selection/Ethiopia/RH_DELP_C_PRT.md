@@ -17,7 +17,7 @@ This indicator represents the percentage of deliveries that occurred in private 
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/RH_DELP_C_PRT_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/ETH/RH_DELP_C_PRT_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -33,7 +33,7 @@ This indicator represents the percentage of deliveries that occurred in private 
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/RH_DELP_C_PRT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/ETH/RH_DELP_C_PRT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

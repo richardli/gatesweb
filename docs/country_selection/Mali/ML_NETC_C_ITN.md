@@ -18,7 +18,7 @@ This indicator represents the percentage of children under age five who slept un
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/MLI/ML_NETC_C_ITN_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/MLI/ML_NETC_C_ITN_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This indicator represents the percentage of children under age five who slept un
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/MLI/ML_NETC_C_ITN_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/MLI/ML_NETC_C_ITN_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

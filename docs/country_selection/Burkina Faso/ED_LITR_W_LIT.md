@@ -18,7 +18,7 @@ This indicator represents the percentage of women who are literate
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/ED_LITR_W_LIT_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/BFA/ED_LITR_W_LIT_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This indicator represents the percentage of women who are literate
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/ED_LITR_W_LIT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/BFA/ED_LITR_W_LIT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot
