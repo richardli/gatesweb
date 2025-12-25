@@ -18,7 +18,7 @@ This indicator represents the percentage of currently married or in union women 
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/FP_CUSM_W_MOD_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/BFA/FP_CUSM_W_MOD_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This indicator represents the percentage of currently married or in union women 
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/FP_CUSM_W_MOD_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/BFA/FP_CUSM_W_MOD_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot

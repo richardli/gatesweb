@@ -17,7 +17,7 @@ This indicator represents the deaths per 1000 live births in the first month of 
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/CM_ECMR_C_NNF_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/BFA/CM_ECMR_C_NNF_detail.html" style = "width: 2000px; height: 820px"></iframe>
 ---
 
 ## Width of 90% Confidence Interval
@@ -32,7 +32,7 @@ This indicator represents the deaths per 1000 live births in the first month of 
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/CM_ECMR_C_NNF_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/BFA/CM_ECMR_C_NNF_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

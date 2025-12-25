@@ -18,7 +18,7 @@ This indicator represents the percentage of children stunted (below -2 SD of hei
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html2/SEN/CN_NUTS_C_HA2_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html2/SEN/CN_NUTS_C_HA2_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This indicator represents the percentage of children stunted (below -2 SD of hei
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html2/SEN/CN_NUTS_C_HA2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html2/SEN/CN_NUTS_C_HA2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot

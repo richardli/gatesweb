@@ -18,7 +18,7 @@ checkup within the first two days after birth
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/RH_PCCT_C_DY2_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/BFA/RH_PCCT_C_DY2_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ checkup within the first two days after birth
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/RH_PCCT_C_DY2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/BFA/RH_PCCT_C_DY2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

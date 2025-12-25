@@ -13,7 +13,7 @@ This indicator represents the percentage of live births  in the five years prece
   <div style="font-size: 20px">Year 2021</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/RH_DELP_C_DHT_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/BFA/RH_DELP_C_DHT_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -24,7 +24,7 @@ This indicator represents the percentage of live births  in the five years prece
   <div style="font-size: 20px">Year 2021</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/RH_DELP_C_DHT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/BFA/RH_DELP_C_DHT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

@@ -18,7 +18,7 @@ This indicator represents the deaths per 1000 live births in the first month of 
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html2/SLE/CM_ECMR_C_NNF_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html2/SLE/CM_ECMR_C_NNF_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This indicator represents the deaths per 1000 live births in the first month of 
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html2/SLE/CM_ECMR_C_NNF_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html2/SLE/CM_ECMR_C_NNF_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

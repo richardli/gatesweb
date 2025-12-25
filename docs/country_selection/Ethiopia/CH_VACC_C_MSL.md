@@ -19,7 +19,7 @@ This indicator represents the percentage of children 12-23 months who had receiv
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/CH_VACC_C_MSL_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/ETH/CH_VACC_C_MSL_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -36,7 +36,7 @@ This indicator represents the percentage of children 12-23 months who had receiv
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/CH_VACC_C_MSL_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/ETH/CH_VACC_C_MSL_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

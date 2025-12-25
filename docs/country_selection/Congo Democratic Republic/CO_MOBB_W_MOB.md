@@ -18,7 +18,7 @@ This indicator represents the percentage of women who own a mobile phone
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/COD/CO_MOBB_W_MOB_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/COD/CO_MOBB_W_MOB_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This indicator represents the percentage of women who own a mobile phone
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/COD/CO_MOBB_W_MOB_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://uw-statistics.github.io/gatesweb_html1/COD/CO_MOBB_W_MOB_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot
