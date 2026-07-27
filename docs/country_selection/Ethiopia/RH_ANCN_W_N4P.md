@@ -15,8 +15,8 @@ This indicator represents the percentage of women who had a live birth  in the t
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2016</div>
   <div style="font-size: 12px">2019</div>
+  <div style="font-size: 12px">2024</div>
 </div>
 
 <iframe src="https://uw-statistics.github.io/gatesweb_html1/ETH/RH_ANCN_W_N4P_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -32,8 +32,8 @@ This indicator represents the percentage of women who had a live birth  in the t
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2016</div>
   <div style="font-size: 12px">2019</div>
+  <div style="font-size: 12px">2024</div>
 </div>
 
 <iframe src="https://uw-statistics.github.io/gatesweb_html1/ETH/RH_ANCN_W_N4P_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
