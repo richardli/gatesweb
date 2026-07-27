@@ -6,11 +6,11 @@ hide:
 # Ethiopia
 
 <div class="pdf-link" style = "text-align: right; margin-top: -50px; margin-bottom: 50px">
-  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.11.20/Multi-Indicator-SAE-Ethiopia.pdf" target="_blank" >📄 Download Report</a>
+  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2026.07.26/Multi-Indicator-SAE-Ethiopia-2019-2024.pdf" target="_blank" >📄 Download Report</a>
 </div>
 
 <div style="text-align:right; margin-top:-20px; margin-bottom:30px">
-  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2025.11.20/ETH_combined_estimates.csv" download>📊 Download Estimates as CSV</a>
+  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2026.07.26/ETH_combined_estimates.csv" download>📊 Download Estimates as CSV</a>
 </div>
 
 <div style="text-align:right; margin-top:-20px; margin-bottom:30px">
@@ -30,10 +30,10 @@ hide:
 </div>
 
 <div style="width: 87%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-size: 12px; margin-left: 70px">
-  <div>(2016)</div>
   <div>(2019)</div>
-  <div>(2016)</div>
+  <div>(2024)</div>
   <div>(2019)</div>
+  <div>(2024)</div>
 </div>
 
 ---

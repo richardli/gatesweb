@@ -346,6 +346,32 @@ nav:
         - Neonatal Mortality: country_selection/Sierra Leone/CM_ECMR_C_NNF.md
         - Stunting prevalence: country_selection/Sierra Leone/CN_NUTS_C_HA2.md
         - Wasting prevalence: country_selection/Sierra Leone/CN_NUTS_C_WH2.md
+    - Malawi:
+      - Overview: country_selection/Malawi/malawi.md
+      - Maternal Health:
+        - Modern Contraception: country_selection/Malawi/FP_CUSM_W_MOD.md
+        - 4+ ANC Visits: country_selection/Malawi/RH_ANCN_W_N4P.md
+        - Delivery by Skilled Provider: country_selection/Malawi/RH_DELA_C_SKP.md
+        - Delivery in Health Facility: country_selection/Malawi/RH_DELP_C_DHT.md
+        - Delivery in Public Facility: country_selection/Malawi/RH_DELP_C_PUT.md
+        - Delivery in Private Facility: country_selection/Malawi/RH_DELP_C_PRT.md
+        - Delivery at home: country_selection/Malawi/RH_DELP_C_HOT.md
+        - Newborn postnatal check-up: country_selection/Malawi/RH_PCCT_C_DY2.md
+      - Child Health:
+        - MCV 1 coverage: country_selection/Malawi/CH_VACC_C_MSL.md
+        - DTP 3 coverage: country_selection/Malawi/CH_VACC_C_DP3.md
+        - No Vaccination received: country_selection/Malawi/CH_VACC_C_NON.md
+        - ITN use under 5: country_selection/Malawi/ML_NETC_C_ITN.md
+        - Diarrhea treatment: country_selection/Malawi/CH_DIAT_C_ORT.md
+      - Social Determinants of Health:
+        - Women who are literate: country_selection/Malawi/ED_LITR_W_LIT.md
+        - Women who own a mobile phone: country_selection/Malawi/CO_MOBB_W_MOB.md
+        - Women with secondary or higher education: country_selection/Malawi/ED_EDUC_W_SEH.md
+        - Lowest 2 Wealth Quintiles: country_selection/Malawi/HC_WIXQ_P_12Q.md
+      - Health Outcome:
+        - Neonatal Mortality: country_selection/Malawi/CM_ECMR_C_NNF.md
+        - Stunting prevalence: country_selection/Malawi/CN_NUTS_C_HA2.md
+        - Wasting prevalence: country_selection/Malawi/CN_NUTS_C_WH2.md
   
   
   - More Info:
