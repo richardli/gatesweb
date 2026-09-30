@@ -13,7 +13,7 @@ This indicator represents the percentage of women who have received secondary or
 </div>
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2014</div>
+  <div style="font-size: 12px">2011</div>
   <div style="font-size: 12px">2022</div>
 </div>
 
@@ -29,7 +29,7 @@ This indicator represents the percentage of women who have received secondary or
 </div>
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2014</div>
+  <div style="font-size: 12px">2011</div>
   <div style="font-size: 12px">2022</div>
 </div>
 
