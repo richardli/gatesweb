@@ -18,3 +18,10 @@
 .md-tabs__list li:last-child {
   margin-left: auto; /* move more info to very right */
 }
+
+/* Wider content column: the country overview pages show a 2 x n_years
+   map panel, which is unreadable at the Material default of 61rem.
+   NOTE: this applies site-wide, not just to Ethiopia. */
+.md-grid {
+  max-width: 90rem;
+}

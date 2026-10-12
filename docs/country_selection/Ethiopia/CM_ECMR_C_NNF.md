@@ -31,7 +31,7 @@ This indicator represents the deaths per 1000 live births in the first month of 
 
 ## Trends over time
 
-One panel per region, showing the estimate at each survey with its 90% credible interval. Points are joined for readability; there is no estimate between surveys.
+One panel per region. Teal shows the region estimate at each survey; red shows the national estimate. Error bars are 90% credible intervals. Points are joined for readability; there is no estimate between surveys.
 
 <img src="../../../assets/images/ETH/CM_ECMR_C_NNF_trend_adm1.png" style="width: 95%">
 
@@ -41,7 +41,7 @@ One panel per region, showing the estimate at each survey with its 90% credible 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">2024 regions estimates</div>
-  <div style="font-size: 20px">Regions change since 2016</div>
+  <div style="font-size: 20px">Regions change since previous survey years</div>
 </div>
 
 ---
@@ -51,5 +51,9 @@ One panel per region, showing the estimate at each survey with its 90% credible 
 
 <img src="../../../assets/images/ETH/CM_ECMR_C_NNF_ridge_diff_adm1.png", style = "width: 47%;">
 
+</div>
+
+<div style="font-size: 13px; color:#555; margin-top:6px">
+Right: posterior change to 2024 from each earlier survey, one colour scale per period. Values to the right of zero are increases.
 </div>
 
