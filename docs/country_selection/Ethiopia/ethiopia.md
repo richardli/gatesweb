@@ -23,8 +23,11 @@ hide:
     <div style="display:grid; grid-template-columns:repeat(2, 1fr); text-align:center; font-weight:bold; font-size:15px; margin-bottom:2px;">
       <div>Regions</div><div>Zones</div>
     </div>
-    <div style="display:grid; grid-template-columns:repeat(6, 1fr); text-align:center; font-size:13px; color:#444;">
-      <div>2016</div><div>2019</div><div>2024</div><div>2016</div><div>2019</div><div>2024</div>
+    <div style="display:grid; grid-template-columns:repeat(6, 1fr); text-align:center; font-weight:bold; font-size:13px;">
+      <div>Baseline</div><div>Midpoint</div><div>Latest</div><div>Baseline</div><div>Midpoint</div><div>Latest</div>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(6, 1fr); text-align:center; font-size:11px; color:#444;">
+      <div>(2016)</div><div>(2019)</div><div>(2024)</div><div>(2016)</div><div>(2019)</div><div>(2024)</div>
     </div>
   </div>
   <div style="flex:0 0 150px;"></div>
