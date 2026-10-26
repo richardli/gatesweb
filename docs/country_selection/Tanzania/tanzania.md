@@ -6,30 +6,30 @@ hide:
 # Tanzania
 
 <div class="pdf-link" style = "text-align: right; margin-top: -50px; margin-bottom: 50px">
-  <a href="https://github.com/LucyXuu/gatesweb/releases/download/v2025.11.20/Multi-Indicator-SAE-Tanzania.pdf" target="_blank" >📄 Download Report</a>
+  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2025.11.20/Multi-Indicator-SAE-Tanzania-2015-2022.pdf" target="_blank" >&#128196; Download Report</a>
 </div>
 
 <div style="text-align:right; margin-top:-20px; margin-bottom:30px">
-  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2025.11.20/TZA_combined_estimates.csv" download>📊 Download Estimates as CSV</a>
+  <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2025.11.20/TZA_combined_estimates.csv" download>&#128202; Download Estimates as CSV</a>
 </div>
 
 <div style="text-align:right; margin-top:-20px; margin-bottom:30px">
-  <a href="https://rsc.stat.washington.edu/app_direct/indicatorcomparison/?country=Tanzania" target="_blank">📈 View Indicator Comparison Plots</a>
+  <a href="https://rsc.stat.washington.edu/app_direct/indicatorcomparison/?country=Tanzania" target="_blank">&#128200; View Indicator Comparison Plots</a>
 </div>
 
-<div style="width: 77%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 120px">
+<div style="width: 87%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 70px">
   <div>Regions</div>
   <div>Districts</div>
 </div>
 
-<div style="width: 77%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 120px">
+<div style="width: 87%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 70px">
   <div>Baseline</div>
   <div>Latest</div>
   <div>Baseline</div>
   <div>Latest</div>
 </div>
 
-<div style="width: 77%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-size: 12px; margin-left: 120px">
+<div style="width: 87%; display:grid; grid-template-columns: repeat(4, 1fr); gap: 0px; text-align:center; font-size: 12px; margin-left: 70px">
   <div>(2015)</div>
   <div>(2022)</div>
   <div>(2015)</div>
@@ -298,10 +298,7 @@ hide:
 <div style="display:flex; align-items:center;">
   <a href="../HC_WIXQ_P_12Q" style="width:110px; font-weight:bold; font-size:12px;">
     <div>
-     Lowest 2
-    </div>
-   <div>
-      Wealth Quintiles
+      Lowest 2 Wealth Quintiles
     </div>
   </a>
   <img src="../../../assets/images/TZA/HC_WIXQ_P_12Q.png" style="height: 390px;">
@@ -324,6 +321,22 @@ hide:
   <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
     <img src="../../../assets/images/TZA/CM_ECMR_C_NNF_legend.png" style="height: 190px; width: 60px;">
     <img src="../../../assets/images/TZA/CM_ECMR_C_NNF_ci_legend.png" style="height: 190px; width: 60px;">
+  </div>
+</div>
+
+---
+
+<!-- CM_ECMR_C_U5F !-->
+<div style="display:flex; align-items:center;">
+  <a href="../CM_ECMR_C_U5F" style="width:110px; font-weight:bold; font-size:12px;">
+    <div>
+      Under-5 Mortality
+    </div>
+  </a>
+  <img src="../../../assets/images/TZA/CM_ECMR_C_U5F.png" style="height: 390px;">
+  <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width: 100px;">
+    <img src="../../../assets/images/TZA/CM_ECMR_C_U5F_legend.png" style="height: 190px; width: 60px;">
+    <img src="../../../assets/images/TZA/CM_ECMR_C_U5F_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
 
@@ -358,3 +371,4 @@ hide:
     <img src="../../../assets/images/TZA/CN_NUTS_C_WH2_ci_legend.png" style="height: 190px; width: 60px;">
   </div>
 </div>
+
