@@ -42,8 +42,8 @@ This indicator represents the percentage of deliveries that occurred in public f
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
-  <div style="font-size: 20px">Latest districts estimates</div>
-  <div style="font-size: 20px">Districts change since baseline</div>
+  <div style="font-size: 20px">Latest regions estimates</div>
+  <div style="font-size: 20px">Regions change since baseline</div>
 </div>
 
 ---
@@ -59,8 +59,8 @@ This indicator represents the percentage of deliveries that occurred in public f
 
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
-  <div style="font-size: 20px">Latest traditional authorities estimates</div>
-  <div style="font-size: 20px">Traditional Authorities change since baseline</div>
+  <div style="font-size: 20px">Latest districts estimates</div>
+  <div style="font-size: 20px">Districts change since baseline</div>
 </div>
 
 ---

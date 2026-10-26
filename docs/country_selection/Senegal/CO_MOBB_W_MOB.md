@@ -13,6 +13,7 @@ This indicator represents the percentage of women who own a mobile phone
   <div style="font-size: 20px">Latest</div>
 </div>
 
+
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
   <div style="font-size: 12px">2019</div>
   <div style="font-size: 12px">2023</div>
@@ -29,6 +30,7 @@ This indicator represents the percentage of women who own a mobile phone
   <div style="font-size: 20px">Latest</div>
 </div>
 
+
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
   <div style="font-size: 12px">2019</div>
   <div style="font-size: 12px">2023</div>
@@ -39,31 +41,34 @@ This indicator represents the percentage of women who own a mobile phone
 
 ## Ridge Plot
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Latest regions estimates</div>
-  <div style="font-size: 20px">Regions change since Baseline</div>
+  <div style="font-size: 20px">Regions change since baseline</div>
 </div>
 
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/SEN/CO_MOBB_W_MOB_ridge_adm1.png", style = "width: 47%">
+<img src="../../../assets/images/SEN/CO_MOBB_W_MOB_ridge_adm1.png", style = "width: 47%;">
 
-<img src="../../../assets/images/SEN/CO_MOBB_W_MOB_ridge_adm1_diff.png", style = "width: 47%">
+<img src="../../../assets/images/SEN/CO_MOBB_W_MOB_ridge_diff_adm1.png", style = "width: 47%;">
 
 </div>
 
 <hr style="height: 1px; background-color: #8c8c8cff; border: none; margin: 20px 0; margin-bottom: 100px; margin-top: 70px;">
 
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Departments estimates in 2023</div>
-  <div style="font-size: 20px">Departments change since 2019<</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Latest departments estimates</div>
+  <div style="font-size: 20px">Departments change since baseline</div>
 </div>
 
 ---
 
 <div style="display: flex">
 <img src="../../../assets/images/SEN/CO_MOBB_W_MOB_ridge_adm2.png", style = "width: 47%">
-<img src="../../../assets/images/SEN/CO_MOBB_W_MOB_ridge_adm2_diff.png", style = "width: 47%">
+
+<img src="../../../assets/images/SEN/CO_MOBB_W_MOB_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
+
 </div>
+

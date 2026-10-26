@@ -203,6 +203,16 @@ hide:
   </div>
 </div>
 
+<!-- CM_ECMR_C_U5F !-->
+<div style="display:flex; align-items:center; flex-wrap:nowrap; gap:10px; margin:0; padding:12px 0; line-height:0; border-top:1px solid rgba(0,0,0,.08);">
+  <a href="../CM_ECMR_C_U5F" style="flex:0 0 120px; font-weight:bold; font-size:13px; line-height:1.3;">Under-5 Mortality</a>
+  <img src="../../../assets/images/ETH/CM_ECMR_C_U5F.png" style="flex:1 1 0; min-width:0; width:100%; height:auto; display:block; margin:0;">
+  <div style="flex:0 0 150px; display:flex; justify-content:center; align-items:center; gap:6px;">
+    <img src="../../../assets/images/ETH/CM_ECMR_C_U5F_legend.png" style="height:170px; margin:0;">
+    <img src="../../../assets/images/ETH/CM_ECMR_C_U5F_ci_legend.png" style="height:170px; margin:0;">
+  </div>
+</div>
+
 <!-- CN_NUTS_C_HA2 !-->
 <div style="display:flex; align-items:center; flex-wrap:nowrap; gap:10px; margin:0; padding:12px 0; line-height:0; border-top:1px solid rgba(0,0,0,.08);">
   <a href="../CN_NUTS_C_HA2" style="flex:0 0 120px; font-weight:bold; font-size:13px; line-height:1.3;">Stunting prevalence</a>

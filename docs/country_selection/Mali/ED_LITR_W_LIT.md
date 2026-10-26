@@ -13,13 +13,13 @@ This indicator represents the percentage of women who are literate
   <div style="font-size: 20px">Latest</div>
 </div>
 
+
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
   <div style="font-size: 12px">2018</div>
   <div style="font-size: 12px">2023</div>
 </div>
 
 <iframe src="https://uw-statistics.github.io/gatesweb_html1/MLI/ED_LITR_W_LIT_detail.html" style = "width: 2000px; height: 820px"></iframe>
-
 
 ---
 
@@ -29,6 +29,7 @@ This indicator represents the percentage of women who are literate
   <div style="font-size: 20px">Baseline</div>
   <div style="font-size: 20px">Latest</div>
 </div>
+
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
   <div style="font-size: 12px">2018</div>
@@ -40,7 +41,7 @@ This indicator represents the percentage of women who are literate
 
 ## Ridge Plot
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Latest regions estimates</div>
   <div style="font-size: 20px">Regions change since baseline</div>
 </div>
@@ -57,9 +58,9 @@ This indicator represents the percentage of women who are literate
 <hr style="height: 1px; background-color: #8c8c8cff; border: none; margin: 20px 0; margin-bottom: 100px; margin-top: 70px;">
 
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Latest Cercles estimates</div>
-  <div style="font-size: 20px">Cercles change since baseline</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 20px">Latest cercles estimates</div>
+  <div style="font-size: 20px">cercles change since baseline</div>
 </div>
 
 ---
@@ -70,3 +71,4 @@ This indicator represents the percentage of women who are literate
 <img src="../../../assets/images/MLI/ED_LITR_W_LIT_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 
 </div>
+

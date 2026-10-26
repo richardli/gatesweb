@@ -8,14 +8,15 @@ This indicator represents the percentage of children 12-23 months with no vaccin
 
 ## Prevalence map
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
   <div style="font-size: 20px">Latest</div>
 </div>
 
+
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2014</div>
   <div style="font-size: 12px">2019</div>
+  <div style="font-size: 12px">2025</div>
 </div>
 
 <iframe src="https://uw-statistics.github.io/gatesweb_html2/RWA/CH_VACC_C_NON_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -24,14 +25,15 @@ This indicator represents the percentage of children 12-23 months with no vaccin
 
 ## Width of 90% Confidence Interval
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
   <div style="font-size: 20px">Latest</div>
 </div>
 
+
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2014</div>
   <div style="font-size: 12px">2019</div>
+  <div style="font-size: 12px">2025</div>
 </div>
 
 <iframe src="https://uw-statistics.github.io/gatesweb_html2/RWA/CH_VACC_C_NON_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
@@ -39,26 +41,26 @@ This indicator represents the percentage of children 12-23 months with no vaccin
 
 ## Ridge Plot
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Latest provinces estimates</div>
-  <div style="font-size: 20px">Provinces change since Baseline</div>
+  <div style="font-size: 20px">Provinces change since baseline</div>
 </div>
 
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/RWA/CH_VACC_C_NON_ridge_adm1.png", style = "width: 47%">
+<img src="../../../assets/images/RWA/CH_VACC_C_NON_ridge_adm1.png", style = "width: 47%;">
 
-<img src="../../../assets/images/RWA/CH_VACC_C_NON_ridge_diff_adm1.png", style = "width: 47%">
+<img src="../../../assets/images/RWA/CH_VACC_C_NON_ridge_diff_adm1.png", style = "width: 47%;">
 
 </div>
 
 <hr style="height: 1px; background-color: #8c8c8cff; border: none; margin: 20px 0; margin-bottom: 100px; margin-top: 70px;">
 
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Latest districts estimates</div>
-  <div style="font-size: 20px">Districts change since Baseline</div>
+  <div style="font-size: 20px">Districts change since baseline</div>
 </div>
 
 ---
@@ -69,3 +71,4 @@ This indicator represents the percentage of children 12-23 months with no vaccin
 <img src="../../../assets/images/RWA/CH_VACC_C_NON_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
 
 </div>
+

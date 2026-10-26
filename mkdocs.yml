@@ -50,10 +50,11 @@ nav:
       - Lowest 2 Wealth Quintiles: country_selection/Burkina Faso/HC_WIXQ_P_12Q.md
     - Health Outcome:
       - Neonatal Mortality: country_selection/Burkina Faso/CM_ECMR_C_NNF.md
+      - Under-5 Mortality: country_selection/Burkina Faso/CM_ECMR_C_U5F.md
       - Stunting prevalence: country_selection/Burkina Faso/CN_NUTS_C_HA2.md
-      - Wasting prevalence: country_selection/Burkina Faso/CN_NUTS_C_WH2.md
+      - Wasting prevalence: country_selection/Burkina Faso/CN_NUTS_C_WH2.md 
 
-  - DRC:
+  - Congo Democratic Republic:
     - Overview: country_selection/Congo Democratic Republic/congo_democratic_republic.md
     - Maternal Health:
       - Modern Contraception: country_selection/Congo Democratic Republic/FP_CUSM_W_MOD.md
@@ -77,8 +78,9 @@ nav:
       - Lowest 2 Wealth Quintiles: country_selection/Congo Democratic Republic/HC_WIXQ_P_12Q.md
     - Health Outcome:
       - Neonatal Mortality: country_selection/Congo Democratic Republic/CM_ECMR_C_NNF.md
+      - Under-5 Mortality: country_selection/Congo Democratic Republic/CM_ECMR_C_U5F.md
       - Stunting prevalence: country_selection/Congo Democratic Republic/CN_NUTS_C_HA2.md
-      - Wasting prevalence: country_selection/Congo Democratic Republic/CN_NUTS_C_WH2.md
+      - Wasting prevalence: country_selection/Congo Democratic Republic/CN_NUTS_C_WH2.md 
 
   - Ethiopia:
     - Overview: country_selection/Ethiopia/ethiopia.md
@@ -102,6 +104,7 @@ nav:
       - Lowest 2 Wealth Quintiles: country_selection/Ethiopia/HC_WIXQ_P_12Q.md
     - Health Outcome:
       - Neonatal Mortality: country_selection/Ethiopia/CM_ECMR_C_NNF.md
+      - Under-5 Mortality: country_selection/Ethiopia/CM_ECMR_C_U5F.md
       - Stunting prevalence: country_selection/Ethiopia/CN_NUTS_C_HA2.md
       - Wasting prevalence: country_selection/Ethiopia/CN_NUTS_C_WH2.md
 
@@ -129,8 +132,9 @@ nav:
       - Lowest 2 Wealth Quintiles: country_selection/Kenya/HC_WIXQ_P_12Q.md
     - Health Outcome:
       - Neonatal Mortality: country_selection/Kenya/CM_ECMR_C_NNF.md
+      - Under-5 Mortality: country_selection/Kenya/CM_ECMR_C_U5F.md
       - Stunting prevalence: country_selection/Kenya/CN_NUTS_C_HA2.md
-      - Wasting prevalence: country_selection/Kenya/CN_NUTS_C_WH2.md
+      - Wasting prevalence: country_selection/Kenya/CN_NUTS_C_WH2.md 
 
   - Mozambique:
     - Overview: country_selection/Mozambique/mozambique.md
@@ -156,8 +160,10 @@ nav:
       - Lowest 2 Wealth Quintiles: country_selection/Mozambique/HC_WIXQ_P_12Q.md
     - Health Outcome:
       - Neonatal Mortality: country_selection/Mozambique/CM_ECMR_C_NNF.md
+      - Under-5 Mortality: country_selection/Mozambique/CM_ECMR_C_U5F.md
       - Stunting prevalence: country_selection/Mozambique/CN_NUTS_C_HA2.md
-      - Wasting prevalence: country_selection/Mozambique/CN_NUTS_C_WH2.md
+      - Wasting prevalence: country_selection/Mozambique/CN_NUTS_C_WH2.md 
+
 
   - Nigeria:
     - Overview: country_selection/Nigeria/nigeria.md
@@ -183,8 +189,10 @@ nav:
       - Lowest 2 Wealth Quintiles: country_selection/Nigeria/HC_WIXQ_P_12Q.md
     - Health Outcome:
       - Neonatal Mortality: country_selection/Nigeria/CM_ECMR_C_NNF.md
+      - Under-5 Mortality: country_selection/Nigeria/CM_ECMR_C_U5F.md
       - Stunting prevalence: country_selection/Nigeria/CN_NUTS_C_HA2.md
-      - Wasting prevalence: country_selection/Nigeria/CN_NUTS_C_WH2.md
+      - Wasting prevalence: country_selection/Nigeria/CN_NUTS_C_WH2.md 
+
 
   - Rwanda:
     - Overview: country_selection/Rwanda/rwanda.md
@@ -210,8 +218,10 @@ nav:
       - Lowest 2 Wealth Quintiles: country_selection/Rwanda/HC_WIXQ_P_12Q.md
     - Health Outcome:
       - Neonatal Mortality: country_selection/Rwanda/CM_ECMR_C_NNF.md
+      - Under-5 Mortality: country_selection/Rwanda/CM_ECMR_C_U5F.md
       - Stunting prevalence: country_selection/Rwanda/CN_NUTS_C_HA2.md
-      - Wasting prevalence: country_selection/Rwanda/CN_NUTS_C_WH2.md
+      - Wasting prevalence: country_selection/Rwanda/CN_NUTS_C_WH2.md 
+
 
   - Senegal:
     - Overview: country_selection/Senegal/senegal.md
@@ -237,8 +247,9 @@ nav:
       - Lowest 2 Wealth Quintiles: country_selection/Senegal/HC_WIXQ_P_12Q.md
     - Health Outcome:
       - Neonatal Mortality: country_selection/Senegal/CM_ECMR_C_NNF.md
+      - Under-5 Mortality: country_selection/Senegal/CM_ECMR_C_U5F.md
       - Stunting prevalence: country_selection/Senegal/CN_NUTS_C_HA2.md
-      - Wasting prevalence: country_selection/Senegal/CN_NUTS_C_WH2.md
+      - Wasting prevalence: country_selection/Senegal/CN_NUTS_C_WH2.md 
 
   - Tanzania:
     - Overview: country_selection/Tanzania/tanzania.md
@@ -264,8 +275,9 @@ nav:
       - Lowest 2 Wealth Quintiles: country_selection/Tanzania/HC_WIXQ_P_12Q.md
     - Health Outcome:
       - Neonatal Mortality: country_selection/Tanzania/CM_ECMR_C_NNF.md
+      - Under-5 Mortality: country_selection/Tanzania/CM_ECMR_C_U5F.md
       - Stunting prevalence: country_selection/Tanzania/CN_NUTS_C_HA2.md
-      - Wasting prevalence: country_selection/Tanzania/CN_NUTS_C_WH2.md
+      - Wasting prevalence: country_selection/Tanzania/CN_NUTS_C_WH2.md 
   - Zambia:
     - Overview: country_selection/Zambia/zambia.md
     - Maternal Health:
@@ -290,8 +302,9 @@ nav:
       - Lowest 2 Wealth Quintiles: country_selection/Zambia/HC_WIXQ_P_12Q.md
     - Health Outcome:
       - Neonatal Mortality: country_selection/Zambia/CM_ECMR_C_NNF.md
+      - Under-5 Mortality: country_selection/Zambia/CM_ECMR_C_U5F.md
       - Stunting prevalence: country_selection/Zambia/CN_NUTS_C_HA2.md
-      - Wasting prevalence: country_selection/Zambia/CN_NUTS_C_WH2.md
+      - Wasting prevalence: country_selection/Zambia/CN_NUTS_C_WH2.md 
   
   - More Countries:
     - Mali:
@@ -318,8 +331,9 @@ nav:
         - Lowest 2 Wealth Quintiles: country_selection/Mali/HC_WIXQ_P_12Q.md
       - Health Outcome:
         - Neonatal Mortality: country_selection/Mali/CM_ECMR_C_NNF.md
+        - Under-5 Mortality: country_selection/Mali/CM_ECMR_C_U5F.md
         - Stunting prevalence: country_selection/Mali/CN_NUTS_C_HA2.md
-        - Wasting prevalence: country_selection/Mali/CN_NUTS_C_WH2.md
+        - Wasting prevalence: country_selection/Mali/CN_NUTS_C_WH2.md 
     - Sierra Leone:
       - Overview: country_selection/Sierra Leone/sierra_leone.md
       - Maternal Health:
@@ -344,8 +358,9 @@ nav:
         - Lowest 2 Wealth Quintiles: country_selection/Sierra Leone/HC_WIXQ_P_12Q.md
       - Health Outcome:
         - Neonatal Mortality: country_selection/Sierra Leone/CM_ECMR_C_NNF.md
+        - Under-5 Mortality: country_selection/Sierra Leone/CM_ECMR_C_U5F.md
         - Stunting prevalence: country_selection/Sierra Leone/CN_NUTS_C_HA2.md
-        - Wasting prevalence: country_selection/Sierra Leone/CN_NUTS_C_WH2.md
+        - Wasting prevalence: country_selection/Sierra Leone/CN_NUTS_C_WH2.md 
     - Malawi:
       - Overview: country_selection/Malawi/malawi.md
       - Maternal Health:
@@ -370,9 +385,10 @@ nav:
         - Lowest 2 Wealth Quintiles: country_selection/Malawi/HC_WIXQ_P_12Q.md
       - Health Outcome:
         - Neonatal Mortality: country_selection/Malawi/CM_ECMR_C_NNF.md
+        - Under-5 Mortality: country_selection/Malawi/CM_ECMR_C_U5F.md
         - Stunting prevalence: country_selection/Malawi/CN_NUTS_C_HA2.md
-        - Wasting prevalence: country_selection/Malawi/CN_NUTS_C_WH2.md
-  
+        - Wasting prevalence: country_selection/Malawi/CN_NUTS_C_WH2.md 
+
   
   - More Info:
     - Methodology: add_info/methods.md
